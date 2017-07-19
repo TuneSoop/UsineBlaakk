@@ -1,0 +1,2166 @@
+[RASE]
+UID=36265074
+enabled=1
+on top=0
+opacity=1
+left=225.744522094727
+top=10
+width=118
+height=559.248291015625
+zoom scale=1.81136000156403
+transparent=0
+background color=clDarkPanelBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=cl15
+border width=3
+rounded=0
+round size=0
+show caption=1
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=cl15
+minimized=0
+HeightBeforeMinimize=550.967224121094
+WidthBeforeMinimize=182
+auto resize=1
+auto resize margin=2
+auto reorganize=1
+reorganize margin=1
+reorganize interspace=2.00132393836975
+name=MIX BUSS
+always calculated=1
+saved in preset=1
+rack input=1
+rack output=1
+presets panel=0
+show when active on grid=1
+fit grid line number=0
+rack type=0
+
+[RA]
+UID=36265074
+VISIBLE=1
+MINIMIZED=0
+CNT=1
+
+[RATBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RATBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RATBPRESETSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAPRESETSSE]
+UID=36265196
+edit enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=0
+top=20
+width=161
+height=85
+zoom scale=1
+transparent=0
+background color=clMoreLitePanelBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=clControlBorder
+border width=0
+rounded=1
+round size=4
+show caption=1
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=clMoreLitePanelBack
+show toolbar=1
+toolbar size=15
+minimized=0
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+show border button=0
+button color=clControlBack
+button font color=clFont
+button border color=clControlBorder
+show cmd=1
+show border cmd=0
+cmd ON color=clURed
+cmd OFF color=clControlBack
+cmd font ON color=clFont
+cmd font OFF color=clFont
+cmd border ON color=clControlBorder
+cmd border OFF color=clControlBorder
+silent edit=0
+
+[RAPRESETS]
+UID=36265196
+VISIBLE=0
+MINIMIZED=0
+CURRENT CAPTION=
+CURRENT NUM=0
+
+[RAPRESETSTBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAPRESETSTBPREVIOUSSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAPRESETSTBNEXTSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE1-]
+PATCHTYPE=0
+VERSION=73
+FNAM=Y:\PORTABLE\Usine2\Usine Library\Audio Thru.pat
+ORIGINDEVICE=
+NBPG=6
+OFFSETX=0
+OFFSETY=0
+UID=19009319
+ID0=1
+L0=208
+T0=149
+ID1=2
+L1=462
+T1=147
+ID2=1
+L2=206
+T2=195
+ID3=2
+L3=464
+T3=191
+QIDX4=1
+ID4=261
+L4=326
+T4=146
+ID5=3
+L5=214
+T5=249
+C0=0400030001000000
+CSRCNAME0=OUT 1
+CTARGNAME0=AUDIO 1
+C1=0400040003000000
+CSRCNAME1=OUT 2
+CTARGNAME1=AUDIO 2
+C2=0000000004000100
+CSRCNAME2=AUDIO 1
+CTARGNAME2=IN 1
+C3=0200000004000200
+CSRCNAME3=AUDIO 2
+CTARGNAME3=IN 2
+C4=0500010004000500
+CSRCNAME4=FADER 1
+CTARGNAME4=GAIN
+NBCO=5
+
+[RAE1-PASE]
+name=Audio Thru
+where=0
+saved in preset=1
+can be randomized=1
+undo enabled=1
+shared=0
+presets panel=0
+enabled=1
+on top=0
+opacity=1
+left=4
+top=307.744354248047
+width=110
+height=20
+zoom scale=1
+transparent=0
+background color=clLiterPanelBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=cl7
+border width=0
+rounded=0
+round size=0
+show caption=1
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=cl7
+show toolbar=1
+toolbar size=16
+minimized=1
+HeightBeforeMinimize=70
+WidthBeforeMinimize=174
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+
+[RAE1-PRESETSSE]
+UID=9831386
+edit enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=3
+top=23
+width=161
+height=85
+zoom scale=1
+transparent=0
+background color=clControlBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=clControlBorder
+border width=0
+rounded=0
+round size=0
+show caption=1
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=clControlBorder
+show toolbar=1
+toolbar size=15
+minimized=0
+HeightBeforeMinimize=86
+WidthBeforeMinimize=161
+show border button=0
+button color=clButton
+button font color=clFont
+button border color=clControlBorder
+show cmd=1
+show border cmd=0
+cmd ON color=clURed
+cmd OFF color=clButton
+cmd font ON color=clFont
+cmd font OFF color=clFont
+cmd border ON color=clControlBorder
+cmd border OFF color=clControlBorder
+silent edit=0
+
+[RAE1-PRESETS]
+UID=9831386
+VISIBLE=0
+MINIMIZED=0
+CURRENT CAPTION=4-really slowdown
+CURRENT NUM=0
+
+[RAE1-PRESETSTBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE1-PRESETSTBPREVIOUSSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE1-PRESETSTBNEXTSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE1-0]
+UID=10194441
+
+[RAE1-1]
+UID=29630202
+
+[RAE1-2]
+UID=377617
+
+[RAE1-3]
+UID=379004
+
+[RAE1-4]
+UID=65235841
+Vbypass=0
+Vgain=0
+Vmute=0
+Vsmooth=1
+INDEXsmooth speed=2
+
+[RAE1-5]
+UID=4555910
+saved in preset=1
+can be randomized=1
+INDEXvisible=1
+Vfader=0
+Vmin=-80
+Vmax=12
+Tcaption=gain
+Tsymbol=dB
+COLcolor=clDataFlow
+INDEXprec=1
+INDEXlogscale=2
+Vdefault val=0
+Vinc/dec val=1
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.321610689163208
+Vmouse y=0
+Vauto reset=0
+Vallow drop=0
+
+[RAE1-5faderSE]
+UID=4556195
+edit enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=7
+top=28
+width=161
+height=28
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=clControlBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=clControlBorder
+border width=3
+rounded=0
+round size=0
+show caption=1
+caption font color=clFont
+caption font size factor=1
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+text align=1
+show fader=1
+fader color=cl7
+dashed fader=1
+show cursor=1
+cursor color=clFaderCursor
+cursor width=4
+show value=1
+value font color=clFont
+value font size factor=1
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RAE1-5mouse dwnSE]
+UID=4556700
+
+[RAE1-5dbl clickSE]
+UID=4556739
+
+[RAE1-5mouse xSE]
+UID=4556774
+
+[RAE1-5mouse ySE]
+UID=4556804
+
+[RAE1-CPSE]
+enabled=1
+on top=0
+opacity=1
+left=4
+top=307.744354248047
+width=110
+height=20
+zoom scale=1
+transparent=0
+background color=clLiterPanelBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=cl7
+border width=0
+rounded=0
+round size=0
+show caption=1
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=cl7
+show toolbar=1
+toolbar size=16
+minimized=1
+HeightBeforeMinimize=70
+WidthBeforeMinimize=174
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+name=Audio Thru
+where=0
+saved in preset=1
+can be randomized=1
+undo enabled=1
+shared=0
+presets panel=0
+
+[RAE1-CPTOOLBARTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE1-CPTOOLBARTBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE1-CPTOOLBARTBPRESETSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+[RADINSE]
+UID=3670837
+left=4
+top=24
+width=116.92407989502
+height=375
+zoom scale=0.751314759254456
+minimized=0
+HeightBeforeMinimize=352
+WidthBeforeMinimize=111
+saved in preset=1
+show vu-meter and gain=1
+
+[RADIN]
+UID=3670837
+VISIBLE=1
+MINIMIZED=0
+CNT=16
+ENABLED0=1
+MINI0=1
+SRA0=2
+ENABLED1=1
+MINI1=1
+SRA1=3
+ENABLED2=1
+MINI2=1
+SRA2=4
+ENABLED3=1
+MINI3=1
+SRA3=5
+ENABLED4=1
+MINI4=1
+SRA4=6
+ENABLED5=1
+MINI5=1
+SRA5=7
+ENABLED6=1
+MINI6=1
+SRA6=8
+ENABLED7=1
+MINI7=1
+SRA7=9
+ENABLED8=1
+MINI8=1
+SRA8=10
+ENABLED9=1
+MINI9=0
+SRA9=12
+ENABLED10=1
+MINI10=1
+SRA10=13
+ENABLED11=1
+MINI11=1
+SRA11=14
+ENABLED12=1
+MINI12=1
+SRA12=15
+ENABLED13=1
+MINI13=1
+SRA13=11
+ENABLED14=1
+MINI14=1
+SRA14=16
+ENABLED15=1
+MINI15=1
+SRA15=17
+
+[RADINTBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINTBPRESETSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINGAINgainSE]
+UID=36281130
+name=19
+saved in preset=1
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RADINGAIN]
+Vgain=0
+
+[RADINITEM0SE]
+minimized=1
+HeightBeforeMinimize=39
+WidthBeforeMinimize=107
+saved in preset=1
+
+[RADINITEM0]
+UID=40926518
+VISIBLE=1
+MINIMIZED=1
+
+[RADINITEM0TBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINITEM0TBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINGAIN0gainSE]
+UID=40927982
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RADINGAIN0]
+Vgain=0
+
+[RADINITEM1SE]
+minimized=1
+HeightBeforeMinimize=39
+WidthBeforeMinimize=109
+saved in preset=1
+
+[RADINITEM1]
+UID=27967210
+VISIBLE=1
+MINIMIZED=1
+
+[RADINITEM1TBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINITEM1TBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINGAIN1gainSE]
+UID=27969495
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RADINGAIN1]
+Vgain=0
+
+[RADINITEM2SE]
+minimized=1
+HeightBeforeMinimize=35
+WidthBeforeMinimize=107
+saved in preset=1
+
+[RADINITEM2]
+UID=68535796
+VISIBLE=1
+MINIMIZED=1
+
+[RADINITEM2TBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINITEM2TBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINGAIN2gainSE]
+UID=68537927
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RADINGAIN2]
+Vgain=0
+
+[RADINITEM3SE]
+minimized=1
+HeightBeforeMinimize=35
+WidthBeforeMinimize=107
+saved in preset=1
+
+[RADINITEM3]
+UID=24054640
+VISIBLE=1
+MINIMIZED=1
+
+[RADINITEM3TBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINITEM3TBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINGAIN3gainSE]
+UID=24056379
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RADINGAIN3]
+Vgain=0
+
+[RADINITEM4SE]
+minimized=1
+HeightBeforeMinimize=35
+WidthBeforeMinimize=107
+saved in preset=1
+
+[RADINITEM4]
+UID=50624042
+VISIBLE=1
+MINIMIZED=1
+
+[RADINITEM4TBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINITEM4TBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINGAIN4gainSE]
+UID=50625488
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RADINGAIN4]
+Vgain=0
+
+[RADINITEM5SE]
+minimized=1
+HeightBeforeMinimize=35
+WidthBeforeMinimize=107
+saved in preset=1
+
+[RADINITEM5]
+UID=74710110
+VISIBLE=1
+MINIMIZED=1
+
+[RADINITEM5TBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINITEM5TBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINGAIN5gainSE]
+UID=74711450
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RADINGAIN5]
+Vgain=0
+
+[RADINITEM6SE]
+minimized=1
+HeightBeforeMinimize=35
+WidthBeforeMinimize=107
+saved in preset=1
+
+[RADINITEM6]
+UID=27006128
+VISIBLE=1
+MINIMIZED=1
+
+[RADINITEM6TBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINITEM6TBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINGAIN6gainSE]
+UID=27007484
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RADINGAIN6]
+Vgain=0
+
+[RADINITEM7SE]
+minimized=1
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+saved in preset=1
+
+[RADINITEM7]
+UID=59488382
+VISIBLE=1
+MINIMIZED=1
+
+[RADINITEM7TBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINITEM7TBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINGAIN7gainSE]
+UID=59489009
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RADINGAIN7]
+Vgain=0
+
+[RADINITEM8SE]
+minimized=1
+HeightBeforeMinimize=35
+WidthBeforeMinimize=107
+saved in preset=1
+
+[RADINITEM8]
+UID=9309055
+VISIBLE=1
+MINIMIZED=1
+
+[RADINITEM8TBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINITEM8TBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINGAIN8gainSE]
+UID=9310945
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RADINGAIN8]
+Vgain=0
+
+[RADINITEM9SE]
+minimized=0
+HeightBeforeMinimize=37
+WidthBeforeMinimize=112.92407989502
+saved in preset=1
+
+[RADINITEM9]
+UID=65049152
+VISIBLE=1
+MINIMIZED=0
+
+[RADINITEM9TBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINITEM9TBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINGAIN9gainSE]
+UID=65049756
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RADINGAIN9]
+Vgain=0
+
+[RADINITEM10SE]
+minimized=1
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+saved in preset=1
+
+[RADINITEM10]
+UID=83343956
+VISIBLE=1
+MINIMIZED=1
+
+[RADINITEM10TBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINITEM10TBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINGAIN10gainSE]
+UID=83344589
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RADINGAIN10]
+Vgain=0
+
+[RADINITEM11SE]
+minimized=1
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+saved in preset=1
+
+[RADINITEM11]
+UID=46379860
+VISIBLE=1
+MINIMIZED=1
+
+[RADINITEM11TBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINITEM11TBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINGAIN11gainSE]
+UID=46380509
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RADINGAIN11]
+Vgain=0
+
+[RADINITEM12SE]
+minimized=1
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+saved in preset=1
+
+[RADINITEM12]
+UID=22569276
+VISIBLE=1
+MINIMIZED=1
+
+[RADINITEM12TBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINITEM12TBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINGAIN12gainSE]
+UID=22569985
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RADINGAIN12]
+Vgain=0
+
+[RADINITEM13SE]
+minimized=1
+HeightBeforeMinimize=37
+WidthBeforeMinimize=137.527297973633
+saved in preset=1
+
+[RADINITEM13]
+UID=70522972
+VISIBLE=1
+MINIMIZED=1
+
+[RADINITEM13TBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINITEM13TBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINGAIN13gainSE]
+UID=70524361
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RADINGAIN13]
+Vgain=0
+
+[RADINITEM14SE]
+minimized=1
+HeightBeforeMinimize=35
+WidthBeforeMinimize=107
+saved in preset=1
+
+[RADINITEM14]
+UID=22622385
+VISIBLE=1
+MINIMIZED=1
+
+[RADINITEM14TBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINITEM14TBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINGAIN14gainSE]
+UID=22623909
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RADINGAIN14]
+Vgain=0
+
+[RADINITEM15SE]
+minimized=1
+HeightBeforeMinimize=35
+WidthBeforeMinimize=107
+saved in preset=1
+
+[RADINITEM15]
+UID=50710657
+VISIBLE=1
+MINIMIZED=1
+
+[RADINITEM15TBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINITEM15TBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINGAIN15gainSE]
+UID=50712034
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RADINGAIN15]
+Vgain=0
+
+[RADOUTSE]
+UID=36283279
+left=4
+top=423.515686035156
+width=111
+height=196
+zoom scale=0.672105073928833
+minimized=0
+HeightBeforeMinimize=200
+WidthBeforeMinimize=111
+saved in preset=1
+show on/off=0
+show mute=1
+show solo=1
+show vu-meter and gain=1
+
+[RADOUT]
+UID=36283279
+VISIBLE=1
+MINIMIZED=0
+CNT=1
+ENABLED0=1
+MINI0=1
+SPA0=STEREO OUT
+
+[RADOUTTBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADOUTTBPRESETSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADOUTGAINgainSE]
+UID=36283391
+name=19
+saved in preset=1
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RADOUTGAIN]
+Vgain=0.0458450317382812
+
+[RADOUTSOLOSSE]
+UID=36284108
+saved in preset=1
+inverse=0
+quantize=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+
+[RADOUTSOLO]
+VS=0
+
+[RADOUTMUTEMSE]
+UID=36284061
+saved in preset=1
+inverse=0
+quantize=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+
+[RADOUTMUTE]
+VM=0
+
+[RADOUTONOFFonSE]
+UID=36283733
+saved in preset=0
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+
+[RADOUTONOFF]
+Von=1
+
+[RADOUTITEM0SE]
+minimized=1
+HeightBeforeMinimize=35
+WidthBeforeMinimize=107
+saved in preset=1
+
+[RADOUTITEM0]
+UID=14391587
+VISIBLE=1
+MINIMIZED=1
+
+[RADOUTITEM0TBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADOUTITEM0TBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADOUTGAIN0gainSE]
+UID=14393829
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RADOUTGAIN0]
+Vgain=0
+
+[RADOUTMUTE0MSE]
+UID=14394157
+inverse=0
+quantize=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+
+[RADOUTMUTE0]
+VM=0
+
+[RADOUTSOLO0SSE]
+UID=14394641
+inverse=0
+quantize=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADOUTSOLO0]
+VS=0
+
+[RADOUTPRE0preSE]
+UID=14394395
+inverse=0
+quantize=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+
+[RADOUTPRE0]
+Vpre=0

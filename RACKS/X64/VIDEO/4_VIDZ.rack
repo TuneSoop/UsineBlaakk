@@ -1,0 +1,2662 @@
+[RA]
+FNAM=Y:\AUDIO\USINE\USINE3\RACKS\X64\VIDEO\4_VIDZ.rack
+VERSION=85
+UID=7276834820664782481
+VISIBLE=1
+MINIMIZED=0
+CNT=1
+
+[RASE]
+UID=7276834820664782481
+also visible in IB=0
+enabled=1
+on top=0
+opacity=1
+zoom scale=0.952381014823914
+left=2
+top=1
+width=283
+height=1128
+resize grip enabled=0
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+transparent=0
+background color=g2
+hilited color=4286743170
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=g2
+border width=0
+round size=0
+show caption=1
+caption font color=g11
+caption font size factor=0.600000023841858
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=g2
+show bottom bar=1
+minimized=0
+HeightBeforeMinimize=677
+WidthBeforeMinimize=112
+auto resize=0
+auto resize margin=2
+auto reorganize=1
+reorganize margin=0
+reorganize interspace=2
+name=4_VIDZ
+rack type=0
+always calculated=0
+calculation mode=1
+saved in preset=1
+rack input=1
+rack output=1
+presets panel=0
+show when active on grid=1
+fit grid line number=0
+
+[RATBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[RATBPRESETSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[RAPRESETSSE]
+UID=6087825695165704826
+also visible in IB=0
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+zoom scale=1
+left=0
+top=20
+width=161
+height=37
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+transparent=0
+background color=g4
+hilited color=4283321934
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=4282400832
+border width=0
+round size=0
+show caption=0
+caption font color=4288848546
+caption font size factor=0.600000023841858
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=g4
+show toolbar=1
+toolbar size=15
+mouse over=0
+show cmd=1
+silent edit=0
+
+[RAPRESETS]
+UID=6087825695165704826
+VISIBLE=0
+MINIMIZED=0
+VERSION=85
+NBPRESETS=0
+CURRENT NUM=0
+
+[NEXTBTNnext buttonSE]
+inverse=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+time code=0
+osc tag order=1
+osc mode=0
+
+[PREVIOUSBTNprevious buttonSE]
+inverse=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+time code=0
+osc tag order=1
+osc mode=0
+
+[RAE1-]
+PATCHTYPE=0
+VERSION=85
+USINE VERSION=Usine 3.0.134 Win64
+FNAM=Y:\AUDIO\USINE\USINE3\PATCHES\X64\VIDEO\4_VIDZ.pat
+ORIGINDEVICE=
+NBPG=26
+OFFSETX=22
+OFFSETY=91
+UID=3252932312398283374
+ID0=501
+L0=24
+T0=10
+ID1=2
+L1=309
+T1=8
+ID2=2
+L2=314
+T2=48
+ID3=422
+L3=335
+T3=94
+ID4=501
+L4=184
+T4=164
+ID5=422
+L5=457
+T5=187
+ID6=504
+L6=799
+T6=-2
+ID7=423
+L7=711
+T7=8
+ID8=504
+L8=799
+T8=37
+ID9=423
+L9=712
+T9=48
+ID10=501
+L10=337
+T10=273
+ID11=422
+L11=609
+T11=291
+ID12=501
+L12=551
+T12=375
+ID13=422
+L13=719
+T13=452
+ID14=504
+L14=800
+T14=83
+ID15=504
+L15=798
+T15=129
+ID16=423
+L16=707
+T16=96
+ID17=423
+L17=704
+T17=143
+ID18=518
+L18=194
+T18=47
+ID19=518
+L19=334
+T19=141
+ID20=518
+L20=485
+T20=253
+ID21=518
+L21=700
+T21=347
+ID22=3
+L22=9
+T22=567
+ID23=3
+L23=116
+T23=684
+ID24=172
+L24=125
+T24=-60
+ID25=172
+L25=490
+T25=333
+C0=0000020001000000
+CSRCNAME0=OUT 1
+CTARGNAME0=AUDIO OUT1
+C1=0000030002000000
+CSRCNAME1=OUT 2
+CTARGNAME1=AUDIO OUT2
+C2=1200020003000000
+CSRCNAME2=VIDEO OUT 1
+CTARGNAME2=QUICK LINK
+C3=1300020005000000
+CSRCNAME3=VIDEO OUT 1
+CTARGNAME3=QUICK LINK
+C4=0700000006000000
+CSRCNAME4=QUICK LINK
+CTARGNAME4=VIDEO OUT1
+C5=0900000008000000
+CSRCNAME5=QUICK LINK
+CTARGNAME5=VIDEO OUT2
+C6=140002000B000000
+CSRCNAME6=VIDEO OUT 1
+CTARGNAME6=QUICK LINK
+C7=150002000D000000
+CSRCNAME7=VIDEO OUT 1
+CTARGNAME7=QUICK LINK
+C8=100000000E000000
+CSRCNAME8=QUICK LINK
+CTARGNAME8=VIDEO OUT3
+C9=110000000F000000
+CSRCNAME9=QUICK LINK
+CTARGNAME9=VIDEO OUT4
+C10=0000050012000100
+CSRCNAME10=VIDEO OUT
+CTARGNAME10=VIDEO IN 1
+C11=1600010012000400
+CSRCNAME11=FADER 1
+CTARGNAME11=CENTER POINT X
+C12=1800010012000500
+CSRCNAME12=FADER 3
+CTARGNAME12=CENTER POINT Y
+C13=0400050013000100
+CSRCNAME13=VIDEO OUT
+CTARGNAME13=VIDEO IN 1
+C14=1700010013000400
+CSRCNAME14=FADER 2
+CTARGNAME14=CENTER POINT X
+C15=1800010013000500
+CSRCNAME15=CENTER POINT Y
+CTARGNAME15=CENTER POINT Y
+C16=0A00050014000100
+CSRCNAME16=VIDEO OUT
+CTARGNAME16=VIDEO IN 1
+C17=1600010014000400
+CSRCNAME17=CENTER POINT X
+CTARGNAME17=CENTER POINT X
+C18=1900010014000500
+CSRCNAME18=FADER 4
+CTARGNAME18=CENTER POINT Y
+C19=0C00050015000100
+CSRCNAME19=VIDEO OUT
+CTARGNAME19=VIDEO IN 1
+C20=1700010015000400
+CSRCNAME20=CENTER POINT X
+CTARGNAME20=CENTER POINT X
+C21=1900010015000500
+CSRCNAME21=CENTER POINT Y
+CTARGNAME21=CENTER POINT Y
+NBCO=22
+
+[RAE1-PASE]
+where=0
+name=4_VIDZ
+saved in preset=1
+show when active on grid=0
+can be randomized=1
+can be reset=1
+fast graphic render=0
+undo enabled=1
+shared=0
+presets panel=0
+also visible in IB=0
+enabled=1
+on top=0
+opacity=1
+zoom scale=1
+left=114
+top=22
+width=167
+height=896
+resize grip enabled=1
+IB left=0
+IB top=0
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+transparent=0
+background color=4280690214
+hilited color=4288322202
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4286414205
+border width=1
+round size=0
+show caption=1
+caption font color=4290822336
+caption font size factor=0.600000023841858
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=g6
+show toolbar=1
+toolbar size=16
+minimized=0
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[RAE1-PRESETSSE]
+UID=1661314885308630849
+also visible in IB=0
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+zoom scale=1
+left=3
+top=0
+width=161
+height=37
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+transparent=0
+background color=4282006074
+hilited color=4284308829
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=4283124555
+border width=0
+round size=0
+show caption=0
+caption font color=4290822336
+caption font size factor=0.600000023841858
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=4282006074
+show toolbar=1
+toolbar size=15
+mouse over=0
+show cmd=1
+silent edit=0
+
+[RAE1-PRESETS]
+UID=1661314885308630849
+VISIBLE=0
+MINIMIZED=0
+VERSION=85
+NBPRESETS=0
+CURRENT NUM=0
+
+[RAE1-0]
+UID=2457705930857771178
+saved in preset=1
+INDEXvisible=1
+Von=1
+Vaudio delay=1
+Vdimmer=1
+Vspeed=1
+Vmaster SMPTE=0
+Vplay loop=1
+INDEXsync=0
+Vauto restart=1
+INDEXplay button mode=0
+Vpause=0
+INDEXon activation=0
+INDEXat the end=0
+INDEXmode=0
+INDEXnum=2
+Vfps=30
+Vduration=125656
+INDEXsize reduction factor=0
+Vstart=0
+Vend=1
+Vjump to key frames=1
+Tshort filename=Beach3.mkv
+Tlong filename=Y:\VIDEOS\VIDEO\USINE\Beach\Beach3.mkv
+Vuser curve 1=0
+Vuser curve 2=0
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.419108361005783
+Vmouse y=0
+Vmouse wheel=0
+Vallow drop=0
+COLLAPS=0
+CNTDISPLAY=3
+IDISPLAY_0=Y:\VIDEOS\VIDEO\USINE\Beach\Beach1.mkv
+IDISPLAY_1=Y:\VIDEOS\VIDEO\USINE\Beach\Beach2.mkv
+IDISPLAY_2=Y:\VIDEOS\VIDEO\USINE\Beach\Beach3.mkv
+INDEXDISPLAY=2
+SZDDISPLAY=0
+
+[RAE1-0startSE]
+UID=1648918436030487316
+
+[RAE1-0endSE]
+UID=3563799022637456185
+
+[RAE1-0mouse dwnSE]
+UID=7504863156635737338
+
+[RAE1-0dbl clickSE]
+UID=9167626233799810335
+
+[RAE1-0mouse xSE]
+UID=4639281133026057536
+
+[RAE1-0mouse ySE]
+UID=3880696593945501025
+
+[RAE1-0mouse wheelSE]
+UID=5081834550320995717
+
+[RAE1-0CTRLSE]
+UID=6644831008987328466
+also visible in IB=0
+enabled=1
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+zoom scale=1
+left=3
+top=24
+width=161
+height=161
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=4278190080
+hilited color=4286743170
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4285098345
+border width=2
+round size=2
+show caption=1
+caption font color=g11
+caption font size factor=0.600000023841858
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=g5
+show toolbar=1
+toolbar size=16
+minimized=0
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+auto record on click=0
+is playing record=0
+mouse over=0
+show cursor=1
+cursor color=4288322202
+cursor width=2
+show grid=0
+grid color=2001817937
+full size grid=0
+H divisions=0
+V divisions=0
+wave color=4286743170
+dimmer min=0
+dimmer max=1
+dimmer scale=0
+dimmer curve type=0
+dimmer bezier curve=0
+speed min=0.00999999977648258
+speed max=10
+speed scale=1
+speed curve type=0
+speed bezier curve=0
+user1 min=0
+user1 max=1
+user1 scale=0
+user1 curve type=0
+user1 bezier curve=0
+user2 min=0
+user2 max=1
+user2 scale=0
+user2 curve type=0
+user2 bezier curve=0
+show top bar=1
+top bar color=4285098345
+top Bar height=10
+selector color=4286743170
+selector opacity=0.5
+selector width=8
+show markers=0
+marker bar color=4281413937
+marker color=4288322202
+marker random color=0
+marker width=2
+show marker caption=1
+
+[RAE1-0CTRL]
+UID=6644831008987328466
+VISIBLE=1
+MINIMIZED=0
+DST=0
+DEND=1
+ST=0
+END=1
+MKRCOUNT=0
+
+[RAE1-0CTRLTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[RAE1-0CTRLTBLOCKSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[RAE1-0CTRLTBPREVIOUSSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[RAE1-0CTRLTBNEXTSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[RAE1-0CTRLTBLISTSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[RAE1-1]
+UID=634385223930841817
+COLLAPS=0
+
+[RAE1-2]
+UID=171887309953142654
+COLLAPS=0
+
+[RAE1-3]
+UID=2547550368420744955
+Vin=0
+Tname=VIDEO1
+COLLAPS=3
+
+[RAE1-4]
+UID=1666885875532062594
+saved in preset=1
+INDEXvisible=1
+Von=1
+Vaudio delay=1
+Vdimmer=1
+Vspeed=1
+Vmaster SMPTE=0
+Vplay loop=1
+INDEXsync=0
+Vauto restart=1
+INDEXplay button mode=0
+Vpause=0
+INDEXon activation=0
+INDEXat the end=0
+INDEXmode=0
+INDEXnum=0
+Vfps=30
+Vduration=172889
+INDEXsize reduction factor=3
+Vstart=0
+Vend=1
+Vjump to key frames=1
+Tshort filename=Beach4.mkv
+Tlong filename=Y:\VIDEOS\VIDEO\USINE\Beach\Beach4.mkv
+Vuser curve 1=0
+Vuser curve 2=0
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.319108366966248
+Vmouse y=0
+Vmouse wheel=0
+Vallow drop=0
+COLLAPS=0
+CNTDISPLAY=3
+IDISPLAY_0=Y:\VIDEOS\VIDEO\USINE\Beach\Beach4.mkv
+IDISPLAY_1=Y:\VIDEOS\VIDEO\USINE\Beach\Beach5.mkv
+IDISPLAY_2=Y:\VIDEOS\VIDEO\USINE\Beach\Beach6.mkv
+INDEXDISPLAY=0
+SZDDISPLAY=0
+
+[RAE1-4startSE]
+UID=9214810710508647335
+
+[RAE1-4endSE]
+UID=759287014810268614
+
+[RAE1-4mouse dwnSE]
+UID=2329837614428140905
+
+[RAE1-4dbl clickSE]
+UID=5876971481943324042
+
+[RAE1-4mouse xSE]
+UID=6155018591567951276
+
+[RAE1-4mouse ySE]
+UID=4801373136854791626
+
+[RAE1-4mouse wheelSE]
+UID=4222144757017949672
+
+[RAE1-4CTRLSE]
+UID=272571117795040261
+also visible in IB=0
+enabled=1
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+zoom scale=1
+left=4
+top=190
+width=161
+height=160
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=4278190080
+hilited color=4286743170
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4285098345
+border width=2
+round size=2
+show caption=1
+caption font color=g11
+caption font size factor=0.600000023841858
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=g5
+show toolbar=1
+toolbar size=16
+minimized=0
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+auto record on click=0
+is playing record=0
+mouse over=0
+show cursor=1
+cursor color=4288322202
+cursor width=2
+show grid=0
+grid color=2001817937
+full size grid=0
+H divisions=0
+V divisions=0
+wave color=4286743170
+dimmer min=0
+dimmer max=1
+dimmer scale=0
+dimmer curve type=0
+dimmer bezier curve=0
+speed min=0.00999999977648258
+speed max=10
+speed scale=1
+speed curve type=0
+speed bezier curve=0
+user1 min=0
+user1 max=1
+user1 scale=0
+user1 curve type=0
+user1 bezier curve=0
+user2 min=0
+user2 max=1
+user2 scale=0
+user2 curve type=0
+user2 bezier curve=0
+show top bar=1
+top bar color=4285098345
+top Bar height=10
+selector color=4286743170
+selector opacity=0.5
+selector width=8
+show markers=0
+marker bar color=4281413937
+marker color=4288322202
+marker random color=0
+marker width=2
+show marker caption=1
+
+[RAE1-4CTRL]
+UID=272571117795040261
+VISIBLE=1
+MINIMIZED=0
+DST=0
+DEND=1
+ST=0
+END=1
+MKRCOUNT=0
+
+[RAE1-4CTRLTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[RAE1-4CTRLTBLOCKSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[RAE1-4CTRLTBPREVIOUSSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[RAE1-4CTRLTBNEXTSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[RAE1-4CTRLTBLISTSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[RAE1-5]
+UID=123154486356917766
+Vin=0
+Tname=VIDEO2
+COLLAPS=3
+
+[RAE1-6]
+UID=6841530656902145875
+COLLAPS=0
+
+[RAE1-7]
+UID=2563526982936682705
+Vout=0
+Tname=VIDEO1
+COLLAPS=3
+
+[RAE1-8]
+UID=1980370623628888063
+COLLAPS=0
+
+[RAE1-9]
+UID=1175519122829509016
+Vout=0
+Tname=VIDEO2
+COLLAPS=3
+
+[RAE1-10]
+UID=3888293810257063909
+saved in preset=1
+INDEXvisible=1
+Von=1
+Vaudio delay=500
+Vdimmer=1
+Vspeed=1
+Vmaster SMPTE=0
+Vplay loop=1
+INDEXsync=0
+Vauto restart=1
+INDEXplay button mode=0
+Vpause=0
+INDEXon activation=0
+INDEXat the end=0
+INDEXmode=0
+INDEXnum=0
+Vfps=30
+Vduration=18056
+INDEXsize reduction factor=3
+Vstart=0
+Vend=1
+Vjump to key frames=1
+Tshort filename=Jul3-2.mkv
+Tlong filename=Y:\VIDEOS\BLAAKK\RAW\D5200\2017\July\3rd\Jul3-2.mkv
+Vuser curve 1=0
+Vuser curve 2=0
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.829503059387207
+Vmouse y=0.0239285323768854
+Vmouse wheel=0
+Vallow drop=0
+COLLAPS=0
+CNTDISPLAY=3
+IDISPLAY_0=Y:\VIDEOS\BLAAKK\RAW\D5200\2017\July\3rd\Jul3-2.mkv
+IDISPLAY_1=Y:\VIDEOS\BLAAKK\RAW\D5200\2017\July\3rd\Jul3-3.mkv
+IDISPLAY_2=Y:\VIDEOS\BLAAKK\RAW\D5200\2017\July\3rd\Jul3-4.mkv
+INDEXDISPLAY=0
+SZDDISPLAY=0
+
+[RAE1-10startSE]
+UID=78547456
+
+[RAE1-10endSE]
+UID=78547523
+
+[RAE1-10mouse dwnSE]
+UID=78548718
+
+[RAE1-10dbl clickSE]
+UID=78548800
+
+[RAE1-10mouse xSE]
+UID=78548874
+
+[RAE1-10mouse ySE]
+UID=78548941
+
+[RAE1-10mouse wheelSE]
+UID=78549003
+
+[RAE1-10CTRLSE]
+UID=6048366116923305471
+also visible in IB=0
+enabled=1
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+zoom scale=1
+left=4
+top=356
+width=161
+height=160
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=4278190080
+hilited color=4286630097
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=4283610304
+border width=0
+round size=2
+show caption=1
+caption font color=4290700264
+caption font size factor=0.600000023841858
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=4281897115
+show toolbar=1
+toolbar size=16
+minimized=0
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+auto record on click=0
+is playing record=0
+mouse over=0
+show cursor=1
+cursor color=4289715426
+cursor width=2
+show grid=0
+grid color=2000195739
+full size grid=0
+H divisions=0
+V divisions=0
+wave color=4286630097
+dimmer min=0
+dimmer max=1
+dimmer scale=0
+dimmer curve type=0
+dimmer bezier curve=1
+speed min=0
+speed max=4
+speed scale=1
+speed curve type=0
+speed bezier curve=1
+user1 min=0
+user1 max=1
+user1 scale=0
+user1 curve type=0
+user1 bezier curve=1
+user2 min=0
+user2 max=1
+user2 scale=0
+user2 curve type=0
+user2 bezier curve=1
+show top bar=1
+top bar color=4283610304
+top Bar height=10
+selector color=4286630097
+selector opacity=0.5
+selector width=8
+show markers=0
+marker bar color=4281355086
+marker color=4289715426
+marker random color=0
+marker width=2
+show marker caption=1
+
+[RAE1-10CTRL]
+UID=6048366116923305471
+VISIBLE=1
+MINIMIZED=0
+DST=0
+DEND=1
+ST=0
+END=1
+MKRCOUNT=0
+
+[RAE1-10CTRLTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[RAE1-10CTRLTBLOCKSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[RAE1-10CTRLTBPREVIOUSSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[RAE1-10CTRLTBNEXTSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[RAE1-10CTRLTBLISTSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[RAE1-11]
+UID=9092854311758133002
+Vin=0
+Tname=VIDEO3
+COLLAPS=3
+
+[RAE1-12]
+UID=8961971080611478966
+saved in preset=1
+INDEXvisible=1
+Von=1
+Vaudio delay=500
+Vdimmer=1
+Vspeed=1
+Vmaster SMPTE=0
+Vplay loop=1
+INDEXsync=0
+Vauto restart=1
+INDEXplay button mode=0
+Vpause=0
+INDEXon activation=0
+INDEXat the end=0
+INDEXmode=0
+INDEXnum=0
+Vfps=30
+Vduration=126756
+INDEXsize reduction factor=3
+Vstart=0
+Vend=1
+Vjump to key frames=1
+Tshort filename=Jul2.mkv
+Tlong filename=Y:\VIDEOS\BLAAKK\RAW\D5200\2017\July\2nd\Jul2.mkv
+Vuser curve 1=0
+Vuser curve 2=0
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.999068260192871
+Vmouse y=0.780713975429535
+Vmouse wheel=0
+Vallow drop=0
+COLLAPS=0
+CNTDISPLAY=1
+IDISPLAY_0=Y:\VIDEOS\BLAAKK\RAW\D5200\2017\July\2nd\Jul2.mkv
+INDEXDISPLAY=0
+SZDDISPLAY=0
+
+[RAE1-12startSE]
+UID=3552953084800646742
+
+[RAE1-12endSE]
+UID=7561424984605441649
+
+[RAE1-12mouse dwnSE]
+UID=4648394024177876678
+
+[RAE1-12dbl clickSE]
+UID=1067054719289769688
+
+[RAE1-12mouse xSE]
+UID=5106331009304739562
+
+[RAE1-12mouse ySE]
+UID=143012292469702399
+
+[RAE1-12mouse wheelSE]
+UID=7489423003951546126
+
+[RAE1-12CTRLSE]
+UID=1588316077311114425
+also visible in IB=0
+enabled=1
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+zoom scale=1
+left=4
+top=522
+width=161
+height=160
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=4278190080
+hilited color=4286630097
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=4283610304
+border width=0
+round size=2
+show caption=1
+caption font color=4290700264
+caption font size factor=0.600000023841858
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=4281897115
+show toolbar=1
+toolbar size=16
+minimized=0
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+auto record on click=0
+is playing record=0
+mouse over=0
+show cursor=1
+cursor color=4289715426
+cursor width=2
+show grid=0
+grid color=2000195739
+full size grid=0
+H divisions=0
+V divisions=0
+wave color=4286630097
+dimmer min=0
+dimmer max=1
+dimmer scale=0
+dimmer curve type=0
+dimmer bezier curve=1
+speed min=0
+speed max=4
+speed scale=1
+speed curve type=0
+speed bezier curve=1
+user1 min=0
+user1 max=1
+user1 scale=0
+user1 curve type=0
+user1 bezier curve=1
+user2 min=0
+user2 max=1
+user2 scale=0
+user2 curve type=0
+user2 bezier curve=1
+show top bar=1
+top bar color=4283610304
+top Bar height=10
+selector color=4286630097
+selector opacity=0.5
+selector width=8
+show markers=0
+marker bar color=4281355086
+marker color=4289715426
+marker random color=0
+marker width=2
+show marker caption=1
+
+[RAE1-12CTRL]
+UID=1588316077311114425
+VISIBLE=1
+MINIMIZED=0
+DST=0
+DEND=1
+ST=0
+END=1
+MKRCOUNT=0
+
+[RAE1-12CTRLTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[RAE1-12CTRLTBLOCKSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[RAE1-12CTRLTBPREVIOUSSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[RAE1-12CTRLTBNEXTSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[RAE1-12CTRLTBLISTSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[RAE1-13]
+UID=4618122070325969723
+Vin=0
+Tname=VIDEO4
+COLLAPS=3
+
+[RAE1-14]
+UID=5889954793418929068
+COLLAPS=0
+
+[RAE1-15]
+UID=6231625512779733477
+COLLAPS=0
+
+[RAE1-16]
+UID=270620476355359012
+Vout=0
+Tname=VIDEO3
+COLLAPS=3
+
+[RAE1-17]
+UID=8374139274024625433
+Vout=0
+Tname=VIDEO4
+COLLAPS=3
+
+[RAE1-18]
+UID=6257020282932967082
+Vbypass=0
+Vscale=0.474999994039536
+Vcenter point x=0.252000004053116
+Vcenter point y=0.25
+COLLAPS=0
+
+[RAE1-19]
+UID=8334840841690982041
+Vbypass=0
+Vscale=0.474999994039536
+Vcenter point x=0.748000025749207
+Vcenter point y=0.25
+COLLAPS=0
+
+[RAE1-20]
+UID=8710773977741833519
+Vbypass=0
+Vscale=0.474999994039536
+Vcenter point x=0.252000004053116
+Vcenter point y=0.75
+COLLAPS=0
+
+[RAE1-21]
+UID=3093366198297160427
+Vbypass=0
+Vscale=0.474999994039536
+Vcenter point x=0.748000025749207
+Vcenter point y=0.75
+COLLAPS=0
+
+[RAE1-22]
+UID=4923292251322627517
+saved in preset=1
+fade preset=1
+can be randomized=1
+can be reset=1
+INDEXvisible=1
+Vfader=0.252000004053116
+Vmin=0
+Vmax=1
+Tcaption=center point x
+COLcolor=g5
+INDEXprec=3
+INDEXlogscale=0
+Vdefault val=0
+Vinc/dec val=1
+INDEXwrap mode=0
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0
+Vmouse y=0
+Vmouse wheel=0
+Vauto reset=0
+Vallow drop=0
+COLLAPS=0
+
+[RAE1-22faderSE]
+UID=5966803728966399838
+also visible in IB=0
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+zoom scale=1
+left=3
+top=684
+width=161
+height=14
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=4280295456
+hilited color=4286743170
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4285098345
+border width=1
+round size=0
+show caption=1
+caption font color=4288848546
+caption font size factor=0.899999976158142
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+text align=0
+show fader=1
+fader color=g5
+dashed fader=0
+symetric fader=0
+show cursor=0
+cursor color=4285098345
+cursor width=4
+show value=1
+show symbol=1
+show value and symbol on click=1
+value font color=4288848546
+value font size factor=0.899999976158142
+value font bold=0
+value align=2
+value V align=0
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+mouse over=0
+
+[RAE1-22symbolSE]
+UID=6532864656049223726
+
+[RAE1-22mouse dwnSE]
+UID=5504692368487791266
+
+[RAE1-22dbl clickSE]
+UID=7078907410580290270
+
+[RAE1-22mouse xSE]
+UID=8392335654822132491
+
+[RAE1-22mouse ySE]
+UID=5977660414153243443
+
+[RAE1-22mouse wheelSE]
+UID=5745630215498152797
+
+[RAE1-23]
+UID=5173185446738992726
+saved in preset=1
+fade preset=1
+can be randomized=1
+can be reset=1
+INDEXvisible=1
+Vfader=0.748000025749207
+Vmin=0
+Vmax=1
+Tcaption=center point x
+COLcolor=g5
+INDEXprec=3
+INDEXlogscale=0
+Vdefault val=0
+Vinc/dec val=1
+INDEXwrap mode=0
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0
+Vmouse y=0
+Vmouse wheel=0
+Vauto reset=0
+Vallow drop=0
+COLLAPS=0
+
+[RAE1-23faderSE]
+UID=7418273794203656343
+also visible in IB=0
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+zoom scale=1
+left=3
+top=700
+width=161
+height=14
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=4280295456
+hilited color=4286743170
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4285098345
+border width=1
+round size=0
+show caption=1
+caption font color=4288848546
+caption font size factor=0.899999976158142
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+text align=0
+show fader=1
+fader color=g5
+dashed fader=0
+symetric fader=0
+show cursor=0
+cursor color=4285098345
+cursor width=4
+show value=1
+show symbol=1
+show value and symbol on click=1
+value font color=4288848546
+value font size factor=0.899999976158142
+value font bold=0
+value align=2
+value V align=0
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+mouse over=0
+
+[RAE1-23symbolSE]
+UID=7829164734067319198
+
+[RAE1-23mouse dwnSE]
+UID=8573269357845095463
+
+[RAE1-23dbl clickSE]
+UID=5458535364418937982
+
+[RAE1-23mouse xSE]
+UID=7175013690588603566
+
+[RAE1-23mouse ySE]
+UID=8379940907630798038
+
+[RAE1-23mouse wheelSE]
+UID=804436623400445181
+
+[RAE1-24]
+UID=3136075120475301155
+saved in preset=1
+fade preset=1
+can be randomized=1
+can be reset=1
+INDEXvisible=1
+Vfader=0.25
+Vmin=0
+Vmax=1
+Tcaption=center point y
+COLcolor=g5
+INDEXprec=3
+INDEXlogscale=0
+Vdefault val=0
+Vinc/dec val=1
+INDEXwrap mode=0
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0
+Vmouse y=0
+Vmouse wheel=0
+Vauto reset=0
+Vallow drop=0
+COLLAPS=0
+
+[RAE1-24faderSE]
+UID=5095256480116827840
+also visible in IB=0
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=1
+rotation angle=0.75
+zoom scale=1
+left=3
+top=716
+width=161
+height=14
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=4280295456
+hilited color=4286743170
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4285098345
+border width=1
+round size=0
+show caption=1
+caption font color=4288848546
+caption font size factor=0.899999976158142
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+text align=0
+show fader=1
+fader color=g5
+dashed fader=0
+symetric fader=0
+show cursor=0
+cursor color=4285098345
+cursor width=4
+show value=1
+show symbol=1
+show value and symbol on click=1
+value font color=4288848546
+value font size factor=0.899999976158142
+value font bold=0
+value align=2
+value V align=0
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+mouse over=0
+
+[RAE1-24symbolSE]
+UID=1187204001626515345
+
+[RAE1-24mouse dwnSE]
+UID=3984267112735500717
+
+[RAE1-24dbl clickSE]
+UID=4594777100893743593
+
+[RAE1-24mouse xSE]
+UID=4009599366718220817
+
+[RAE1-24mouse ySE]
+UID=2089231826246625848
+
+[RAE1-24mouse wheelSE]
+UID=8361814887396993628
+
+[RAE1-25]
+UID=6145612183661310238
+saved in preset=1
+fade preset=1
+can be randomized=1
+can be reset=1
+INDEXvisible=1
+Vfader=0.75
+Vmin=0
+Vmax=1
+Tcaption=center point y
+COLcolor=g5
+INDEXprec=3
+INDEXlogscale=0
+Vdefault val=0
+Vinc/dec val=1
+INDEXwrap mode=0
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0
+Vmouse y=0
+Vmouse wheel=0
+Vauto reset=0
+Vallow drop=0
+COLLAPS=0
+
+[RAE1-25faderSE]
+UID=8040874104836977442
+also visible in IB=0
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=1
+rotation angle=0.75
+zoom scale=1
+left=3
+top=805.5
+width=161
+height=14
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=4280295456
+hilited color=4286743170
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4285098345
+border width=1
+round size=0
+show caption=1
+caption font color=4288848546
+caption font size factor=0.899999976158142
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+text align=0
+show fader=1
+fader color=g5
+dashed fader=0
+symetric fader=0
+show cursor=0
+cursor color=4285098345
+cursor width=4
+show value=1
+show symbol=1
+show value and symbol on click=1
+value font color=4288848546
+value font size factor=0.899999976158142
+value font bold=0
+value align=2
+value V align=0
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+mouse over=0
+
+[RAE1-25symbolSE]
+UID=3458061064186491984
+
+[RAE1-25mouse dwnSE]
+UID=3128549740865779535
+
+[RAE1-25dbl clickSE]
+UID=1991300690033637278
+
+[RAE1-25mouse xSE]
+UID=5025409303976212442
+
+[RAE1-25mouse ySE]
+UID=8824714144687192083
+
+[RAE1-25mouse wheelSE]
+UID=8150989363282573389
+
+[RAE1-CPSE]
+where=0
+name=4_VIDZ
+saved in preset=1
+show when active on grid=0
+can be randomized=1
+can be reset=1
+fast graphic render=0
+undo enabled=1
+shared=0
+presets panel=0
+also visible in IB=0
+enabled=1
+on top=0
+opacity=1
+zoom scale=1
+left=114
+top=22
+width=167
+height=896
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+transparent=0
+background color=4280690214
+hilited color=4288322202
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4286414205
+border width=1
+round size=0
+show caption=1
+caption font color=4290822336
+caption font size factor=0.600000023841858
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=g6
+show toolbar=1
+toolbar size=16
+minimized=0
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[RAE1-CPTOOLBARTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[RAE1-CPTOOLBARTBPRESETSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+[RADINSE]
+UID=44375694
+zoom scale=1
+left=0
+top=22
+width=110
+height=45
+resize grip enabled=0
+minimized=0
+HeightBeforeMinimize=45
+WidthBeforeMinimize=0
+saved in preset=1
+fade preset=1
+show vu-meter and gain=1
+
+[RADIN]
+UID=44375694
+VISIBLE=1
+MINIMIZED=0
+CNT=0
+
+[RADINGAINgainSE]
+UID=44392226
+name=4_VIDZ
+saved in preset=1
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RADINGAIN]
+Vgain=0
+
+[RADOUTSE]
+UID=44435041
+zoom scale=1
+left=0
+top=840.949829101562
+width=112
+height=208
+resize grip enabled=0
+minimized=0
+HeightBeforeMinimize=195
+WidthBeforeMinimize=112
+saved in preset=1
+fade preset=1
+show on-off=1
+show mute=1
+show solo=1
+show vu-meter and gain=1
+
+[RADOUT]
+UID=44435041
+VISIBLE=1
+MINIMIZED=0
+CNT=2
+ENABLED0=1
+MINI0=1
+SPA0=STEREO OUT
+ENABLED1=1
+MINI1=1
+SPA1=Video Out
+
+[RADOUTGAINgainSE]
+UID=44453360
+name=4_VIDZ
+saved in preset=1
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RADOUTGAIN]
+Vgain=-34.012638092041
+
+[RADOUTSOLOSSE]
+UID=44521401
+saved in preset=1
+inverse=0
+quantize=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+
+[RADOUTSOLO]
+VS=0
+
+[RADOUTMUTEMSE]
+UID=44507253
+saved in preset=1
+inverse=0
+quantize=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+
+[RADOUTMUTE]
+VM=0
+
+[RADOUTONOFFONSE]
+UID=44491661
+saved in preset=0
+inverse=0
+quantize=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+
+[RADOUTONOFF]
+VON=1
+
+[RADOUTITEM0SE]
+minimized=1
+HeightBeforeMinimize=35
+WidthBeforeMinimize=0
+saved in preset=1
+fade preset=1
+
+[RADOUTITEM0]
+UID=44537904
+VISIBLE=1
+MINIMIZED=1
+
+[RADOUTITEM0TBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[RADOUTGAIN0gainSE]
+UID=44539613
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RADOUTGAIN0]
+Vgain=0
+
+[RADOUTMUTE0MSE]
+UID=44539831
+inverse=0
+quantize=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+
+[RADOUTMUTE0]
+VM=0
+
+[RADOUTSOLO0SSE]
+UID=44540181
+inverse=0
+quantize=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[RADOUTSOLO0]
+VS=0
+
+[RADOUTPRE0PRESE]
+UID=44540008
+inverse=0
+quantize=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+
+[RADOUTPRE0]
+VPRE=0
+
+[RADOUTITEM1SE]
+saved in preset=1
+fade preset=1
+
+[RADOUTITEM1]
+UID=7016006801396758809
+VISIBLE=1
+MINIMIZED=1
+
+[RADOUTITEM1TBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0

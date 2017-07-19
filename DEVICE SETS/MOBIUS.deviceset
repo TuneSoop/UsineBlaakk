@@ -1,0 +1,3543 @@
+[DESE]
+always create default=1
+always create surround=0
+
+[DE]
+UID=24189622
+VISIBLE=1
+MINIMIZED=0
+VERSION=85
+CNT=19
+
+[DEE1-]
+PATCHTYPE=6
+VERSION=85
+USINE VERSION=Usine 3.0.132 Win32
+FNAM=Y:\PORTABLE\Usine3_32\Config\Default Devices\STEREO OUT.device
+ORIGINDEVICE=Stereo Out
+NBPG=3
+OFFSETX=-66
+OFFSETY=-23
+UID=31340193
+ID0=331
+L0=313
+T0=304
+ID1=1
+L1=100
+T1=300
+ID2=1
+L2=100
+T2=350
+C0=0100000000000000
+CSRCNAME0=AUDIO IN1
+CTARGNAME0=OUT-0
+C1=0200000000000100
+CSRCNAME1=AUDIO IN2
+CTARGNAME1=OUT-1
+NBCO=2
+
+[DEE1-PASE]
+enabled=1
+name=STEREO OUT
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=cl8
+hilited color=4288729118
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=cl6
+border width=0
+round size=0
+show caption=1
+caption font color=g0
+caption font size factor=0.850000023841858
+caption align=2
+caption V align=0
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=14
+header color=cl8
+show toolbar=1
+toolbar size=12
+minimized=1
+HeightBeforeMinimize=14
+WidthBeforeMinimize=170
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+
+[DEE1-0]
+COLLAPS=0
+
+[DEE1-1]
+UID=31198731
+COLLAPS=0
+
+[DEE1-2]
+UID=31198844
+COLLAPS=0
+
+[DEE1-CPSE]
+enabled=1
+name=STEREO OUT
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=cl8
+hilited color=4288729118
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=cl6
+border width=0
+round size=0
+show caption=1
+caption font color=g0
+caption font size factor=0.850000023841858
+caption align=2
+caption V align=0
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=14
+header color=cl8
+show toolbar=1
+toolbar size=12
+minimized=1
+HeightBeforeMinimize=14
+WidthBeforeMinimize=170
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+
+[DEE1-CPTOOLBARTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[DEE2-]
+PATCHTYPE=2
+VERSION=85
+USINE VERSION=Usine 3.0.132 Win32
+FNAM=Y:\PORTABLE\Usine3_32\Config\Default Devices\IN UCX MIDI PORT 1.device
+ORIGINDEVICE=IN UCX MIDI PORT 1
+NBPG=3
+OFFSETX=0
+OFFSETY=0
+UID=92707279
+ID0=5
+L0=135
+T0=173
+ID1=22
+L1=399
+T1=151
+ID2=68
+L2=280
+T2=221
+C0=0200010001000100
+CSRCNAME0=LIST 1
+CTARGNAME0=CHANNEL
+C1=0000000001000000
+CSRCNAME1=MIDI IN1
+CTARGNAME1=MIDI OUT1
+NBCO=2
+
+[DEE2-PASE]
+enabled=1
+send MIDI to lan=0
+receive midi clock=0
+receive midi timecode (MTC)=0
+name=IN UCX MIDI PORT 1
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=cl2
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=g1
+border width=0
+round size=0
+show caption=1
+caption font color=4288544763
+caption font size factor=0.850000023841858
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=14
+header color=cl2
+show toolbar=1
+toolbar size=12
+minimized=1
+HeightBeforeMinimize=14
+WidthBeforeMinimize=170
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+
+[DEE2-0]
+UID=74143840
+Vmsg=224
+Vcode1=0
+Vcode2=95
+INDEXmode=0
+INDEXfilter=0
+Vunpack=0
+COLLAPS=0
+
+[DEE2-1]
+UID=16397463
+INDEXchan=1
+COLLAPS=0
+
+[DEE2-2]
+UID=63152166
+saved in preset=1
+can be randomized=1
+can be reset=1
+edition=no change,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+INDEXvisible=1
+INDEXlist=1
+Tcaption=channel
+Ttext=1
+Vdefault val=0
+Vnum elements=17
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.733838856220245
+Vmouse y=0.115084134042263
+Vmouse wheel=0
+Vallow drop=0
+COLLAPS=0
+LIST=no change,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+
+[DEE2-2listSE]
+UID=63152590
+also visible in IB=0
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+zoom scale=1
+left=7
+top=42
+width=161
+height=21
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=4280295456
+hilited color=cl2
+fit size=1
+show border=1
+border color=4285098345
+border width=4
+round size=0
+show caption=1
+caption font color=4288848546
+caption font size factor=0.899999976158142
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show value=1
+show symbol=0
+show value and symbol on click=0
+value font color=4288848546
+value font size factor=0.899999976158142
+value font bold=0
+value align=2
+value V align=0
+show scroller=1
+scroller color=4286743170
+scroller width=10
+items font color=4288848546
+select color=g5
+hide filname path=0
+hide filename ext=0
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+mouse over=0
+
+[DEE2-2mouse dwnSE]
+UID=24531173
+
+[DEE2-2dbl clickSE]
+UID=24531248
+
+[DEE2-2mouse xSE]
+UID=24531308
+
+[DEE2-2mouse ySE]
+UID=24531363
+
+[DEE2-2mouse wheelSE]
+UID=6112584120520525087
+
+[DEE2-CPSE]
+enabled=1
+send MIDI to lan=0
+receive midi clock=0
+receive midi timecode (MTC)=0
+name=IN UCX MIDI PORT 1
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=cl2
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=g1
+border width=0
+round size=0
+show caption=1
+caption font color=4288544763
+caption font size factor=0.850000023841858
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=14
+header color=cl2
+show toolbar=1
+toolbar size=12
+minimized=1
+HeightBeforeMinimize=14
+WidthBeforeMinimize=170
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+
+[DEE2-CPTOOLBARTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[DEE3-]
+PATCHTYPE=6
+VERSION=85
+USINE VERSION=Usine 3.0.132 Win32
+FNAM=Y:\PORTABLE\Usine3_32\Config\Default Devices\PHONES OUT.device
+ORIGINDEVICE=PHONES OUT
+NBPG=3
+OFFSETX=254
+OFFSETY=-58
+UID=7098126
+ID0=331
+L0=300
+T0=300
+ID1=1
+L1=-7
+T1=257
+ID2=1
+L2=-4
+T2=301
+C0=0100000000000600
+CSRCNAME0=AUDIO IN1
+CTARGNAME0=OUT-6
+C1=0200000000000700
+CSRCNAME1=AUDIO IN2
+CTARGNAME1=OUT-7
+NBCO=2
+
+[DEE3-PASE]
+enabled=1
+name=PHONES OUT
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=4283903298
+hilited color=clWhite
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=4294358486
+border width=0
+round size=0
+show caption=1
+caption font color=4283042089
+caption font size factor=0.850000023841858
+caption align=2
+caption V align=0
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=14
+header color=cl22
+show toolbar=1
+toolbar size=12
+minimized=1
+HeightBeforeMinimize=70
+WidthBeforeMinimize=115.292434692383
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+
+[DEE3-0]
+COLLAPS=0
+
+[DEE3-1]
+UID=5834592113807939066
+COLLAPS=0
+
+[DEE3-2]
+UID=466118656564511783
+COLLAPS=0
+
+[DEE3-CPSE]
+enabled=1
+name=PHONES OUT
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=4283903298
+hilited color=clWhite
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=4294358486
+border width=0
+round size=0
+show caption=1
+caption font color=4283042089
+caption font size factor=0.850000023841858
+caption align=2
+caption V align=0
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=14
+header color=cl22
+show toolbar=1
+toolbar size=12
+minimized=1
+HeightBeforeMinimize=70
+WidthBeforeMinimize=115.292434692383
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+
+[DEE3-CPTOOLBARTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[DEE4-]
+PATCHTYPE=1
+VERSION=85
+USINE VERSION=Usine 3.0.132 Win32
+FNAM=Y:\PORTABLE\Usine3_32\Config\Default Devices\MIC.device
+ORIGINDEVICE=Stereo In
+NBPG=2
+OFFSETX=-30
+OFFSETY=-154
+UID=9714368
+ID0=330
+L0=84
+T0=330
+ID1=2
+L1=329
+T1=328
+C0=0000000001000000
+CSRCNAME0=IN-0
+CTARGNAME0=AUDIO OUT1
+NBCO=1
+
+[DEE4-PASE]
+enabled=1
+receive linear timecode (LTC)=0
+name=MIC
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=4283914029
+hilited color=clWhite
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=4294375093
+border width=0
+round size=0
+show caption=1
+caption font color=4283058697
+caption font size factor=0.850000023841858
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=14
+header color=cl20
+show toolbar=1
+toolbar size=12
+minimized=1
+HeightBeforeMinimize=14
+WidthBeforeMinimize=170
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+
+[DEE4-0]
+COLLAPS=0
+
+[DEE4-1]
+UID=30922025
+COLLAPS=0
+
+[DEE4-CPSE]
+enabled=1
+receive linear timecode (LTC)=0
+name=MIC
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=4283914029
+hilited color=clWhite
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=4294375093
+border width=0
+round size=0
+show caption=1
+caption font color=4283058697
+caption font size factor=0.850000023841858
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=14
+header color=cl20
+show toolbar=1
+toolbar size=12
+minimized=1
+HeightBeforeMinimize=14
+WidthBeforeMinimize=170
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+
+[DEE4-CPTOOLBARTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[DEE5-]
+PATCHTYPE=1
+VERSION=85
+USINE VERSION=Usine 3.0.132 Win32
+FNAM=Y:\PORTABLE\Usine3_32\Config\Default Devices\GUITAR.device
+ORIGINDEVICE=AUDIO in device 14
+NBPG=3
+OFFSETX=0
+OFFSETY=0
+UID=20326374
+ID0=330
+L0=43
+T0=288
+ID1=2
+L1=323
+T1=279
+ID2=2
+L2=332
+T2=310
+C0=0000010001000000
+CSRCNAME0=IN-1
+CTARGNAME0=AUDIO OUT1
+C1=0000010002000000
+CSRCNAME1=IN-1
+CTARGNAME1=AUDIO OUT2
+NBCO=2
+
+[DEE5-PASE]
+enabled=1
+receive linear timecode (LTC)=0
+name=GUITAR
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=4280957483
+hilited color=4289978037
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=4286564226
+border width=0
+round size=0
+show caption=1
+caption font color=4294573562
+caption font size factor=0.850000023841858
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=14
+header color=cl6
+show toolbar=1
+toolbar size=12
+minimized=1
+HeightBeforeMinimize=70
+WidthBeforeMinimize=110
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+
+[DEE5-0]
+COLLAPS=0
+
+[DEE5-1]
+UID=24528059
+COLLAPS=0
+
+[DEE5-2]
+UID=5015788324216105494
+COLLAPS=0
+
+[DEE5-CPSE]
+enabled=1
+receive linear timecode (LTC)=0
+name=GUITAR
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=4280957483
+hilited color=4289978037
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=4286564226
+border width=0
+round size=0
+show caption=1
+caption font color=4294573562
+caption font size factor=0.850000023841858
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=14
+header color=cl6
+show toolbar=1
+toolbar size=12
+minimized=1
+HeightBeforeMinimize=70
+WidthBeforeMinimize=110
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+
+[DEE5-CPTOOLBARTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[DEE6-]
+PATCHTYPE=7
+VERSION=85
+USINE VERSION=Usine 3.0.132 Win32
+FNAM=Y:\PORTABLE\Usine3_32\Config\Default Devices\OUT QUNEO.device
+ORIGINDEVICE=OUT QUNEO
+NBPG=2
+OFFSETX=0
+OFFSETY=-2
+UID=44677481
+ID0=5
+L0=100
+T0=300
+ID1=22
+L1=300
+T1=300
+C0=0000000001000000
+CSRCNAME0=MIDI IN1
+CTARGNAME0=MIDI OUT1
+NBCO=1
+
+[DEE6-PASE]
+enabled=1
+send MIDI to lan=0
+motorized device=1
+send midi clock=0
+name=OUT QUNEO
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=cl2
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=g2
+border width=0
+round size=0
+show caption=1
+caption font color=clWhite
+caption font size factor=0.850000023841858
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=14
+header color=cl2
+show toolbar=1
+toolbar size=12
+minimized=1
+HeightBeforeMinimize=14
+WidthBeforeMinimize=170
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+
+[DEE6-0]
+UID=20852560
+COLLAPS=0
+
+[DEE6-1]
+UID=20852946
+INDEXchan=0
+COLLAPS=0
+
+[DEE6-CPSE]
+enabled=1
+send MIDI to lan=0
+motorized device=1
+send midi clock=0
+name=OUT QUNEO
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=cl2
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=g2
+border width=0
+round size=0
+show caption=1
+caption font color=clWhite
+caption font size factor=0.850000023841858
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=14
+header color=cl2
+show toolbar=1
+toolbar size=12
+minimized=1
+HeightBeforeMinimize=14
+WidthBeforeMinimize=170
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+
+[DEE6-CPTOOLBARTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[DEE7-]
+PATCHTYPE=2
+VERSION=85
+USINE VERSION=Usine 3.0.132 Win32
+FNAM=Y:\PORTABLE\Usine3_32\Config\Default Devices\IN TRAKTOR OUT.device
+ORIGINDEVICE=IN TRAKTOR OUT
+NBPG=3
+OFFSETX=0
+OFFSETY=0
+UID=57360034
+ID0=5
+L0=160
+T0=174
+ID1=22
+L1=407
+T1=187
+ID2=68
+L2=249
+T2=208
+C0=0200010001000100
+CSRCNAME0=LIST 1
+CTARGNAME0=CHANNEL
+C1=0000000001000000
+CSRCNAME1=MIDI IN1
+CTARGNAME1=MIDI OUT1
+NBCO=2
+
+[DEE7-PASE]
+enabled=1
+send MIDI to lan=0
+receive midi clock=0
+receive midi timecode (MTC)=0
+name=IN TRAKTOR OUT
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=cl2
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=g1
+border width=0
+round size=0
+show caption=1
+caption font color=clWhite
+caption font size factor=0.850000023841858
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=14
+header color=cl2
+show toolbar=1
+toolbar size=12
+minimized=1
+HeightBeforeMinimize=14
+WidthBeforeMinimize=170
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+
+[DEE7-0]
+UID=74143840
+Vmsg=0
+Vcode1=0
+Vcode2=0
+INDEXmode=0
+INDEXfilter=0
+Vunpack=0
+COLLAPS=0
+
+[DEE7-1]
+UID=16397463
+INDEXchan=0
+COLLAPS=0
+
+[DEE7-2]
+UID=63152166
+saved in preset=1
+can be randomized=1
+can be reset=1
+edition=no change,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+INDEXvisible=1
+INDEXlist=0
+Tcaption=channel
+Ttext=no change
+Vdefault val=0
+Vnum elements=17
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.733838856220245
+Vmouse y=0.115084134042263
+Vmouse wheel=0
+Vallow drop=0
+COLLAPS=0
+LIST=no change,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+
+[DEE7-2listSE]
+UID=63152590
+also visible in IB=0
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+zoom scale=1
+left=7
+top=42
+width=161
+height=21
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=4280295456
+hilited color=cl2
+fit size=1
+show border=1
+border color=4285098345
+border width=4
+round size=0
+show caption=1
+caption font color=4288848546
+caption font size factor=0.899999976158142
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show value=1
+show symbol=0
+show value and symbol on click=0
+value font color=4288848546
+value font size factor=0.899999976158142
+value font bold=0
+value align=2
+value V align=0
+show scroller=1
+scroller color=4286743170
+scroller width=10
+items font color=4288848546
+select color=g5
+hide filname path=0
+hide filename ext=0
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+mouse over=0
+
+[DEE7-2mouse dwnSE]
+UID=24531173
+
+[DEE7-2dbl clickSE]
+UID=24531248
+
+[DEE7-2mouse xSE]
+UID=24531308
+
+[DEE7-2mouse ySE]
+UID=24531363
+
+[DEE7-2mouse wheelSE]
+UID=3452318419323751919
+
+[DEE7-CPSE]
+enabled=1
+send MIDI to lan=0
+receive midi clock=0
+receive midi timecode (MTC)=0
+name=IN TRAKTOR OUT
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=cl2
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=g1
+border width=0
+round size=0
+show caption=1
+caption font color=clWhite
+caption font size factor=0.850000023841858
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=14
+header color=cl2
+show toolbar=1
+toolbar size=12
+minimized=1
+HeightBeforeMinimize=14
+WidthBeforeMinimize=170
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+
+[DEE7-CPTOOLBARTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[DEE8-]
+PATCHTYPE=7
+VERSION=85
+USINE VERSION=Usine 3.0.132 Win32
+FNAM=Y:\PORTABLE\Usine3_32\Config\Default Devices\OUT TRAKTOR IN.device
+ORIGINDEVICE=OUT TRAKTOR IN
+NBPG=2
+OFFSETX=0
+OFFSETY=0
+UID=79101126
+ID0=5
+L0=100
+T0=300
+ID1=22
+L1=300
+T1=300
+C0=0000000001000000
+CSRCNAME0=MIDI IN1
+CTARGNAME0=MIDI OUT1
+NBCO=1
+
+[DEE8-PASE]
+enabled=1
+send MIDI to lan=0
+motorized device=0
+send midi clock=0
+name=OUT TRAKTOR IN
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=cl2
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=g2
+border width=0
+round size=0
+show caption=1
+caption font color=clWhite
+caption font size factor=0.850000023841858
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=14
+header color=cl2
+show toolbar=1
+toolbar size=12
+minimized=1
+HeightBeforeMinimize=14
+WidthBeforeMinimize=170
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+
+[DEE8-0]
+UID=78869624
+COLLAPS=0
+
+[DEE8-1]
+UID=78871166
+INDEXchan=0
+COLLAPS=0
+
+[DEE8-CPSE]
+enabled=1
+send MIDI to lan=0
+motorized device=0
+send midi clock=0
+name=OUT TRAKTOR IN
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=cl2
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=g2
+border width=0
+round size=0
+show caption=1
+caption font color=clWhite
+caption font size factor=0.850000023841858
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=14
+header color=cl2
+show toolbar=1
+toolbar size=12
+minimized=1
+HeightBeforeMinimize=14
+WidthBeforeMinimize=170
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+
+[DEE8-CPTOOLBARTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[DEE9-]
+PATCHTYPE=2
+VERSION=85
+USINE VERSION=Usine 3.0.132 Win32
+FNAM=Y:\PORTABLE\Usine3_32\Config\Default Devices\IN QUNEO.device
+ORIGINDEVICE=IN QUNEO
+NBPG=3
+OFFSETX=0
+OFFSETY=0
+UID=99889456
+ID0=5
+L0=154
+T0=169
+ID1=22
+L1=582
+T1=175
+ID2=68
+L2=468
+T2=116
+C0=0200010001000100
+CSRCNAME0=LIST 1
+CTARGNAME0=CHANNEL
+C1=0000000001000000
+CSRCNAME1=MIDI IN1
+CTARGNAME1=MIDI OUT1
+NBCO=2
+
+[DEE9-PASE]
+enabled=1
+send MIDI to lan=0
+receive midi clock=0
+receive midi timecode (MTC)=0
+name=IN QUNEO
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=cl2
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=g1
+border width=0
+round size=0
+show caption=1
+caption font color=clWhite
+caption font size factor=0.850000023841858
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=14
+header color=cl2
+show toolbar=1
+toolbar size=12
+minimized=1
+HeightBeforeMinimize=14
+WidthBeforeMinimize=170
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+
+[DEE9-0]
+UID=74143840
+TABmsgV=00003043000030430000004300003043
+TABmsgL=4
+TABcode1V=0000C0410000C841000010420000B841
+TABcode1L=4
+TABcode2V=00007C4200007C420000000000000000
+TABcode2L=4
+INDEXmode=0
+INDEXfilter=0
+Vunpack=0
+COLLAPS=0
+
+[DEE9-1]
+UID=16397463
+INDEXchan=0
+COLLAPS=0
+
+[DEE9-2]
+UID=63152166
+saved in preset=1
+can be randomized=1
+can be reset=1
+edition=no change,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+INDEXvisible=1
+INDEXlist=0
+Tcaption=channel
+Ttext=no change
+Vdefault val=0
+Vnum elements=17
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.733838856220245
+Vmouse y=0.115084134042263
+Vmouse wheel=0
+Vallow drop=0
+COLLAPS=0
+LIST=no change,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+
+[DEE9-2listSE]
+UID=63152590
+also visible in IB=0
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+zoom scale=1
+left=7
+top=42
+width=161
+height=21
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=4280295456
+hilited color=cl2
+fit size=1
+show border=1
+border color=4285098345
+border width=4
+round size=0
+show caption=1
+caption font color=4288848546
+caption font size factor=0.899999976158142
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show value=1
+show symbol=0
+show value and symbol on click=0
+value font color=4288848546
+value font size factor=0.899999976158142
+value font bold=0
+value align=2
+value V align=0
+show scroller=1
+scroller color=4286743170
+scroller width=10
+items font color=4288848546
+select color=g5
+hide filname path=0
+hide filename ext=0
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+mouse over=0
+
+[DEE9-2mouse dwnSE]
+UID=24531173
+
+[DEE9-2dbl clickSE]
+UID=24531248
+
+[DEE9-2mouse xSE]
+UID=24531308
+
+[DEE9-2mouse ySE]
+UID=24531363
+
+[DEE9-2mouse wheelSE]
+UID=4578096911735961633
+
+[DEE9-CPSE]
+enabled=1
+send MIDI to lan=0
+receive midi clock=0
+receive midi timecode (MTC)=0
+name=IN QUNEO
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=cl2
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=g1
+border width=0
+round size=0
+show caption=1
+caption font color=clWhite
+caption font size factor=0.850000023841858
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=14
+header color=cl2
+show toolbar=1
+toolbar size=12
+minimized=1
+HeightBeforeMinimize=14
+WidthBeforeMinimize=170
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+
+[DEE9-CPTOOLBARTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[DEE10-]
+PATCHTYPE=6
+VERSION=85
+USINE VERSION=Usine 3.0.132 Win32
+FNAM=Y:\PORTABLE\Usine3_32\Config\Default Devices\Pre-listen Out.device
+ORIGINDEVICE=Pre-listen Out
+NBPG=3
+OFFSETX=0
+OFFSETY=0
+UID=3377076661088204120
+ID0=331
+L0=300
+T0=300
+ID1=1
+L1=100
+T1=300
+ID2=1
+L2=100
+T2=350
+C0=0100000000000000
+CSRCNAME0=AUDIO IN1
+CTARGNAME0=OUT-0
+C1=0200000000000100
+CSRCNAME1=AUDIO IN2
+CTARGNAME1=OUT-1
+NBCO=2
+
+[DEE10-PASE]
+enabled=1
+name=Pre-listen Out
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=4280428309
+hilited color=4288729118
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4286753049
+border width=0
+round size=0
+show caption=1
+caption font color=4290372678
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=cl7
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=30
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[DEE10-0]
+COLLAPS=0
+
+[DEE10-1]
+UID=4590083914204777159
+COLLAPS=0
+
+[DEE10-2]
+UID=65570600716405586
+COLLAPS=0
+
+[DEE10-CPSE]
+enabled=1
+name=Pre-listen Out
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=4280428309
+hilited color=4288729118
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4286753049
+border width=0
+round size=0
+show caption=1
+caption font color=4290372678
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=cl7
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=30
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[DEE10-CPTOOLBARTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[DEE11-]
+PATCHTYPE=9
+VERSION=85
+USINE VERSION=Usine 3.0.132 Win32
+FNAM=Y:\PORTABLE\Usine3_32\Config\Default Devices\Video Out.device
+ORIGINDEVICE=Video Out
+NBPG=4
+OFFSETX=166
+OFFSETY=34
+UID=4051550416513931332
+ID0=506
+L0=285
+T0=281
+ID1=503
+L1=-46
+T1=282
+ID2=577
+L2=100
+T2=290
+ID3=3
+L3=63
+T3=401
+C0=0200020000000000
+CSRCNAME0=VIDEO OUT 1
+CTARGNAME0=VIDEO IN 1
+C1=0300010000000200
+CSRCNAME1=FADER 1
+CTARGNAME1=MASTER DIMMER
+C2=0100000002000100
+CSRCNAME2=VIDEO IN1
+CTARGNAME2=VIDEO IN 1
+NBCO=3
+
+[DEE11-PASE]
+enabled=1
+name=Video Out
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=4279842875
+hilited color=4283755775
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4279624959
+border width=0
+round size=0
+show caption=1
+caption font color=4289328639
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=cl3
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=30
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[DEE11-0]
+UID=2933421741890833590
+Vmaster dimmer=1
+Vfull screen at startup=0
+COLLAPS=0
+
+[DEE11-0-FORM]
+LEFT=162
+TOP=445
+CLIENTWIDTH=483
+CLIENTHEIGHT=442
+
+[DEE11-1]
+UID=527430295881800010
+COLLAPS=0
+
+[DEE11-2]
+UID=1799792598678371464
+Vbypass=0
+COLLAPS=0
+
+[DEE11-3]
+UID=1081059752167872117
+saved in preset=1
+fade preset=1
+can be randomized=1
+can be reset=1
+INDEXvisible=1
+Vfader=1
+Vmin=0
+Vmax=1
+Tcaption=master dimmer
+COLcolor=g5
+INDEXprec=2
+INDEXlogscale=0
+Vdefault val=1
+Vinc/dec val=1
+INDEXwrap mode=0
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0
+Vmouse y=0
+Vmouse wheel=0
+Vauto reset=0
+Vallow drop=0
+COLLAPS=0
+
+[DEE11-3faderSE]
+UID=7753451945136756673
+also visible in IB=0
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+zoom scale=1
+left=3
+top=18
+width=161
+height=14
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=4280295456
+hilited color=4286743170
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4285098345
+border width=1
+round size=0
+show caption=1
+caption font color=4288848546
+caption font size factor=0.899999976158142
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+text align=0
+show fader=1
+fader color=g5
+dashed fader=0
+symetric fader=0
+show cursor=0
+cursor color=4285098345
+cursor width=4
+show value=1
+show symbol=1
+show value and symbol on click=1
+value font color=4288848546
+value font size factor=0.899999976158142
+value font bold=0
+value align=2
+value V align=0
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+mouse over=0
+
+[DEE11-3symbolSE]
+UID=7781881235612113017
+
+[DEE11-3mouse dwnSE]
+UID=2457742024182340173
+
+[DEE11-3dbl clickSE]
+UID=1807622812533267073
+
+[DEE11-3mouse xSE]
+UID=2301264704752851621
+
+[DEE11-3mouse ySE]
+UID=8094006194163686089
+
+[DEE11-3mouse wheelSE]
+UID=7035167337597639402
+
+[DEE11-CPSE]
+enabled=1
+name=Video Out
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=4279842875
+hilited color=4283755775
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4279624959
+border width=0
+round size=0
+show caption=1
+caption font color=4289328639
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=cl3
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=30
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[DEE11-CPTOOLBARTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[DEE12-]
+PATCHTYPE=2
+VERSION=85
+USINE VERSION=Usine 3.0.132 Win32
+FNAM=Y:\PORTABLE\Usine3_32\Config\Default Devices\IN AUTOMAP MIDI.device
+ORIGINDEVICE=IN AUTOMAP MIDI
+NBPG=3
+OFFSETX=0
+OFFSETY=0
+UID=5393463875857839830
+ID0=5
+L0=100
+T0=300
+ID1=22
+L1=400
+T1=300
+ID2=68
+L2=250
+T2=350
+C0=0000000001000000
+CSRCNAME0=MIDI IN1
+CTARGNAME0=MIDI OUT1
+C1=00000A0001000200
+CSRCNAME1=SYSEX
+CTARGNAME1=SYSEX
+C2=0200010001000100
+CSRCNAME2=LIST 1
+CTARGNAME2=CHANNEL
+NBCO=3
+
+[DEE12-PASE]
+enabled=1
+send MIDI to lan=0
+receive midi clock=0
+receive midi timecode (MTC)=0
+name=IN AUTOMAP MIDI
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=4280498507
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4285578231
+border width=0
+round size=0
+show caption=1
+caption font color=clWhite
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=cl2
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=30
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[DEE12-0]
+UID=3670693162753634328
+Vmsg=176
+Vcode1=37
+Vcode2=0
+INDEXmode=0
+INDEXfilter=0
+Vunpack=0
+COLLAPS=0
+
+[DEE12-1]
+UID=6022476542324683524
+INDEXchan=0
+COLLAPS=0
+
+[DEE12-2]
+UID=9114458004482339880
+saved in preset=1
+can be randomized=1
+can be reset=1
+edition="no change","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16"
+INDEXvisible=1
+INDEXlist=0
+Tcaption=channel
+Ttext=no change
+Vdefault val=0
+Vnum elements=17
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0
+Vmouse y=0
+Vmouse wheel=0
+Vallow drop=0
+COLLAPS=0
+LIST="no change","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16"
+
+[DEE12-2listSE]
+UID=8450239993600980156
+also visible in IB=0
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+zoom scale=1
+left=3
+top=24
+width=161
+height=14
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=4280295456
+hilited color=cl2
+fit size=1
+show border=1
+border color=4285098345
+border width=1
+round size=0
+show caption=1
+caption font color=4288848546
+caption font size factor=0.899999976158142
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show value=1
+show symbol=0
+show value and symbol on click=0
+value font color=4288848546
+value font size factor=0.899999976158142
+value font bold=0
+value align=2
+value V align=0
+show scroller=1
+scroller color=4286743170
+scroller width=10
+items font color=4288848546
+select color=g5
+hide filname path=0
+hide filename ext=0
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+mouse over=0
+
+[DEE12-2mouse dwnSE]
+UID=5504868736888387241
+
+[DEE12-2dbl clickSE]
+UID=5427093422540502742
+
+[DEE12-2mouse xSE]
+UID=1512669804595689235
+
+[DEE12-2mouse ySE]
+UID=8171988832227604284
+
+[DEE12-2mouse wheelSE]
+UID=1835674439294039908
+
+[DEE12-CPSE]
+enabled=1
+send MIDI to lan=0
+receive midi clock=0
+receive midi timecode (MTC)=0
+name=IN AUTOMAP MIDI
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=4280498507
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4285578231
+border width=0
+round size=0
+show caption=1
+caption font color=clWhite
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=cl2
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=30
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[DEE12-CPTOOLBARTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[DEE13-]
+PATCHTYPE=7
+VERSION=85
+USINE VERSION=Usine 3.0.132 Win32
+FNAM=Y:\PORTABLE\Usine3_32\Config\Default Devices\OUT AUTOMAP MIDI.device
+ORIGINDEVICE=OUT AUTOMAP MIDI
+NBPG=2
+OFFSETX=0
+OFFSETY=0
+UID=190895616428310372
+ID0=5
+L0=100
+T0=300
+ID1=22
+L1=300
+T1=300
+C0=0000000001000000
+CSRCNAME0=MIDI IN1
+CTARGNAME0=MIDI OUT1
+NBCO=1
+
+[DEE13-PASE]
+enabled=1
+send MIDI to lan=0
+motorized device=0
+send midi clock=0
+name=OUT AUTOMAP MIDI
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=4280498507
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4285578231
+border width=0
+round size=0
+show caption=1
+caption font color=clWhite
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=cl2
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=30
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[DEE13-0]
+UID=41736152471836938
+COLLAPS=0
+
+[DEE13-1]
+UID=6751265654191430164
+INDEXchan=0
+COLLAPS=0
+
+[DEE13-CPSE]
+enabled=1
+send MIDI to lan=0
+motorized device=0
+send midi clock=0
+name=OUT AUTOMAP MIDI
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=4280498507
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4285578231
+border width=0
+round size=0
+show caption=1
+caption font color=clWhite
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=cl2
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=30
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[DEE13-CPTOOLBARTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[DEE14-]
+PATCHTYPE=1
+VERSION=85
+USINE VERSION=Usine 3.0.132 Win32
+FNAM=Y:\PORTABLE\Usine3_32\Config\Default Devices\iPAD.device
+ORIGINDEVICE=iPAD
+NBPG=3
+OFFSETX=-1
+OFFSETY=2
+UID=4909649294420498827
+ID0=330
+L0=79
+T0=278
+ID1=2
+L1=300
+T1=300
+ID2=2
+L2=300
+T2=350
+C0=0000040001000000
+CSRCNAME0=IN-4
+CTARGNAME0=AUDIO OUT1
+C1=0000050002000000
+CSRCNAME1=IN-5
+CTARGNAME1=AUDIO OUT2
+NBCO=2
+
+[DEE14-PASE]
+enabled=1
+receive linear timecode (LTC)=0
+name=iPAD
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=4280957483
+hilited color=4289978037
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4286564226
+border width=0
+round size=0
+show caption=1
+caption font color=4294573562
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=cl6
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=30
+WidthBeforeMinimize=110
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[DEE14-0]
+COLLAPS=0
+
+[DEE14-1]
+UID=5792314410037830593
+COLLAPS=0
+
+[DEE14-2]
+UID=3830136838260942033
+COLLAPS=0
+
+[DEE14-CPSE]
+enabled=1
+receive linear timecode (LTC)=0
+name=iPAD
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=4280957483
+hilited color=4289978037
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4286564226
+border width=0
+round size=0
+show caption=1
+caption font color=4294573562
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=cl6
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=30
+WidthBeforeMinimize=110
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[DEE14-CPTOOLBARTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[DEE15-]
+PATCHTYPE=1
+VERSION=85
+USINE VERSION=Usine 3.0.132 Win32
+FNAM=Y:\PORTABLE\Usine3_32\Config\Default Devices\BASS.device
+ORIGINDEVICE=BASS
+NBPG=3
+OFFSETX=0
+OFFSETY=0
+UID=5123458078455782474
+ID0=330
+L0=93
+T0=298
+ID1=2
+L1=310
+T1=296
+ID2=2
+L2=313
+T2=345
+C0=0000020001000000
+CSRCNAME0=IN-2
+CTARGNAME0=AUDIO OUT1
+C1=0000020002000000
+CSRCNAME1=IN-2
+CTARGNAME1=AUDIO OUT2
+NBCO=2
+
+[DEE15-PASE]
+enabled=1
+receive linear timecode (LTC)=0
+name=BASS
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=4283905837
+hilited color=clWhite
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4294362805
+border width=0
+round size=0
+show caption=1
+caption font color=g11
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=cl21
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=21
+WidthBeforeMinimize=110
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[DEE15-0]
+COLLAPS=0
+
+[DEE15-1]
+UID=6376758444853455047
+COLLAPS=0
+
+[DEE15-2]
+UID=6817462038110475229
+COLLAPS=0
+
+[DEE15-CPSE]
+enabled=1
+receive linear timecode (LTC)=0
+name=BASS
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=4283905837
+hilited color=clWhite
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4294362805
+border width=0
+round size=0
+show caption=1
+caption font color=g11
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=cl21
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=21
+WidthBeforeMinimize=110
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[DEE15-CPTOOLBARTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[DEE16-]
+PATCHTYPE=2
+VERSION=85
+USINE VERSION=Usine 3.0.132 Win32
+FNAM=Y:\PORTABLE\Usine3_32\Config\Default Devices\IN UCX MIDI PORT 2.device
+ORIGINDEVICE=IN UCX MIDI PORT 2
+NBPG=3
+OFFSETX=0
+OFFSETY=0
+UID=6707361397646094103
+ID0=5
+L0=100
+T0=300
+ID1=22
+L1=400
+T1=300
+ID2=68
+L2=250
+T2=350
+C0=0000000001000000
+CSRCNAME0=MIDI IN1
+CTARGNAME0=MIDI OUT1
+C1=00000A0001000200
+CSRCNAME1=SYSEX
+CTARGNAME1=SYSEX
+C2=0200010001000100
+CSRCNAME2=LIST 1
+CTARGNAME2=CHANNEL
+NBCO=3
+
+[DEE16-PASE]
+enabled=1
+send MIDI to lan=0
+receive midi clock=0
+receive midi timecode (MTC)=0
+name=IN UCX MIDI PORT 2
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=4280498507
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4285578231
+border width=0
+round size=0
+show caption=1
+caption font color=clWhite
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=cl2
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=30
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[DEE16-0]
+UID=8632112517031101220
+Vmsg=128
+Vcode1=3
+Vcode2=64
+INDEXmode=0
+INDEXfilter=0
+Vunpack=0
+COLLAPS=0
+
+[DEE16-1]
+UID=7361906648255268411
+INDEXchan=0
+COLLAPS=0
+
+[DEE16-2]
+UID=1171432338770855767
+saved in preset=1
+can be randomized=1
+can be reset=1
+edition="no change","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16"
+INDEXvisible=1
+INDEXlist=0
+Tcaption=channel
+Ttext=no change
+Vdefault val=0
+Vnum elements=17
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0
+Vmouse y=0
+Vmouse wheel=0
+Vallow drop=0
+COLLAPS=0
+LIST="no change","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16"
+
+[DEE16-2listSE]
+UID=4407677687400427
+also visible in IB=0
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+zoom scale=1
+left=3
+top=24
+width=161
+height=14
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=4280295456
+hilited color=cl2
+fit size=1
+show border=1
+border color=4285098345
+border width=1
+round size=0
+show caption=1
+caption font color=4288848546
+caption font size factor=0.899999976158142
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show value=1
+show symbol=0
+show value and symbol on click=0
+value font color=4288848546
+value font size factor=0.899999976158142
+value font bold=0
+value align=2
+value V align=0
+show scroller=1
+scroller color=4286743170
+scroller width=10
+items font color=4288848546
+select color=g5
+hide filname path=0
+hide filename ext=0
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+mouse over=0
+
+[DEE16-2mouse dwnSE]
+UID=2455870026211101128
+
+[DEE16-2dbl clickSE]
+UID=660290475602184694
+
+[DEE16-2mouse xSE]
+UID=7508120376679303714
+
+[DEE16-2mouse ySE]
+UID=5798644457814854218
+
+[DEE16-2mouse wheelSE]
+UID=5447120280345873012
+
+[DEE16-CPSE]
+enabled=1
+send MIDI to lan=0
+receive midi clock=0
+receive midi timecode (MTC)=0
+name=IN UCX MIDI PORT 2
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=4280498507
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4285578231
+border width=0
+round size=0
+show caption=1
+caption font color=clWhite
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=cl2
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=30
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[DEE16-CPTOOLBARTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[DEE17-]
+PATCHTYPE=1
+VERSION=85
+USINE VERSION=Usine 3.0.132 Win32
+FNAM=Y:\PORTABLE\Usine3_32\Config\Default Devices\TRAKTOR AUDIO.device
+ORIGINDEVICE=TRAKTOR AUDIO
+NBPG=3
+OFFSETX=135
+OFFSETY=-67
+UID=2350072008288252130
+ID0=330
+L0=13
+T0=284
+ID1=2
+L1=300
+T1=300
+ID2=2
+L2=300
+T2=350
+C0=0000080001000000
+CSRCNAME0=IN-8
+CTARGNAME0=AUDIO OUT1
+C1=0000090002000000
+CSRCNAME1=IN-9
+CTARGNAME1=AUDIO OUT2
+NBCO=2
+
+[DEE17-PASE]
+enabled=1
+receive linear timecode (LTC)=0
+name=TRAKTOR AUDIO
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=4280957483
+hilited color=4289978037
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4286564226
+border width=0
+round size=0
+show caption=1
+caption font color=4294573562
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=cl6
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=21
+WidthBeforeMinimize=110
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[DEE17-0]
+COLLAPS=0
+
+[DEE17-1]
+UID=3242823201765210937
+COLLAPS=0
+
+[DEE17-2]
+UID=521848827181546638
+COLLAPS=0
+
+[DEE17-CPSE]
+enabled=1
+receive linear timecode (LTC)=0
+name=TRAKTOR AUDIO
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=4280957483
+hilited color=4289978037
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4286564226
+border width=0
+round size=0
+show caption=1
+caption font color=4294573562
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=cl6
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=21
+WidthBeforeMinimize=110
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[DEE17-CPTOOLBARTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[DEE18-]
+PATCHTYPE=2
+VERSION=85
+USINE VERSION=Usine 3.0.132 Win32
+FNAM=Y:\PORTABLE\Usine3_32\Config\Default Devices\IN AUTOMAP HUI.device
+ORIGINDEVICE=IN AUTOMAP HUI
+NBPG=3
+OFFSETX=0
+OFFSETY=0
+UID=4410899493654213709
+ID0=5
+L0=100
+T0=300
+ID1=22
+L1=400
+T1=300
+ID2=68
+L2=250
+T2=350
+C0=0000000001000000
+CSRCNAME0=MIDI IN1
+CTARGNAME0=MIDI OUT1
+C1=00000A0001000200
+CSRCNAME1=SYSEX
+CTARGNAME1=SYSEX
+C2=0200010001000100
+CSRCNAME2=LIST 1
+CTARGNAME2=CHANNEL
+NBCO=3
+
+[DEE18-PASE]
+enabled=1
+send MIDI to lan=0
+receive midi clock=0
+receive midi timecode (MTC)=0
+name=IN AUTOMAP HUI
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=4280498507
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4285578231
+border width=0
+round size=0
+show caption=1
+caption font color=clWhite
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=cl2
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=30
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[DEE18-0]
+UID=5369566645438647666
+Vmsg=0
+Vcode1=0
+Vcode2=0
+INDEXmode=0
+INDEXfilter=0
+Vunpack=0
+COLLAPS=0
+
+[DEE18-1]
+UID=6941372109946360520
+INDEXchan=0
+COLLAPS=0
+
+[DEE18-2]
+UID=4235910680494478566
+saved in preset=1
+can be randomized=1
+can be reset=1
+edition="no change","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16"
+INDEXvisible=1
+INDEXlist=0
+Tcaption=channel
+Ttext=no change
+Vdefault val=0
+Vnum elements=17
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0
+Vmouse y=0
+Vmouse wheel=0
+Vallow drop=0
+COLLAPS=0
+LIST="no change","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16"
+
+[DEE18-2listSE]
+UID=7934254521694819819
+also visible in IB=0
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+zoom scale=1
+left=3
+top=24
+width=161
+height=14
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=4280295456
+hilited color=cl2
+fit size=1
+show border=1
+border color=4285098345
+border width=1
+round size=0
+show caption=1
+caption font color=4288848546
+caption font size factor=0.899999976158142
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show value=1
+show symbol=0
+show value and symbol on click=0
+value font color=4288848546
+value font size factor=0.899999976158142
+value font bold=0
+value align=2
+value V align=0
+show scroller=1
+scroller color=4286743170
+scroller width=10
+items font color=4288848546
+select color=g5
+hide filname path=0
+hide filename ext=0
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+mouse over=0
+
+[DEE18-2mouse dwnSE]
+UID=1161712545458297127
+
+[DEE18-2dbl clickSE]
+UID=5583347126473595260
+
+[DEE18-2mouse xSE]
+UID=6261093874167978439
+
+[DEE18-2mouse ySE]
+UID=4465880031434381846
+
+[DEE18-2mouse wheelSE]
+UID=7792801210467621469
+
+[DEE18-CPSE]
+enabled=1
+send MIDI to lan=0
+receive midi clock=0
+receive midi timecode (MTC)=0
+name=IN AUTOMAP HUI
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=4280498507
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4285578231
+border width=0
+round size=0
+show caption=1
+caption font color=clWhite
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=cl2
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=30
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[DEE18-CPTOOLBARTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[DEE18-CPTOOLBARTBPRESETSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[DEE19-]
+PATCHTYPE=7
+VERSION=85
+USINE VERSION=Usine 3.0.132 Win32
+FNAM=Y:\PORTABLE\Usine3_32\Config\Default Devices\OUT AUTOMAP HUI.device
+ORIGINDEVICE=OUT AUTOMAP HUI
+NBPG=2
+OFFSETX=0
+OFFSETY=0
+UID=7039994048806337800
+ID0=5
+L0=100
+T0=300
+ID1=22
+L1=300
+T1=300
+C0=0000000001000000
+CSRCNAME0=MIDI IN1
+CTARGNAME0=MIDI OUT1
+NBCO=1
+
+[DEE19-PASE]
+enabled=1
+send MIDI to lan=0
+motorized device=0
+send midi clock=0
+name=OUT AUTOMAP HUI
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=4280498507
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4285578231
+border width=0
+round size=0
+show caption=1
+caption font color=clWhite
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=cl2
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=30
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[DEE19-0]
+UID=7211468015348141801
+COLLAPS=0
+
+[DEE19-1]
+UID=2671687319335655184
+INDEXchan=0
+COLLAPS=0
+
+[DEE19-CPSE]
+enabled=1
+send MIDI to lan=0
+motorized device=0
+send midi clock=0
+name=OUT AUTOMAP HUI
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=4280498507
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4285578231
+border width=0
+round size=0
+show caption=1
+caption font color=clWhite
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=cl2
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=30
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[DEE19-CPTOOLBARTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[DEE19-CPTOOLBARTBPRESETSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0

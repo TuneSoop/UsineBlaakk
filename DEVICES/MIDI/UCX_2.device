@@ -1,0 +1,285 @@
+[INFO]
+thumbnail image=89504E470D0A1A0A0000000D49484452000000AA0000000E0806000000BFFB877A000000017352474200AECE1CE90000000467414D410000B18F0BFC610500000331494441546843ED995D48536118C7FF67C7E9FC40342184113545092BAB930C6F8220640CFA9040F0A2A88B2EA28BBAC8EC42826E0ABBE856BA145210BCE9A20F64481745D6885D06A963080952E94C53E6D6993DCF39AFFB3E9B11A34DDE1F3BBC7B9FF7E565E3FCF79CE7FF4C718DAC6F43222971FE49A84E7725AE69807F320ADFB2750C50D17FC38E563103E229EB0A7AFAABE06E488935A9B8D96747E36A0CA3133A16799B25196787627838A58B8964AF601363F160D1B19058404F23C6351A00DC7D0EF4B7F1866DF87C3184E9A3B87B543859B83D245216B3AF904801CDC322D5F19ACF9EA4735C7671AE642F5174A16A5D2C3A12524A965BF4470DC14ECC89C0B28E0F211A1BEC38EDA9A0EC4AEF437A4A46B62630C5E28F81B44FE7002B34B4B6A83C93943887EA66D15CB32066F949136A451ED9E65BB34645BB8B8650DC14521E02533104696C75B1C8D285BD5B9C6ED52801C2E1B8199094341DFBFC18EC7E8073AE7134567D17D1DC24E4675380FB273730D8B921224938C66BBCA778E898E5ACCAEC42D859B4D9A936E6AF13C75C50FAC37220AA3B5057BD85F3875FE08E760F175AC6D0E4F82656D34908759BEEEDFC9A8AAB5A3D068E25C57AB773D388F11AEF291A24342F675FE66FEB4CAE83CF9A8FFB7020B6AB9241521AC4A271ACFF8CA1AEF217BCED2F31D83540F77E8404BB24769824854AD7B339071EBDDBC095E335B87D74D3B82E7756536CD358CBD4E962B89072459674D9A099010BC8409D62A1B1F3172500CD9DC65A21C8F5738780DF92611BF117F3D7242916BA4EF78D5E76658BCACCDFA48874B22ACFF1790786DF47705DAB35AEC7335B14AB12AB19ACC44DB7DEB5635E1474B4D091AB3A3E8BAC16F8C48E5E85D7933438DCC21ABAB1E3FA796E370C94990D75BC0D508D49C6EAA2BB70AD61BA7E825B59B22D5576D8A89EACADB7435114CC2C74E3496018635F6EE147A459EC30B1ECA3F61E8C18E3F30587315A428FEC21F1D835E1569170E10932FBA840705AB8FE9C3DD31CBDD59C649F6B207BA96581F7C0382E9D78858FC12378F3B517C1B50EB1928DFC674AF2DF70EF9FA694AAC2BF744644AC2979A16A1E47D2646590C8CA923D8FCCA892B220CB4C4924A507F007D0B52CC11AC2FB3E0000000049454E44AE426082
+
+[PA-]
+PATCHTYPE=2
+VERSION=85
+USINE VERSION=Usine 3.0.134 Win64
+FNAM=Y:\AUDIO\USINE\USINE3\DEVICES\MIDI\UCX_2.device
+ORIGINDEVICE=IN UCX MIDI PORT 2
+NBPG=4
+OFFSETX=204
+OFFSETY=72
+UID=82984249
+ID0=5
+L0=650
+T0=400
+ID1=22
+L1=1243
+T1=403
+ID2=68
+L2=1062
+T2=350
+ID3=77
+L3=799
+T3=439
+C0=0200010001000100
+CSRCNAME0=CHANNEL
+CTARGNAME0=CHANNEL
+C1=0300030001000000
+CSRCNAME1=OUT REJECT
+CTARGNAME1=MIDI OUT1
+C2=0000000003000100
+CSRCNAME2=MIDI IN1
+CTARGNAME2=MIDI IN
+NBCO=3
+
+[PA-PASE]
+enabled=1
+send MIDI to lan=0
+receive midi clock=0
+receive midi timecode (MTC)=0
+name=UCX_2
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=cl2
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=g1
+border width=0
+round size=0
+show caption=1
+caption font color=4288544763
+caption font size factor=0.850000023841858
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=14
+header color=cl2
+show toolbar=1
+toolbar size=12
+minimized=1
+HeightBeforeMinimize=14
+WidthBeforeMinimize=170
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+
+[PA-0]
+UID=74143840
+Vmsg=128
+Vcode1=10
+Vcode2=64
+INDEXmode=11
+INDEXfilter=0
+Vunpack=0
+COLLAPS=0
+
+[PA-1]
+UID=16397463
+INDEXchan=10
+COLLAPS=0
+
+[PA-2]
+UID=63152166
+saved in preset=1
+can be randomized=1
+can be reset=1
+edition=no change,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+INDEXvisible=1
+INDEXlist=10
+Tcaption=channel
+Ttext=10
+Vdefault val=0
+Vnum elements=17
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.733838856220245
+Vmouse y=0.115084134042263
+Vmouse wheel=0
+Vallow drop=0
+COLLAPS=0
+LIST=no change,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+
+[PA-2listSE]
+UID=63152590
+also visible in IB=0
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+zoom scale=1
+left=7
+top=42
+width=161
+height=21
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=4280295456
+hilited color=cl2
+fit size=1
+show border=1
+border color=4285098345
+border width=4
+round size=0
+show caption=1
+caption font color=4288848546
+caption font size factor=0.899999976158142
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show value=1
+show symbol=0
+show value and symbol on click=0
+value font color=4288848546
+value font size factor=0.899999976158142
+value font bold=0
+value align=2
+value V align=0
+show scroller=1
+scroller color=4286743170
+scroller width=10
+items font color=4288848546
+select color=g5
+hide filname path=0
+hide filename ext=0
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+mouse over=0
+
+[PA-2mouse dwnSE]
+UID=24531173
+
+[PA-2dbl clickSE]
+UID=24531248
+
+[PA-2mouse xSE]
+UID=24531308
+
+[PA-2mouse ySE]
+UID=24531363
+
+[PA-2mouse wheelSE]
+UID=4807503383585119643
+
+[PA-3]
+UID=866728022929194915
+Vbypass=0
+INDEXfilter=18
+INDEXchan filter=0
+Vchan=0
+Vmsg=0
+Vcode1=0
+Vcode2=0
+COLLAPS=0
+
+[PA-CPSE]
+enabled=1
+send MIDI to lan=0
+receive midi clock=0
+receive midi timecode (MTC)=0
+name=UCX_2
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+transparent=0
+background color=cl2
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=g1
+border width=0
+round size=0
+show caption=1
+caption font color=4288544763
+caption font size factor=0.850000023841858
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=14
+header color=cl2
+show toolbar=1
+toolbar size=12
+minimized=1
+HeightBeforeMinimize=14
+WidthBeforeMinimize=170
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+
+[PA-CPTOOLBARTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0

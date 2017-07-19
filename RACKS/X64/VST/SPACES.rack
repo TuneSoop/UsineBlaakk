@@ -1,0 +1,1289 @@
+[RASE]
+UID=15961694
+enabled=1
+on top=0
+opacity=1
+left=783.361328125
+top=10
+width=181.898986816406
+height=386.102081298828
+zoom scale=1.81817209720612
+transparent=0
+background color=clDarkPanelBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=cl16
+border width=3
+rounded=0
+round size=0
+show caption=1
+caption font color=clMainBack
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=cl16
+minimized=0
+HeightBeforeMinimize=386.102081298828
+WidthBeforeMinimize=181.898986816406
+auto resize=1
+auto resize margin=2
+auto reorganize=1
+reorganize margin=2
+reorganize interspace=3
+name=SPACES
+always calculated=1
+saved in preset=1
+rack input=1
+rack output=1
+presets panel=0
+show when active on grid=1
+fit grid line number=0
+rack type=0
+
+[RA]
+UID=15961694
+VISIBLE=1
+MINIMIZED=0
+CNT=1
+
+[RATBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RATBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RATBPRESETSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAPRESETSSE]
+UID=15961841
+edit enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=0
+top=20
+width=161
+height=85
+zoom scale=1
+transparent=0
+background color=clMoreLitePanelBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=clControlBorder
+border width=0
+rounded=1
+round size=4
+show caption=1
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=clMoreLitePanelBack
+show toolbar=1
+toolbar size=15
+minimized=0
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+show border button=0
+button color=clControlBack
+button font color=clFont
+button border color=clControlBorder
+show cmd=1
+show border cmd=0
+cmd ON color=clURed
+cmd OFF color=clControlBack
+cmd font ON color=clFont
+cmd font OFF color=clFont
+cmd border ON color=clControlBorder
+cmd border OFF color=clControlBorder
+silent edit=0
+
+[RAPRESETS]
+UID=15961841
+VISIBLE=0
+MINIMIZED=0
+CURRENT CAPTION=
+CURRENT NUM=0
+
+[RAPRESETSTBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAPRESETSTBPREVIOUSSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAPRESETSTBNEXTSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE1-]
+PATCHTYPE=0
+VERSION=73
+FNAM=Y:\AUDIO\USINE\UsineBlaakk-master\x64\PATCHES\VSTs\BREEZE.pat
+ORIGINDEVICE=
+NBPG=9
+OFFSETX=210
+OFFSETY=58
+UID=58077436
+ID0=7
+L0=531.978759765625
+T0=174.301605224609
+DLL0=Y:\PORTABLE\Usine2\Config\Plug-Ins\VST\2C_AUDIO\2C-Breeze.plugin
+DLLCONTENT0=2C-Breeze,"C:\Program Files\Common Files\VST2\2C_AUDIO\2C-Breeze.dll",3263427a,VST
+ID1=9
+L1=424
+T1=193
+ID2=8
+L2=424
+T2=153
+QIDX3=1
+ID3=261
+L3=696.444519042969
+T3=221.624359130859
+ID4=3
+L4=564.841125488281
+T4=506.243347167969
+ID5=2
+L5=848.587341308594
+T5=198.433837890625
+ID6=2
+L6=849.58203125
+T6=240.253967285156
+ID7=1
+L7=285
+T7=148
+ID8=1
+L8=292
+T8=187
+C0=0100010000000200
+CSRCNAME0=SWITCH 1
+CTARGNAME0=BYPASS
+C1=0200010000000000
+CSRCNAME1=BUTTON 2
+CTARGNAME1=SHOW EDITOR
+C2=0700000000000300
+CSRCNAME2=AUDIO 1
+CTARGNAME2=IN 1
+C3=0800000000000400
+CSRCNAME3=AUDIO 2
+CTARGNAME3=IN 2
+C4=0000050003000100
+CSRCNAME4=OUT 1
+CTARGNAME4=IN 1
+C5=0000060003000200
+CSRCNAME5=OUT 2
+CTARGNAME5=IN 2
+C6=0400010003000500
+CSRCNAME6=FADER 3
+CTARGNAME6=GAIN
+C7=0300030005000000
+CSRCNAME7=OUT 1
+CTARGNAME7=AUDIO 1
+C8=0300040006000000
+CSRCNAME8=OUT 2
+CTARGNAME8=AUDIO 2
+NBCO=9
+
+[RAE1-PASE]
+name=BREEZE
+where=0
+saved in preset=1
+can be randomized=1
+undo enabled=1
+shared=0
+presets panel=0
+enabled=1
+on top=1
+opacity=1
+left=5
+top=48
+width=170
+height=82
+zoom scale=1.01117050647736
+transparent=0
+background color=clVeryLitePanelBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=cl16
+border width=0
+rounded=0
+round size=0
+show caption=1
+caption font color=clMainBack
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=cl16
+show toolbar=1
+toolbar size=16
+minimized=0
+HeightBeforeMinimize=70
+WidthBeforeMinimize=160
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+
+[RAE1-PRESETSSE]
+UID=72197364
+edit enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=3
+top=23
+width=161
+height=85
+zoom scale=1
+transparent=0
+background color=clMoreLitePanelBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=clControlBorder
+border width=0
+rounded=1
+round size=4
+show caption=1
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=clMoreLitePanelBack
+show toolbar=1
+toolbar size=15
+minimized=0
+HeightBeforeMinimize=86
+WidthBeforeMinimize=161
+show border button=0
+button color=clControlBack
+button font color=clFont
+button border color=clControlBorder
+show cmd=1
+show border cmd=0
+cmd ON color=clURed
+cmd OFF color=clControlBack
+cmd font ON color=clFont
+cmd font OFF color=clFont
+cmd border ON color=clControlBorder
+cmd border OFF color=clControlBorder
+silent edit=0
+
+[RAE1-PRESETS]
+UID=72197364
+VISIBLE=0
+MINIMIZED=0
+CURRENT CAPTION=
+CURRENT NUM=0
+
+[RAE1-PRESETSTBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE1-PRESETSTBPREVIOUSSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE1-PRESETSTBNEXTSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE1-0]
+UID=29966059
+saved in preset=1
+Vvisible=0
+Vbypass=0
+Vin 1=-2.23894357986865E-6
+Vin 2=1.31666899960692E-6
+Vout 1=-4.85005557493423E-6
+Vout 2=-1.2323164355621E-7
+INDEXprogram=0
+Vlatency=0
+Vsend to usine=1
+CHUNK=50473031000000005C0300003D0200000300000000000000040000000D000000CC13000043636E4B0000000046424368000000013263427A000000010000000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000132C412D4332734468437A4263320100000002000000000000008900000042313337000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001500000004000000020000002C130000A4000000F00A0000C403000010000000A38601005072657365744E616D650000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002C01000000000000A486010050726573657443617465676F727900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002C0100002C010000A58601005072657365744F726967696E000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000400000058020000000000004D697800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000040000005C020000010000004761696E00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000004000000600200000400000054696D6500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000004000000640200000A000000446966667573696F6E00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000040000006802000006000000537061636553697A6500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000040000006C020000070000005368617065000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000004000000700200000500000050726544656C6179000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000004000000740200000200000044616D70696E6700000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000004000000780200000900000044656E73697479000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000040000007C020000030000004551000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000004000000800200000D00000053746572656F5769647468000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000004000000840200000B0000004D6F644465707468000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000004000000880200000C0000004D6F64506572696F6400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000040000008C0200000E00000043726F73730000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000040000009002000008000000436F6E746F757200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000004000000940200000F000000444D6F646500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000006400000098020000100000004F7574707574466C745479706500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000064000000FC020000110000004465636179466C7454797065000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000006400000060030000A0860100536574757041420000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000400000000000000A1860100416374697665566965770000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000400000004000000AD8601005042436F6C53686966740000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000400000008000000AE8601005042466F6C6465724C6973745342506F730000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000040000000C0000004472756D20536C6976657220320000650000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000466163746F7279207C203037204472756D73005800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000A03ED42A823F5A1262403333133FB53CCE410AD7E33E7AA9583B0000000048E1FA3E713D0A3E6666663F14AE473E0000403F9A99993ECDCCCC3E4C4F0030007279207C203037204472756D730000000000007C48B70000000000095A410000000000A8F214000000000060F1140000000000705AB36D0000000070F1140000000000200B59010000000030B28D16000000007C48B70000000000000000004C6F2D5368656C6600203037204472756D730000000000007C48B70000000000095A410000000000A8F214000000000060F1140000000000705AB36D0000000070F1140000000000200B59010000000030B28D16000000007C48B700000000000000000048692D5368656C6600203037204472756D730000000000007C48B70000000000095A410000000000A8F214000000000060F1140000000000705AB36D0000000070F1140000000000200B59010000000030B28D16000000007C48B7000000000000000000756E646566696E6564000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003F0000803F000000400000003F0000F0410000003F000000000000003F000000000000003F0000003F0000003F0000803F0000003F000000004849000000696E65640005A00000000028E7000000000000270100000000000000000000000000004000000000000000384D06A000000000989905A00000000028E700000000000027010000000000000E0000000000000068D805A000000000EBEF58744C6F2D5368656C66000005A00000000028E7000000000000270100000000000000000000000000004000000000000000384D06A000000000989905A00000000028E700000000000027010000000000000E0000000000000068D805A000000000EBEF587448692D5368656C66000005A00000000028E7000000000000270100000000000000000000000000004000000000000000384D06A000000000989905A00000000028E700000000000027010000000000000E0000000000000068D805A000000000EBEF587400000000000000000000000000000000
+
+[RAE1-0SE]
+UID=29966059
+saved in preset=1
+
+[RAE1-1]
+UID=57766248
+saved in preset=1
+can be randomized=1
+INDEXvisible=1
+Vswitch=0
+Tcaption=bypass
+COLcolor=clSwitchOn
+VON value=1
+VOFF value=0
+Vnull evt if OFF=0
+INDEXgroup=0
+Vat least one=0
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.0465637519955635
+Vmouse y=0
+Vallow drop=0
+
+[RAE1-1switchSE]
+UID=57766244
+edit enabled=0
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=7
+top=28
+width=70
+height=14
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+frames count=1
+frames alignment=0
+show border=0
+border width=1
+rounded=1
+round size=2
+show caption=1
+caption font color=clFont
+caption font size factor=0.899999976158142
+caption align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+fit size=1
+ON color=clSwitchOn
+OFF color=clControlBack
+font ON color=clFont
+font OFF color=clFont
+border ON color=clControlBorder
+border OFF color=clControlBorder
+show small led=1
+small led size=8
+small led ON color=cl7
+small led OFF color=cl8
+inverse=0
+quantize=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+
+[RAE1-1mouse dwnSE]
+UID=75028408
+
+[RAE1-1dbl clickSE]
+UID=75028473
+
+[RAE1-1mouse xSE]
+UID=75028508
+
+[RAE1-1mouse ySE]
+UID=75028555
+
+[RAE1-2]
+UID=57774383
+INDEXvisible=1
+Tcaption=show
+COLcolor=clControlBack
+VOFF value=0
+VON value=1
+Vnull evt if OFF=0
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.0307035408914089
+Vmouse y=0
+Vallow drop=0
+
+[RAE1-2buttonSE]
+UID=57774382
+edit enabled=0
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=84
+top=28
+width=70
+height=14
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=clControlBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=clControlBorder
+border width=1
+rounded=1
+round size=2
+show caption=1
+caption font color=clFont
+caption font size factor=0.899999976158142
+caption align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+time code=0
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+
+[RAE1-2mouse dwnSE]
+UID=75037411
+
+[RAE1-2dbl clickSE]
+UID=75037446
+
+[RAE1-2mouse xSE]
+UID=75037488
+
+[RAE1-2mouse ySE]
+UID=75037526
+
+[RAE1-3]
+UID=50439698
+Vbypass=0
+Vgain=-0.964271545410156
+Vmute=0
+Vsmooth=1
+INDEXsmooth speed=2
+
+[RAE1-4]
+UID=47129484
+saved in preset=1
+can be randomized=1
+INDEXvisible=1
+Vfader=-0.964271545410156
+Vmin=-80
+Vmax=12
+Tcaption=gain
+Tsymbol=dB
+COLcolor=clDataFlow
+INDEXprec=1
+INDEXlogscale=2
+Vdefault val=0
+Vinc/dec val=1
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.645601391792297
+Vmouse y=0.253536611795425
+Vauto reset=0
+Vallow drop=0
+COLLAPS=1
+
+[RAE1-4faderSE]
+UID=47129759
+edit enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=3
+top=48
+width=161
+height=28
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=clControlBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=clControlBorder
+border width=3
+rounded=1
+round size=2
+show caption=1
+caption font color=clFont
+caption font size factor=1
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+text align=1
+show fader=1
+fader color=clDataFlow
+dashed fader=1
+show cursor=1
+cursor color=clFaderCursor
+cursor width=4
+show value=1
+value font color=clFont
+value font size factor=1
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RAE1-4mouse dwnSE]
+UID=47130268
+
+[RAE1-4dbl clickSE]
+UID=47130301
+
+[RAE1-4mouse xSE]
+UID=47130333
+
+[RAE1-4mouse ySE]
+UID=47130359
+
+[RAE1-5]
+UID=14743191
+
+[RAE1-6]
+UID=70331120
+
+[RAE1-7]
+UID=77675734
+
+[RAE1-8]
+UID=48937349
+
+[RAE1-CPSE]
+enabled=1
+on top=1
+opacity=1
+left=5
+top=48
+width=170
+height=82
+zoom scale=1.01117050647736
+transparent=0
+background color=clVeryLitePanelBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=cl16
+border width=0
+rounded=0
+round size=0
+show caption=1
+caption font color=clMainBack
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=cl16
+show toolbar=1
+toolbar size=16
+minimized=0
+HeightBeforeMinimize=70
+WidthBeforeMinimize=160
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+name=BREEZE
+where=0
+saved in preset=1
+can be randomized=1
+undo enabled=1
+shared=0
+presets panel=0
+
+[RAE1-CPTOOLBARTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE1-CPTOOLBARTBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE1-CPTOOLBARTBPRESETSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+[RADINSE]
+UID=16536130
+left=5
+top=25
+width=110
+height=20
+zoom scale=1
+minimized=1
+HeightBeforeMinimize=112
+WidthBeforeMinimize=111
+saved in preset=1
+show vu-meter and gain=1
+
+[RADIN]
+UID=16536130
+VISIBLE=1
+MINIMIZED=1
+CNT=1
+ENABLED0=1
+MINI0=1
+SRA0=12
+
+[RADINTBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINTBPRESETSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINGAINgainSE]
+UID=15980077
+name=11
+saved in preset=1
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RADINGAIN]
+Vgain=0
+
+[RADINITEM0SE]
+minimized=1
+HeightBeforeMinimize=37
+WidthBeforeMinimize=141.117630004883
+saved in preset=1
+
+[RADINITEM0]
+UID=75111219
+VISIBLE=0
+MINIMIZED=1
+
+[RADINITEM0TBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINITEM0TBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINGAIN0gainSE]
+UID=75112970
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RADINGAIN0]
+Vgain=0
+
+[RADOUTSE]
+UID=15982456
+left=5
+top=168.945404052734
+width=111
+height=196
+zoom scale=1.08243203163147
+minimized=0
+HeightBeforeMinimize=200
+WidthBeforeMinimize=111
+saved in preset=1
+show on/off=1
+show mute=1
+show solo=1
+show vu-meter and gain=1
+
+[RADOUT]
+UID=15982456
+VISIBLE=1
+MINIMIZED=0
+CNT=1
+ENABLED0=1
+MINI0=1
+SRA0=11
+
+[RADOUTTBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADOUTTBPRESETSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADOUTGAINgainSE]
+UID=15982586
+name=11
+saved in preset=1
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RADOUTGAIN]
+Vgain=0
+
+[RADOUTSOLOSSE]
+UID=15983557
+saved in preset=1
+inverse=0
+quantize=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+
+[RADOUTSOLO]
+VS=0
+
+[RADOUTMUTEMSE]
+UID=15983476
+saved in preset=1
+inverse=0
+quantize=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+
+[RADOUTMUTE]
+VM=0
+
+[RADOUTONOFFonSE]
+UID=15983058
+saved in preset=0
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+
+[RADOUTONOFF]
+Von=1
+
+[RADOUTITEM0SE]
+minimized=1
+HeightBeforeMinimize=35
+WidthBeforeMinimize=107
+saved in preset=1
+
+[RADOUTITEM0]
+UID=55704813
+VISIBLE=1
+MINIMIZED=1
+
+[RADOUTITEM0TBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADOUTITEM0TBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADOUTGAIN0gainSE]
+UID=55705773
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RADOUTGAIN0]
+Vgain=0
+
+[RADOUTMUTE0MSE]
+UID=55705916
+inverse=0
+quantize=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+
+[RADOUTMUTE0]
+VM=0
+
+[RADOUTSOLO0SSE]
+UID=55706165
+inverse=0
+quantize=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADOUTSOLO0]
+VS=0
+
+[RADOUTPRE0preSE]
+UID=55706045
+inverse=0
+quantize=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+
+[RADOUTPRE0]
+Vpre=0
