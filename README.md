@@ -5,5 +5,7 @@ This is my personal library for [Sensomusic's Usine 3](https://sensomusic.org). 
 I'm working on automating documentation creation upon each saving of patches, racks, etc, so watch this space.
 
 [Racks](https://github.com/Blaakk/UsineBlaakk/tree/master/RACKS)
+
 [Patches](https://github.com/Blaakk/UsineBlaakk/tree/master/PATCHES)
+
 [SubPatches](https://github.com/Blaakk/UsineBlaakk/tree/master/SUBPATCHES)
