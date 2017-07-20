@@ -1,0 +1,847 @@
+[INFO]
+thumbnail image=89504E470D0A1A0A0000000D494844520000006E0000001408060000006CE2085C000000017352474200AECE1CE90000000467414D410000B18F0BFC610500000413494441546843ED985F6853571CC7BFF9679ACEFC594DFF6CA9B6D54DD1B6EBB0B6D8766550C6702D13FB20F46193B10745DC1E0A637BE9830F634F035FF6079F047DB01BC36CB04619CC41E74A556A57D6526A04EB9FAC2D26A66DD4A4E6E6DEFDCECD89C9CDBDA62D14CC1DF70397DCF33BE7FC6E72BFE7F7FB9D13D3B1F68B120C7487997F1AE80C43389D6208A75336BCC6D51E7160FF4EDE206223090C05B41F913F562692C4A55302167913B0A0F3CB4DF0F1162062FAFB154C84D2ADB5F9285E5E7B7F04A19106C4232E6E591B1B2A9CA7DB8E035E01836753DC6242537F095CC371FC39C64D39B0975E1F560AABB4A545833F677EB30D7DBDC0E84012B3D45CDD4771D3FCA91FAE9A39CC8FEDC4BF24E0D29D2ADE531845AAB4D9CD6879AF0C758D2FB177AE866CAC8F8D6163F3F178CD084D654463489838A52DDAF3989D12E0243F0C4FB715BE9B4F95F3C79218BD69863B1B822A727D143B9224C1EA788AEAB726D1FAF920DE3CFE0B4ACA62A48CC84768A3F8752F576EC2DB872B70F0840FF5ED6E98CC59F5D87D438747EE6363D8D87C16C3227CBD0EF41DB170CBFAA9ADB722467ED82AA9D995BF10D2CC9ECDA64A2D6AEBCD98FE5D3D4F0F9437DC46DBC039BCF17100CEAD0BDCAA46912ACD244E6B77193A7ABDB250BF9D99C73F5796E4BEC64E37DEFDA80A9228E12F7F18D7020F21D2BD0A9F153DC76D70F2262862B2A95349E1FAC4D22C2D8E1FB322C9A9B83DBDD632B553D30711CA4DAF45CCDE4F2E60CBEEBBBCA566E1C6EB08FEDC8978743395F76C9C59F66DFDE024BFA7B0A51F7C2B4E9F26EC68DA8C6D7B4A118B2651B1CD8E773EAC82BDC482E19F1EE06A204202F249F9C444042F0B9894AF142C5D76EC2B4B21F88404FDC28EE62E1B1ABA2CB0CCA4B0B2DD06F74C02FED3494CCE00352D12C6BF12302F3B32A1AACD065744C0DD39D980443025FB7D546D43C51301C12089D994E3833FF73E7DCFBDCD26DC1F1591484F2D5A5E699D4669793A38B488475D884CD64148D022265D32A80A011364F4D708FE38BF405107F41C7D55BED8FD65B25D1D7AF87CD154508D1BE6F526246068208E41F9D24875ACDF0FECEFB7C2231B24DC9911E1AAD42AB685599C4881AA846E6181130D5663FCBB43F8FBDB43E91D674EB43154C231583ABC763122A74413BD37765DB9F000D7C9C6FAB461A9CD819E6EE58BF6549A79CD5A036302A6614307F7B11810B0DC5EA2F449BB4AADD4988BA7C9026744D2C571209F95E5525CFFBA0F37BEE94578AA965BD5143C0EB03AB7A7CD250B3735B25C40B40CF967AED5CF71AA6DBBBCDDA7CDC5B3B35AFA48B17B8BDC4BFCBFCE71991AF778CE8B7BC38D74A66B842868C69302E34FE6174CCB673F204C35ECF6A5566E591B86702F1887770989A813526AF528CB657DA30D369C78D8BD6ED11886703AC5104EA718C2E91443385D02FC07F303B1877F1F34CD0000000049454E44AE426082
+
+[PA-]
+PATCHTYPE=11
+VERSION=85
+USINE VERSION=Usine 3.0.134 Win64
+FNAM=Y:\AUDIO\USINE\USINE3\SUBPATCHES\VIDEO\FX\COLORS\S-RGB.pat
+ORIGINDEVICE=
+NBPG=9
+OFFSETX=-179
+OFFSETY=276
+UID=837278595424043375
+ID0=524
+L0=441
+T0=257
+ID1=503
+L1=287
+T1=282
+ID2=504
+L2=636
+T2=274
+ID3=169
+L3=442
+T3=155
+ID4=20
+L4=277
+T4=161
+ID5=9
+L5=294
+T5=226
+ID6=175
+L6=185
+T6=334
+ID7=175
+L7=206
+T7=377
+ID8=175
+L8=238
+T8=443
+C0=0100000000000100
+CSRCNAME0=VIDEO IN1
+CTARGNAME0=VIDEO IN 1
+C1=0500010000000000
+CSRCNAME1=SWITCH 1
+CTARGNAME1=BYPASS
+C2=0600010000000300
+CSRCNAME2=KNOB 2
+CTARGNAME2=R
+C3=0700010000000400
+CSRCNAME3=KNOB 3
+CTARGNAME3=G
+C4=0800010000000500
+CSRCNAME4=KNOB 4
+CTARGNAME4=B
+C5=0000020002000000
+CSRCNAME5=VIDEO OUT 1
+CTARGNAME5=VIDEO OUT1
+C6=0400000003000000
+C6SELY=-1
+CSRCNAME6=IN
+CTARGNAME6=ON
+NBCO=7
+
+[PA-PASE]
+name=S-RGB
+saved in preset=1
+can be randomized=1
+can be reset=1
+fast graphic render=0
+also visible in IB=0
+enabled=1
+on top=0
+opacity=1
+zoom scale=1
+left=23
+top=295
+width=110
+height=20
+resize grip enabled=1
+IB left=0
+IB top=0
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=g4
+hilited color=4288322202
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=g0
+border width=0
+round size=0
+show caption=1
+caption font color=4290822336
+caption font size factor=0.600000023841858
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show poly order=0
+show header=1
+header height=20
+header color=cl15
+show toolbar=1
+toolbar size=16
+minimized=1
+HeightBeforeMinimize=66
+WidthBeforeMinimize=170
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+
+[PA-0]
+UID=8880511061032377989
+Vbypass=0
+VR=1
+VG=1
+VB=1
+COLLAPS=0
+
+[PA-1]
+UID=6255211294073930059
+once in poly=0
+in-outlet visible=1
+COLLAPS=0
+
+[PA-2]
+UID=2204322335908544846
+once in poly=0
+in-outlet visible=1
+COLLAPS=0
+
+[PA-3]
+UID=5154131466363978065
+Von=1
+COLLAPS=0
+
+[PA-4]
+UID=1124954478412939604
+once in poly=0
+in-outlet visible=1
+Vdata=1
+Tcaption=on
+INDEXprec=1
+COLLAPS=0
+
+[PA-5]
+UID=8606333283041132887
+saved in preset=1
+can be randomized=1
+can be reset=1
+once in poly=0
+in-outlet visible=1
+INDEXvisible=1
+Vswitch=0
+Tcaption=bypass
+COLcolor=cl2
+VON value=1
+VOFF value=0
+Vnull evt if OFF=0
+INDEXgroup=0
+Vat least one=0
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.946666657924652
+Vmouse y=1
+Vmouse wheel=0
+Vallow drop=0
+COLLAPS=0
+
+[PA-5switchSE]
+UID=2448388166798393989
+also visible in IB=0
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+zoom scale=1
+left=3
+top=26
+width=77
+height=14
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+hilited color=4294309365
+frames count=1
+frames alignment=0
+show border=1
+border width=1
+round size=0
+show caption=1
+caption font size factor=0.899999976158142
+caption align=0
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show poly order=1
+fit size=1
+ON color=cl2
+OFF color=4282203453
+font ON color=4280690214
+font OFF color=4286611584
+border ON color=clWhite
+border OFF color=g9
+show small led=0
+small led size factor=0.300000011920929
+small led ON color=cl7
+small led OFF color=cl8
+inverse=0
+quantize=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+mouse over=0
+
+[PA-5mouse dwnSE]
+UID=6469196741685658785
+
+[PA-5dbl clickSE]
+UID=916410659875964099
+
+[PA-5mouse xSE]
+UID=4225956484288726244
+
+[PA-5mouse ySE]
+UID=6780950986577528069
+
+[PA-5mouse wheelSE]
+UID=8987974084722279718
+
+[PA-6]
+UID=236628304348286948
+saved in preset=1
+fade preset=1
+can be randomized=1
+can be reset=1
+once in poly=0
+in-outlet visible=1
+INDEXvisible=1
+Vfader=1
+Vmin=0
+Vmax=1
+Tcaption=R
+COLcolor=g5
+INDEXprec=3
+INDEXlogscale=0
+Vdefault val=1
+Vinc/dec val=1
+INDEXwrap mode=0
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0
+Vmouse y=0
+Vmouse wheel=0
+Vauto reset=0
+Vallow drop=0
+COLLAPS=0
+
+[PA-6faderSE]
+UID=8264270781592867096
+also visible in IB=0
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+zoom scale=1
+left=3
+top=26
+width=56
+height=56
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=1
+background color=4280295456
+hilited color=4286743170
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=4285098345
+border width=1
+round size=0
+show caption=1
+caption font color=4288848546
+caption font size factor=0.800000011920929
+caption align=0
+caption V align=2
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show poly order=1
+symetric fader=0
+show value=1
+show symbol=1
+show value and symbol on click=1
+value font color=4288848546
+value font size factor=0.800000011920929
+value font bold=0
+value align=0
+value V align=0
+touch hi precision=0
+precision factor=8
+show knob=1
+knob color=g5
+design=0
+cursor width=0.300000011920929
+rounded cursor=1
+aperture=0.5
+draw back knob cursor=1
+back knob cursor color=4281413937
+draw center circle=0
+plain center circle=1
+circle color=4281413937
+circle size=1
+vertical mouse=1
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+mouse over=0
+
+[PA-6symbolSE]
+UID=7133376970246296022
+
+[PA-6mouse dwnSE]
+UID=3547656807306204397
+
+[PA-6dbl clickSE]
+UID=9044811921487533347
+
+[PA-6mouse xSE]
+UID=1615525538241942991
+
+[PA-6mouse ySE]
+UID=3233239811539834352
+
+[PA-6mouse wheelSE]
+UID=3222787929168123410
+
+[PA-7]
+UID=7559575609531695240
+saved in preset=1
+fade preset=1
+can be randomized=1
+can be reset=1
+once in poly=0
+in-outlet visible=1
+INDEXvisible=1
+Vfader=1
+Vmin=0
+Vmax=1
+Tcaption=G
+COLcolor=g5
+INDEXprec=3
+INDEXlogscale=0
+Vdefault val=1
+Vinc/dec val=1
+INDEXwrap mode=0
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0
+Vmouse y=0
+Vmouse wheel=0
+Vauto reset=0
+Vallow drop=0
+COLLAPS=0
+
+[PA-7faderSE]
+UID=1927455943404552664
+also visible in IB=0
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+zoom scale=1
+left=3
+top=26
+width=56
+height=56
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=1
+background color=4280295456
+hilited color=4286743170
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=4285098345
+border width=1
+round size=0
+show caption=1
+caption font color=4288848546
+caption font size factor=0.800000011920929
+caption align=0
+caption V align=2
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show poly order=1
+symetric fader=0
+show value=1
+show symbol=1
+show value and symbol on click=1
+value font color=4288848546
+value font size factor=0.800000011920929
+value font bold=0
+value align=0
+value V align=0
+touch hi precision=0
+precision factor=8
+show knob=1
+knob color=g5
+design=0
+cursor width=0.300000011920929
+rounded cursor=1
+aperture=0.5
+draw back knob cursor=1
+back knob cursor color=4281413937
+draw center circle=0
+plain center circle=1
+circle color=4281413937
+circle size=1
+vertical mouse=1
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+mouse over=0
+
+[PA-7symbolSE]
+UID=8476298218078470821
+
+[PA-7mouse dwnSE]
+UID=869121741200819309
+
+[PA-7dbl clickSE]
+UID=8873922089864135843
+
+[PA-7mouse xSE]
+UID=631622543791883460
+
+[PA-7mouse ySE]
+UID=6737570211116352741
+
+[PA-7mouse wheelSE]
+UID=5876128790208840964
+
+[PA-8]
+UID=8527123441604312745
+saved in preset=1
+fade preset=1
+can be randomized=1
+can be reset=1
+once in poly=0
+in-outlet visible=1
+INDEXvisible=1
+Vfader=1
+Vmin=0
+Vmax=1
+Tcaption=B
+COLcolor=g5
+INDEXprec=3
+INDEXlogscale=0
+Vdefault val=1
+Vinc/dec val=1
+INDEXwrap mode=0
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0
+Vmouse y=0
+Vmouse wheel=0
+Vauto reset=0
+Vallow drop=0
+COLLAPS=0
+
+[PA-8faderSE]
+UID=2320116991248777588
+also visible in IB=0
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+zoom scale=1
+left=3
+top=26
+width=56
+height=56
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=1
+background color=4280295456
+hilited color=4286743170
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=4285098345
+border width=1
+round size=0
+show caption=1
+caption font color=4288848546
+caption font size factor=0.800000011920929
+caption align=0
+caption V align=2
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show poly order=1
+symetric fader=0
+show value=1
+show symbol=1
+show value and symbol on click=1
+value font color=4288848546
+value font size factor=0.800000011920929
+value font bold=0
+value align=0
+value V align=0
+touch hi precision=0
+precision factor=8
+show knob=1
+knob color=g5
+design=0
+cursor width=0.300000011920929
+rounded cursor=1
+aperture=0.5
+draw back knob cursor=1
+back knob cursor color=4281413937
+draw center circle=0
+plain center circle=1
+circle color=4281413937
+circle size=1
+vertical mouse=1
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+mouse over=0
+
+[PA-8symbolSE]
+UID=729688548545610436
+
+[PA-8mouse dwnSE]
+UID=6101737703550436464
+
+[PA-8dbl clickSE]
+UID=1282057927342638250
+
+[PA-8mouse xSE]
+UID=1522790953805104433
+
+[PA-8mouse ySE]
+UID=5513774635838817622
+
+[PA-8mouse wheelSE]
+UID=7077126468689151351
+
+[PA-CPSE]
+name=S-RGB
+saved in preset=1
+can be randomized=1
+can be reset=1
+fast graphic render=0
+also visible in IB=0
+enabled=1
+on top=0
+opacity=1
+zoom scale=1
+left=23
+top=295
+width=110
+height=20
+resize grip enabled=1
+IB left=0
+IB top=0
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=g4
+hilited color=4288322202
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=g0
+border width=0
+round size=0
+show caption=1
+caption font color=4290822336
+caption font size factor=0.600000023841858
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show poly order=0
+show header=1
+header height=20
+header color=cl15
+show toolbar=1
+toolbar size=16
+minimized=1
+HeightBeforeMinimize=66
+WidthBeforeMinimize=170
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+
+[PA-CPTOOLBARTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[PA-CPTOOLBARTBPRESETSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0

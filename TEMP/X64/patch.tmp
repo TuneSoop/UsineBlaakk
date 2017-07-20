@@ -1,127 +1,14 @@
 [CLIPBOARD-0]
-PLUGINID=212
-UID=4524150741266962448
+PLUGINID=577
+UID=3961442337567617371
 QIDX=-1
-saved in preset=1
-can be randomized=1
-can be reset=1
-edition=A,B,C,D
-INDEXvisible=1
-INDEXlist=0
-SZDlist=0
-Tcaption=list 1
-Ttext=A
-Vdefault val=0
-Vnum elements=4
-Vmouse dwn=0
-Vdbl click=0
-Vmouse x=0
-Vmouse y=0
-Vmouse wheel=0
-Vallow drop=0
-COLLAPS=2
-LIST=A,B,C,D
+Vbypass=0
+COLLAPS=0
 FNAM=
 OPTIONALCONTENT=
-PLUGINLEFT=26
-PLUGINTOP=559
+PLUGINLEFT=292
+PLUGINTOP=137
 NBCO=0
-
-[CLIPBOARD-0listSE]
-UID=952417613920180560
-also visible in IB=0
-edition enabled=1
-on top=0
-opacity=1
-blur softness=0
-vertical=0
-rotation angle=0
-zoom scale=1
-left=3
-top=24
-width=77
-height=100
-resize grip enabled=1
-IB width=10000
-IB height=10000
-location left=10000
-location top=10000
-location width=10000
-location height=10000
-memo minimized in IB=0
-memo minimized=0
-floating x=0
-floating y=0
-floating content parent X=1
-floating content parent Y=1
-resizable left=0
-resizable right=0
-resizable top=0
-resizable bottom=0
-ignored in physical engine=0
-collide=0
-collide info=0
-speed x=0
-speed y=0
-angular speed=0
-transparent=0
-background color=4280295456
-hilited color=cl2
-fit size=1
-show border=1
-border color=4285098345
-border width=1
-round size=0
-caption V align=0
-caption font name=Arial
-show symbol=0
-show value and symbol on click=0
-value font bold=0
-value align=2
-value V align=0
-show scroller=1
-scroller color=4286743170
-scroller width=10
-items font color=4288848546
-select color=g5
-text align=1
-items size=14
-display line number=0
-hide filname path=0
-hide filename ext=0
-drag enabled=0
-pre-listen on double click=0
-inverse=0
-quantize=0
-mode=0
-channel=1
-control type=0
-control num=0
-motorized=0
-mackie mode=0
-only if rack is on=0
-soft take over=0
-short cut=0
-osc tag order=1
-osc mode=0
-auto record on click=0
-is playing record=0
-mouse over=0
-
-[CLIPBOARD-0mouse dwnSE]
-UID=947360163227605757
-
-[CLIPBOARD-0dbl clickSE]
-UID=5499734811453528871
-
-[CLIPBOARD-0mouse xSE]
-UID=8882113922472713035
-
-[CLIPBOARD-0mouse ySE]
-UID=7463078836218469229
-
-[CLIPBOARD-0mouse wheelSE]
-UID=2528627251709844369
 
 [CLIPBOARD]
 COUNT=1
