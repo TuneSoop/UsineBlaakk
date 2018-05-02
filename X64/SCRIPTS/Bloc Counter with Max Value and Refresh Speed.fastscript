@@ -1,0 +1,52 @@
+/////////////////////////////////////////////////////////////
+//Bloc counter with Max Value and refresh speed
+// If start pulse will count incremental till max value is reached
+// increment is timespaced of nb-blocs input.
+////////////////////////////////////////////////////////
+VAR start, counter, maxVal,counting,NB-blocs : tParameter;
+VAR count : Integer;
+
+PROCEDURE Init;
+BEGIN
+   start := CreateParam('start', ptButton);
+   SetIsOutput(start, FALSE);
+   maxVal := CreateParam('max', ptDataField);
+   SetIsOutput(maxVal, FALSE);setValue(maxVal,16);
+   NB-blocs := CreateParam('nb-blocs', ptDataField);
+   SetIsOutput(NB-blocs, FALSE); setValue(Nb-Blocs,100);
+   counter := CreateParam('counter', ptDataField);
+   SetIsInput(counter, FALSE);
+   counting := CreateParam('counting', ptDataField);
+   SetIsInput(counting, FALSE);
+END;
+
+//PROCEDURE Callback(n : Integer);
+var maxvaltmp : integer;
+PROCEDURE Process;
+BEGIN
+
+   IF (GetValue(start) = 1) THEN BEGIN                          //if start pulse of button we start the process
+      setvalue(start,0);
+      maxValtmp:= round(getValue(maxVal)*getValue(NB-blocs));   // we get the maxvalue to count to. we muliply by
+                                                                // nb-blocs for the  speed.                            
+      count := 0;                                               //we reset count to 0 
+      SetValue(counting,1);                                     //we start counting so set the parameter to 1.
+      END
+      ELSE BEGIN                                                //as soon as the button went back to 0 will count.
+          count := count + 1;
+      END;
+
+      while count > maxValtmp                              // if count reached maxvalue, it keeps that value
+          do begin                                         // and set counting parameter to 0.
+          count := maxValtmp;
+          SetValue(counting,0);
+      END;
+
+   SetValue(counter, count div round(getValue(NB-blocs))); //we set the value to counter output. (we divide by
+                                                           // speed. it's the fastest possible clock in usine
+                                                           // that will increment each bloc (3ms at 128samples)
+                                                           // and ensure a strong jiter free sync over 
+                                                           // time counters.
+                                                           // it can be used to set some arrayvalue, dispatchers,
+                                                           // ask osc datas ect...
+END;

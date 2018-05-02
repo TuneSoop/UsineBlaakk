@@ -1,0 +1,54 @@
+//////////////////////////
+// 
+/////////////////////////
+// parameters declaration
+Var InX : tParameter;  
+Var InY : tParameter;
+Var Output : tParameter;
+var x:double;
+var y:double;       
+var o:double;
+
+// initialisation : create parameters
+procedure init;
+begin        
+   InX:= CreateParam('X',PtDataField); 
+   SetIsOUTput(InX,FALSE);
+   InY:= CreateParam('Y',PtDataField); 
+   SetIsOUTput(InY,FALSE);              
+   Output:= CreateParam('Angle',PtDataField); 
+   SetIsINput(Output,FALSE);
+end;                        
+
+// Callback procedure
+Procedure Callback(N:integer); 
+begin              
+  if (n = InX) OR (n = InY) then begin
+    x:=GetValue(InX);
+    y:=GetValue(InY);
+    if(y<>0) then begin
+      o:=arctan(y/x+Sqr(x*x+y*y)); 
+    end  
+    else begin
+     if(x>=0) then begin
+      o:=0;
+     end
+     else begin
+      o:=PI;
+     end;
+    end;       
+    o:=o/(PI*2);
+    SetValue(Output,o);    
+  end;                                      
+end;
+
+// Global variables
+
+//////////////////////////////
+// main proc
+//////////////////////////////
+Procedure Process;
+begin
+
+end;
+

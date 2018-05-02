@@ -1,0 +1,60 @@
+//////////////////////////
+//Simple A+B with arrays
+/////////////////////////
+
+var ArrayInA , ArrayInB : Tparameter;     // first, we declare the parameters we will need.
+var Result    : Tparameter;
+
+// Init is started on script compilation to create the in/outs
+PROCEDURE INIT;
+BEGIN                                     // Each procedure start with a Begin
+
+  ArrayInA:= CreateParam('InputA',PtArray); 
+  SetIsOUTput(ArrayInA,FALSE);  // we can set the displayed name between'',
+                                // and the type, here we use PtArray.
+  ArrayInB:= CreateParam('InputB',PtArray); 
+  SetIsOUTput(ArrayInB,FALSE);  // ...and specify if it's an input or output
+                                // (by default they are booth);
+  Result:= CreateParam('Result',PtArray); 
+  SetIsINput(Result,FALSE);     // to specify if in or out we set off the pin we
+                                // don't want.
+
+  SetMin(ArrayInA,0); 
+  SetMax(ArrayInA,127);          // By default arrays have a min/max range of 0..100, we can change like
+                                 // this.
+  SetMin(ArrayInB,0); 
+  SetMax(ArrayInB,127);        
+  SetMin(ArrayInB,0); 
+  SetMax(Result,127);
+END; 
+
+// Callback procedure                      // inputs have an id (n), the callback procedure scans the inputs to detect
+                                           // changes, and note the index if detecting.
+var L,LA,LB, i: integer;                   // we declare the variables we will need. i to loop thru the array, L as a
+                                           // length variable, booth are entire nb so integers.
+var valTmp: single;                        // valtmp will be use to temp store the value to make code more spread and
+                                           // clear, here we want a float so single.
+Procedure Callback(N:integer);             // it's a procedure that will make the result in same bloc as soon as the
+                                           // input has changed
+BEGIN                                      // start the callback (=changes detection)
+
+ if (n = ArrayInA) OR (n = ArrayInB) then begin     // we will trig the computation ONLY if callback detected changes
+                                                    // on inA or inB. As inputs are indexed from 0 to n,
+                                                    // we could also have used " if (n=0) or (n=1)"
+   LA:= GetLength(ArrayInA);                        // first we get the length of arrayA and B;
+   LB:= GetLength(ArrayInB);                        // As scipt would make errors trying to set an array elemnt that
+                                                    // doesn't exist, we ll pick the min length as length.
+   L:=  MinI(LA,LB);                                // so L is the min integer beetween length of A and B, and we will
+                                                    // set ArrayOut of that lenght and performs operation
+   SetLength(Result,L);                             // in that range.
+
+   for i:=0 to L -1 do begin                        // loop scan. as indexes start from 0 and not 1, the loop need to
+                                                    // go from 0 to length-1.
+     valtmp:= getDataArrayValue(ArrayInA,i) + getDataArrayValue(ArrayInB,i);     // sum the values of a and b to the
+                                                                                 // float variable valtmp.
+     SetDataArrayValue(Result, i, valtmp);          // and set to same scanned index the arrayout with that value
+   end; //loop                                                   
+ end; //sum         end of summing code
+
+END;//Callback
+//////////////////////////////////////

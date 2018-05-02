@@ -1,0 +1,942 @@
+[INFO]
+thumbnail image=89504E470D0A1A0A0000000D494844520000006E0000003F08060000000189FDA9000000017352474200AECE1CE90000000467414D410000B18F0BFC61050000071E49444154785EED985B6C54451C877F7BF6BEED7677E976B7524A81420BB6585B845AC0289090B6A0C4180D8906A3C168E293F1D5C44B7C54313106F0C107124D433404954222828268BD402C824DAD054AA92D946EF7D26EB767CFC599D953EC5EDA5D226A26992F99746E67CEEE7C3BFF99A9E9F9F5477508B84332FE0A384388E31421EE5FC06C35A1BAA1182B9BDD2CD13CADBB93DCF13D6EC92E27EEAF310A84D877091CE9CCFF8ACCE75228E87A25892B46894C091E78D3860AA394D94EC7A8BB99FE3E362E64741C508D9A1473D5E7C25124A165C70296FFFEB31012131ACBCF45EBB3E5686E2B87A22659D962B6E287A32338F6E1082BCF6661F36F48848B11EA5D6CD41486F9BECAA75E33F239A9DBE041B0CA811B57A78D9AB9F1B6DBF1902B898E3D322E9C504852E1DAEE404D52C1D561A3D31C781BACF0F42670687FD27896A48819AD3B255CEBD29030A4E1D0143A3F9AD5FEA215E65E15D763A9310271057D7DC6A08470B70EDFE316F88C3E8C0A0B36ACD57072BF4AC6CDCFCA16371E7DA106D5AB1760E852143706D2E7C2596CC6BD9BBDA8BDCF83A5F7B8D0B8C5876277111C0E07EC763BCC66092541C0EE92B0B4CE0DFF221BC6479250641D4BDB7FC0DD8F75C1EE8B603A56846922B110E615B7B66D011E7EA112AB9A3D484C2A18EA9B325A7253DE6283E9A29C26E97A577E69945C938E61137CDB25C827347877395049C41E3F65B45186355C7358D0520F5C2082728E011D57231236B5CFFC004C68D86D45F46012033322F360B54B08564B8886E2E83E11462CA4182D29B63C19C08EE756A2A6B194C8F5C16AB36074248CBEEE718C5C8D41B22A58E02F416D63196A9BFCA86F0940D513E8FF651265F59751561B42E98A10CA1A7A517CD73812E3C5988ECC2F704E716BDB7C687BA6927E6FC68A460FA62665226F9EDF6885194D5B6DA85FA4B389BC1D724DBAB7DD862697860B5D3A829BC9C49155766BD51824E22654B54A4812B9C8298E40044FD4D8B1A642C5E80AF2F9C6649C3E67B415406C8C8C797602BF9E8E627450366A534892091B1FF3C35BE6C0F8F838AB1BEC8BE293B706F1E391102E7E1BC5A5EE499457DBE17493EF108DC262B14096659CFF3A82B27BFE8067F118E2646158EC3AFCCB4308ACE9812B18823C518444C8CDC6CC24C7E144C7FDDB4BB16D77151445C7277B0658A2F96DBB97B0B65B363308774EA3636F12B11A1B76BEE94CA55D66A3353FEEF58EBF9F23A975BD86AE3D0AC2E46396D0D7E6624847D4C8CEC7950332A264FCD65A15670AD873676322E78ABB963958A2F93448592573A3691A09896624A6647CB1EF1AE4690D4FBFB18C259AA775B48DF6A17DE933F4D9D928490DF10905669B82E59BFBB1EEA54FD1F4E2E7F02EFB1326297D5F4D132791396EDE568AB667AB522FFB60103D5D5196687E3AA1B236DA87F6CDC9908223AF4CA183A5047A4A6DD8D65ED8898A1E6452CFCDA499838786E818CB6453614289919D1F1583BF937790BD2E6CD4148A2F6843FBF3419202F006AC466D36369B0DC39727717D20814D3B0368DA58C512CDD3BA912B71D6271F1A3B2FE9B0D8341666330553D2C4F92B1C78F009127F150D87DFBF4296F2DF5F91E6691D6DA37D68DFFCE8E83EA5C0EDFFA7B70E1D03BDC0A286EC6FE06D30C3FDBB36EBE479E7F1575A61B14A6CEF0A54D98DDA6C745D87CD21915569C2445881AAAA2CD13CADA36D74B5CD050DBB0E9799BC87ECC7E72AF0D37B0FE3E7771F45B87F21742D7D0ED34A919B32BE39388A836F5FC2C533D90188D6D136DA87F64D876CFA2F39B356973728217673FEE37321843B1516EA1E58635450D6584938057ABECA7FA4CFCFDC51C1E5B6C06A25F2C8DE444F9099CC844FBA6F0517A7EE6F273FBE8143FB7A58A2795A17A82C423299BA2264865C2711662387A0D15E3FCEEE6DC5D9F71EC1E8F9A5466B3677F81E9779CFBABD7B5CE61D2C1BFAE37060D5ADFD2EFB1E9775171C4BE218DB270B7D4736751BDC78E2E5E52C7FF09D7E76E098C14456C9AED7AB50BFB60291488485C258780A273B46F0C7B909D6677953310997E5707B9D4CAEC7E3C1859F8670E0D501AC7EE608566E1DC0F06F5E5C3EBE1A435DABA0ABF9CF05E29FCC05E0289E75013F9C7D015FD7EEC3E69D8BA04B4912D274165269D80CDF48DDF7BC013B0B954999844C22DAA45971A2E31A7EEC1C47DD535F42992AC2A5A38D48C69DAC7F21FC67E272AE06832172A93E7DD62870CAC26A275C25F4C4989A4E1A0ACD645FA4A8E4B4483C32E83E168FAAF8B33F7527B697C4311D75B1FCED20561CA7FCD3E39EE07F4288E314218E5384384E31B5B4B488C309878815C729421CA708719C22C4718A10C729421CA708719C22C4718A10C729421CA708719C22C4718A10C729421CA708719C22C4718A10C729421CA708719C22C4718A10C729421CA708719C22C4718A10C729421CA708719C22C4718A10C729421CA708719C22C4718A10C729421CA708719C22C4718A10C729421CA708719C22C4718A10C729421C97007F0178D0CF21D294E4D00000000049454E44AE426082
+
+[PA-]
+PATCHTYPE=11
+VERSION=86
+USINE VERSION=Usine 3.0.166-1 Win64
+FNAM=Y:\DOCUMENTS\AUDIO\USINE\USINE3\USINE3_SORTED\X64\PATCHES\SUB-PATCHES\VIDEO\POLY\S_POLY SPLIT CROP STATIC.pat
+ORIGINDEVICE=
+NBPG=23
+OFFSETX=-264
+OFFSETY=-135
+UID=5027948001135053874
+ID0=501
+L0=501.795776367188
+T0=-39.4314880371094
+ID1=504
+L1=920.795776367187
+T1=9.95394897460937
+ID2=20
+L2=422.795776367188
+T2=27.5685119628906
+ID3=20
+L3=390.795776367188
+T3=47.5685119628906
+ID4=20
+L4=374.795776367188
+T4=173.568511962891
+ID5=20
+L5=398.795776367188
+T5=248.568511962891
+ID6=20
+L6=382.795776367188
+T6=308.183074951172
+ID7=20
+L7=397.795776367188
+T7=381.183074951172
+ID8=515
+L8=1012.79577636719
+T8=297.568511962891
+ID9=294
+L9=88.7957763671875
+T9=272.568511962891
+ID10=293
+L10=82.7957763671875
+T10=198.568511962891
+ID11=37
+L11=656.128295898438
+T11=231.300567626953
+ID12=16
+L12=710.795776367187
+T12=356.568511962891
+ID13=36
+L13=818.630737304687
+T13=285.458465576172
+ID14=35
+L14=852.88916015625
+T14=354.790985107422
+ID15=35
+L15=1109.6474609375
+T15=500.965637207031
+ID16=19
+L16=1110.71923828125
+T16=558.128295898438
+ID17=3
+L17=482.579223632812
+T17=500.420166015625
+ID18=362
+L18=640.93212890625
+T18=537.448974609375
+ID19=29
+L19=466.934143066406
+T19=693.863403320312
+ID20=36
+L20=164
+T20=65
+ID21=40
+L21=291
+T21=42
+ID22=10
+L22=1025
+T22=684
+C0=0200000000000800
+CSRCNAME0=IN
+CTARGNAME0=DIMMER
+C1=0300000000000B00
+CSRCNAME1=IN
+CTARGNAME1=PLAY LOOP
+C2=0400000000000C00
+CSRCNAME2=IN
+CTARGNAME2=SYNCHRO
+C3=0500000000000E00
+CSRCNAME3=IN
+CTARGNAME3=PLAY
+C4=0600000000001000
+CSRCNAME4=IN
+CTARGNAME4=STOP
+C5=0700000000001100
+CSRCNAME5=IN
+CTARGNAME5=PAUSE
+C6=1500020000001700
+CSRCNAME6=OUT
+CTARGNAME6=FILE NUMBER
+C7=0800020001000000
+CSRCNAME7=VIDEO OUT 1
+CTARGNAME7=VIDEO OUT1
+C8=0000060008000100
+CSRCNAME8=VIDEO OUT
+CTARGNAME8=VIDEO IN 1
+C9=0F00020008000600
+CSRCNAME9=OUT
+CTARGNAME9=POINT SOURCE 2 X
+C10=0E00020008000400
+CSRCNAME10=OUT
+CTARGNAME10=POINT SOURCE 1 X
+C11=0A0000000B000000
+CSRCNAME11=OUT
+CTARGNAME11=A
+C12=090000000B000100
+CSRCNAME12=OUT
+CTARGNAME12=B
+C13=090000000C000000
+CSRCNAME13=OUT
+CTARGNAME13=IN
+C14=0C0001000D000100
+CSRCNAME14=OUT
+CTARGNAME14=B
+C15=0B0002000D000000
+CSRCNAME15=OUT
+CTARGNAME15=A
+C16=0D0002000E000000
+CSRCNAME16=OUT
+CTARGNAME16=A
+C17=120001000E000100
+CSRCNAME17=OUT
+CTARGNAME17=B
+C18=0B0002000F000000
+CSRCNAME18=OUT
+CTARGNAME18=A
+C19=100001000F000100
+CSRCNAME19=OUT
+CTARGNAME19=B
+C20=1200010010000000
+C20SELX=1
+C20SELY=-1
+CSRCNAME20=OUT
+CTARGNAME20=IN
+C21=1100010012000000
+CSRCNAME21=FADER 1
+CTARGNAME21=IN
+C22=1300000012000400
+CSRCNAME22=OUT
+CTARGNAME22=MIN OUT
+C23=0A00000014000000
+CSRCNAME23=OUT
+CTARGNAME23=A
+C24=1400020015000000
+CSRCNAME24=OUT
+CTARGNAME24=A
+C25=0000180015000100
+CSRCNAME25=NUMBER OF FILES
+CTARGNAME25=B
+C26=1200010016000000
+CSRCNAME26=OUT
+CTARGNAME26=DATA
+NBCO=27
+
+[PA-PASE]
+name=S_POLY SPLIT CROP STATIC
+saved in preset=1
+can be randomized=1
+can be reset=1
+fast graphic render=0
+also visible in IB=0
+enabled=1
+on top=0
+opacity=1
+zoom scale=1
+left=3
+top=100
+width=110
+height=63
+resize grip enabled=1
+IB left=0
+IB top=0
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+memo reduced=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=g4
+hilited color=4288322202
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=g0
+border width=0
+round size=0
+show caption=1
+caption font color=4290822336
+caption font size factor=0.600000023841858
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=cl15
+show toolbar=1
+toolbar size=16
+minimized=0
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+
+[PA-0]
+UID=6381423643613400771
+saved in preset=1
+INDEXvisible=2
+Von=1
+Vaudio buffer size=100
+Vcurrent audio buffer=0
+Vdimmer=1
+Vspeed=1
+Vmaster SMPTE=0
+Vplay loop=1
+INDEXsync=0
+Vauto restart=1
+INDEXplay button mode=0
+Vpause=0
+INDEXon activation=0
+INDEXat the end=0
+INDEXmode=0
+INDEXnum=0
+Vnumber of files=3
+Vfps=29.9700298309326
+Vduration=64230.83203125
+Voriginal duration=64230.83203125
+INDEXsize reduction factor=0
+Vstart=0
+Vend=1
+Vjump to key frames=1
+Tshort filename=Nymphe.mp4
+Tlong filename=Y:\PORTABLE\Usine Hollyhock Win64 3.0.166-1\Resources\Medias\Videos\Nymphe.mp4
+Vuser curve 1=0
+Vuser curve 2=0
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.987261176109314
+Vmouse y=0.488888889551163
+Vmouse wheel=0
+Vallow drop=0
+COLLAPS=0
+CNTDISPLAY=3
+IDISPLAY_0=Y:\PORTABLE\Usine Hollyhock Win64 3.0.166-1\Resources\Medias\Videos\Nymphe.mp4
+IDISPLAY_1=Y:\PORTABLE\Usine Hollyhock Win64 3.0.166-1\Resources\Medias\Videos\Town.mp4
+IDISPLAY_2=Y:\PORTABLE\Usine Hollyhock Win64 3.0.166-1\Resources\Medias\Videos\Forest.mp4
+INDEXDISPLAY=0
+SZDDISPLAY=0
+
+[PA-0startSE]
+UID=4237098839663548781
+
+[PA-0endSE]
+UID=1427151483796560252
+
+[PA-0mouse dwnSE]
+UID=9158320037262367206
+
+[PA-0dbl clickSE]
+UID=5562123375345506802
+
+[PA-0mouse xSE]
+UID=521391369103448577
+
+[PA-0mouse ySE]
+UID=1182196467974904336
+
+[PA-0mouse wheelSE]
+UID=6494037946790681116
+
+[PA-0CTRLSE]
+UID=3665909205402586520
+also visible in IB=0
+enabled=1
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+zoom scale=1
+left=7
+top=21
+width=161
+height=161
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=4278190080
+hilited color=4286743170
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4279624959
+border width=2
+round size=2
+show caption=1
+caption font color=4289328639
+caption font size factor=0.600000023841858
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show poly order=0
+show header=1
+header height=20
+header color=cl3
+show toolbar=1
+toolbar size=16
+minimized=0
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+auto record on click=0
+is playing record=0
+mouse over=0
+show cursor=1
+cursor color=4287951871
+cursor width=2
+show grid=0
+grid color=1996537044
+full size grid=0
+H divisions=0
+V divisions=0
+wave color=4283755775
+dimmer min=0
+dimmer max=1
+dimmer scale=0
+dimmer curve type=0
+dimmer bezier curve=1
+speed min=0
+speed max=4
+speed scale=1
+speed curve type=0
+speed bezier curve=1
+user1 min=0
+user1 max=1
+user1 scale=0
+user1 curve type=0
+user1 bezier curve=1
+user2 min=0
+user2 max=1
+user2 scale=0
+user2 curve type=0
+user2 bezier curve=1
+show top bar=1
+top bar color=4279624959
+top Bar height=10
+selector color=4283755775
+selector opacity=0.5
+selector width=8
+show markers=0
+marker bar color=4279624959
+marker color=4287951871
+marker random color=0
+marker width=2
+show marker caption=1
+
+[PA-0CTRL]
+UID=3665909205402586520
+VISIBLE=1
+MINIMIZED=0
+DST=0
+DEND=1
+ST=0
+END=1
+MKRCOUNT=0
+
+[PA-0CTRLTBENABLESE]
+active mode=0
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[PA-0CTRLTBLOCKSE]
+active mode=0
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[PA-0CTRLTBPREVIOUSSE]
+active mode=0
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[PA-0CTRLTBNEXTSE]
+active mode=0
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[PA-0CTRLTBLISTSE]
+active mode=0
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[PA-1]
+UID=3622030971250610562
+once in poly=1
+in-outlet visible=1
+COLLAPS=0
+
+[PA-2]
+UID=5697501282703184844
+once in poly=1
+in-outlet visible=1
+Vdata=1
+Tcaption=dimmer
+INDEXprec=1
+COLLAPS=0
+
+[PA-3]
+UID=8661480764398573092
+once in poly=1
+in-outlet visible=1
+Vdata=1
+Tcaption=play loop
+INDEXprec=1
+COLLAPS=1
+
+[PA-4]
+UID=7999083336466896921
+once in poly=1
+in-outlet visible=1
+Vdata=0
+Tcaption=synchro
+INDEXprec=1
+COLLAPS=0
+
+[PA-5]
+UID=5503402628888599103
+once in poly=1
+in-outlet visible=1
+Vdata=0
+Tcaption=play
+INDEXprec=1
+COLLAPS=0
+
+[PA-6]
+UID=6339622971041848441
+once in poly=1
+in-outlet visible=1
+Vdata=0
+Tcaption=stop
+INDEXprec=1
+COLLAPS=0
+
+[PA-7]
+UID=4973947317227560586
+once in poly=1
+in-outlet visible=1
+Vdata=0
+Tcaption=pause
+INDEXprec=1
+COLLAPS=0
+
+[PA-8]
+UID=8276991907626427476
+Vbypass=0
+Vprocess time=0.317873269319534
+Vpoint source 1 X=0.159999996423721
+Vpoint source 1 Y=0
+Vpoint source 2 X=0.0900000035762787
+Vpoint source 2 Y=1
+COLLAPS=0
+
+[PA-9]
+UID=3732424047508268424
+Vout=4
+COLLAPS=0
+
+[PA-10]
+UID=1120732208078464609
+Vout=1
+COLLAPS=0
+
+[PA-11]
+UID=6311579538280884147
+VA=1
+VB=4
+Vout=0.25
+COLLAPS=0
+
+[PA-12]
+UID=5485851268655818947
+Vin=4
+Vout=0.25
+COLLAPS=0
+
+[PA-13]
+UID=7988767825749289481
+VA=0.25
+VB=0.25
+Vout=0
+COLLAPS=0
+
+[PA-14]
+UID=374710280834984792
+VA=0
+VB=0.159999996423721
+Vout=0.159999996423721
+COLLAPS=0
+
+[PA-15]
+UID=365950372912245918
+VA=0.25
+VB=-0.159999996423721
+Vout=0.0900000035762787
+COLLAPS=2
+
+[PA-16]
+UID=4658027905393831695
+Vin=0.159999996423721
+Vout=-0.159999996423721
+COLLAPS=0
+
+[PA-17]
+UID=3367605266925969998
+saved in preset=1
+fade preset=1
+can be randomized=1
+can be reset=1
+once in poly=0
+in-outlet visible=1
+INDEXvisible=2
+Vfader=0
+Vmin=0
+Vmax=1
+Tcaption=out
+COLcolor=g5
+INDEXprec=5
+INDEXlogscale=0
+Vdefault val=0
+Vinc/dec val=1
+INDEXwrap mode=0
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.00436681229621172
+Vmouse y=1
+Vmouse wheel=0
+Vauto reset=0
+Vallow drop=0
+COLLAPS=0
+
+[PA-17faderSE]
+UID=1811410915470041458
+also visible in IB=0
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+zoom scale=1
+left=7
+top=189
+width=231
+height=35
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=4280295456
+hilited color=4286743170
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4285098345
+border width=1
+round size=0
+show caption=1
+caption font color=4288848546
+caption font size factor=0.899999976158142
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show poly order=1
+text align=0
+show fader=1
+fader color=g5
+dashed fader=0
+symetric fader=0
+show cursor=0
+cursor color=4285098345
+cursor width=4
+show value=1
+show symbol=1
+show value and symbol on click=1
+display array values=0
+value font color=4288848546
+value font size factor=0.899999976158142
+value font name=Arial
+value font bold=0
+value align=2
+value V align=0
+touch hi precision=0
+precision factor=8
+mouse mode=0
+active mode=0
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+mouse over=0
+
+[PA-17symbolSE]
+UID=8549170808560130781
+
+[PA-17mouse dwnSE]
+UID=4137818233222568760
+
+[PA-17dbl clickSE]
+UID=8717333668850146119
+
+[PA-17mouse xSE]
+UID=2614924427512355670
+
+[PA-17mouse ySE]
+UID=5402707170856639330
+
+[PA-17mouse wheelSE]
+UID=510885572007271281
+
+[PA-18]
+UID=6915172434364294673
+Vin=0
+Vout=0.159999996423721
+Vmin in=0
+Vmax in=1
+Vmin out=0.159999996423721
+Vmax out=0.00999999977648258
+Vclip values=0
+COLLAPS=0
+
+[PA-19]
+UID=1306092669324977932
+Vout=0.159999996423721
+COLLAPS=2
+
+[PA-20]
+UID=3682067064307642674
+VA=1
+VB=1
+Vout=0
+COLLAPS=0
+
+[PA-21]
+UID=5848793605912560556
+VA=0
+VB=3
+Vout=0
+COLLAPS=0
+
+[PA-22]
+UID=2528294858683867795
+Vout=0.159999996423721
+Von change=1
+Tcaption=out
+COLLAPS=0
+
+[PA-CPSE]
+name=S_POLY SPLIT CROP STATIC
+saved in preset=1
+can be randomized=1
+can be reset=1
+fast graphic render=0
+also visible in IB=0
+enabled=1
+on top=0
+opacity=1
+zoom scale=1
+left=3
+top=100
+width=110
+height=63
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=g4
+hilited color=4288322202
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=g0
+border width=0
+round size=0
+show caption=1
+caption font color=4290822336
+caption font size factor=0.600000023841858
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=cl15
+show toolbar=1
+toolbar size=16
+minimized=0
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+IB left=0
+IB top=0
+memo reduced=0
+
+[PA-CPTOOLBARTBENABLESE]
+active mode=0
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[PA-CPTOOLBARTBPRESETSE]
+active mode=0
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[PA-CPTOOLBARTBINFOSE]
+active mode=0
+inverse=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+soft take over=0
+short cut=0
+time code=0
+osc tag order=1
+osc mode=0

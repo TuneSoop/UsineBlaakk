@@ -1,0 +1,701 @@
+[INFO]
+thumbnail image=89504E470D0A1A0A0000000D494844520000006E000000160806000000212AA957000000017352474200AECE1CE90000000467414D410000B18F0BFC6105000004AA494441546843ED9A6F489B471CC7BFD554EDB61712D7445C95C2103A669E2CAE8612A1AE5B103AE8869DA5948EAEAB43D0EDADB08C16BA75105840BA510C6C558A30369DD34ECB585B2B1BDAD4A563925858C1756D2363983AF76A0C56A3BB7BBCC4BBE779F298C7FCE902F9C0E1EFB9BBF098FBDE7DEF77A75B307E6B1505F20E59B89DE77DECB1403E70EFADAE2C0857DD8A2E4F33CCEC71AEBF1D7DD3EC8147B35F0D0E9C3E099765AD6E69FC43F886236B0F2AC4BE22618C749E43903DA9FB2E20E03D85B179F6C8E1ECF8142DB6B5587CBFDEFB18B317E0B954257C2F2D3C9DED2CDA1C54B82216678EF9206E47594CA875B8582452D360E7BE5C18B7B4C44D021D5C6F8FDE204A683A58C3622DAC70B5B51229F297CC0B870842E10516136CF570B2709D1AD8252B8B09B33F73AB430F3AEBD757445A589A715857DCDCF0DADD3B685CF8833DA54E168423D2DD0C6189C574765BAB59986007B673AB656E26C0227D9C1DCA55462DAF5DB61EBEF8C7B989A383D9FD8AC6A44A0D6AA3CAF77AFCE47BCC0FC127D45FC01CFB0C856E093CEEDFE7D1FFFD55F87EBC0EC79F0F58EDC608C23D5E568AC37B1BF182ED5956A386B6D13EB46F5204BBB46257836266EFA9472D0B53B649B22736F12B2D7A05FE4EED7D2A327C4A676F24831E8D0B2BA1A543DBCA73C53F26138A5657D17AF75759C0EEE929484B8BAC35398270D6F272B435BF88336F1C85FB39B51FD13ADA46FBD0BEC911EDD22C3985FDC4E990584467EE684A3629EE8964A5F50E91B76C9270687D15D88EE3C41E163F629E78F8102DF7EE60F0DA77387B6312BB17B964418120DCFDE803F45EBE86ADA662BC77E4105EDEED602D90635A47DB681FDA570FC12E2D76D81376E9425D624E2CE0F6CDD486BFD2CAED89D110428995E6C2891E9AAC28CB191C5059749C20FAFAC32C2609D4B1770C5BA6D97D52F5CE4C4D80D2580CAFDEFF0D5F4C5CC6F9C9093C4F042C26AB9247102EB6B28281C900CE8E8CE2B1D252741D6AC13EA94E2E34DE565222B7D13EB4AF2E0ABBDCFE140BABAB50C14251801C337D0E23B32CFE1F58A6162632C665CBCBE4CCA6463339F9F287EBE81EBA485697091F1C3B22171A777FFD8DDC961AA25DC68F05BCE52D85839BB7BB0C10F47389836DBFCE0ACD3D53955568DBFB125EDFD78C9F9EB420B645944F5338CAE0D40D7C72F192AC362D1F8F8CE12B526704C12EE563017F0C48DD2655582A51C9422080BE2419DCC690CF262C73ED6CC719B22E5A59A5E645834166CD1578BBB1096F12D126AA76B05A354985A30C124B7CFFF34152060C8B2623D8A584BA834EEC8AA7F3066D3238B3BE2765D4DAA6471188FF8EE46CE7CAC419D100252B31F9E72FE566BCDBE042AB7B3FBEADDE89E5225D69F485A35C9D0991C20F9A1144BBAC90D2B0497E8029241BF49ECEC4ED470463BD57B873676EF9DBB415FE676C384A2C71E0E95AFC5B54CC5AF4D950B874E1EDD26C49C726350698AC900E21B33BCE9D0F0D400ECD03291EDAE3686595DE1EE3D9A94F72E0237B3DFE22C9A011B22E9CF2EE5266B3D924BD95F066677544863F1357748E582CDBC62263645F38855D52D2CA26E3574ADC394C09BD56F224B95549CEA3B54CA314FE1E978764E7CF3A05724241B83CA5205C9E52F867A1BC04F80F38C6E77E0ECFC4380000000049454E44AE426082
+
+[PA-]
+PATCHTYPE=0
+VERSION=86
+USINE VERSION=Usine 3.0.165-1 Win64
+FNAM=Y:\DOCUMENTS\AUDIO\USINE\USINE3\USINE3_SORTED\X64\PATCHES\VIDEO\FX\GEOM & MAPPING\VIGNETTE.pat
+ORIGINDEVICE=
+NBPG=8
+OFFSETX=539
+OFFSETY=599
+UID=8068569701442451063
+ID0=503
+L0=-476
+T0=-230
+ID1=504
+L1=-120
+T1=-191
+ID2=597
+L2=-294.177978515625
+T2=-222
+ID3=9
+L3=-372
+T3=-333
+ID4=250
+L4=-232
+T4=-13
+QIDX5=0
+ID5=566
+L5=-194
+T5=-84
+ID6=290
+L6=-284
+T6=-51
+QIDX7=1
+ID7=262
+L7=-466.178649902344
+T7=-172.191162109375
+C0=0200020001000000
+CSRCNAME0=VIDEO OUT 1
+CTARGNAME0=VIDEO OUT1
+C1=0300010002000000
+CSRCNAME1=SWITCH 1
+CTARGNAME1=BYPASS
+C2=0000000002000100
+CSRCNAME2=VIDEO IN1
+CTARGNAME2=VIDEO IN 1
+C3=0700010002000400
+CSRCNAME3=X 1
+CTARGNAME3=POINT DEST 1 X
+C4=0700020002000500
+CSRCNAME4=Y 1
+CTARGNAME4=POINT DEST 1 Y
+C5=0700030002000600
+CSRCNAME5=X 2
+CTARGNAME5=POINT DEST 2 X
+C6=0700040002000700
+CSRCNAME6=Y 2
+CTARGNAME6=POINT DEST 2 Y
+C7=0600010004001D00
+CSRCNAME7=OUT
+CTARGNAME7=MINIMIZED
+C8=0400250005000000
+CSRCNAME8=ENABLED
+CTARGNAME8=IN
+C9=0500010006000000
+CSRCNAME9=OUT
+CTARGNAME9=IN
+NBCO=10
+
+[PA-PASE]
+where=0
+name=VIGNETTE
+saved in preset=1
+show when active on grid=0
+can be randomized=1
+can be reset=1
+fast graphic render=0
+undo enabled=1
+shared=0
+presets panel=0
+also visible in IB=0
+enabled=0
+on top=0
+opacity=1
+zoom scale=1
+left=0
+top=236
+width=110
+height=22
+resize grip enabled=1
+IB left=0
+IB top=0
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+memo reduced=0
+transparent=0
+background color=4279842875
+hilited color=4283755775
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4279624959
+border width=1
+round size=0
+show caption=1
+caption font color=4289327098
+caption font size factor=1.0633749961853
+caption align=1
+caption V align=0
+caption font name=Segoe UI
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=cl3
+show toolbar=1
+toolbar size=16
+minimized=1
+HeightBeforeMinimize=312
+WidthBeforeMinimize=302
+snap to grid=1
+grid size=5
+auto resize=1
+auto resize margin=6
+
+[PA-PRESETSSE]
+UID=2201927603706968089
+also visible in IB=0
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+zoom scale=1
+left=1
+top=310
+width=300
+height=20
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+transparent=0
+background color=g4
+hilited color=4283321934
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=4282400832
+border width=0
+round size=0
+show caption=0
+caption font color=4288848546
+caption font size factor=0.600000023841858
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=g4
+show toolbar=1
+toolbar size=15
+mouse over=0
+show cmd=1
+silent edit=0
+
+[PA-PRESETS]
+UID=2201927603706968089
+VISIBLE=0
+MINIMIZED=0
+VERSION=86
+NBPRESETS=0
+CURRENT NUM=0
+
+[NEXTBTNnext buttonSE]
+active mode=0
+inverse=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+soft take over=0
+short cut=0
+time code=0
+osc tag order=1
+osc mode=0
+
+[PREVIOUSBTNprevious buttonSE]
+active mode=0
+inverse=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+soft take over=0
+short cut=0
+time code=0
+osc tag order=1
+osc mode=0
+
+[PA-0]
+UID=9053349727475976084
+COLLAPS=0
+
+[PA-1]
+UID=6282052247622213919
+COLLAPS=0
+
+[PA-2]
+UID=7538484281470485427
+Vbypass=0
+Vprocess time=0.00150937214493752
+Vpoint dest 1 X=0
+Vpoint dest 1 Y=0
+Vpoint dest 2 X=1
+Vpoint dest 2 Y=1
+COLLAPS=0
+
+[PA-3]
+UID=974332986456375207
+saved in preset=1
+can be randomized=1
+can be reset=1
+INDEXvisible=1
+Vswitch=0
+Tcaption=BYPASS
+COLcolor=cl3
+VON value=1
+VOFF value=0
+Vnull evt if OFF=0
+INDEXgroup=0
+Vat least one=0
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.0244755242019892
+Vmouse y=0.111111111938953
+Vmouse wheel=0
+Vallow drop=0
+COLLAPS=0
+
+[PA-3switchSE]
+UID=3267694739103515012
+also visible in IB=0
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+zoom scale=1
+left=5
+top=25
+width=290
+height=55
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+hilited color=4294309365
+frames count=1
+frames alignment=0
+show border=1
+border width=1
+round size=0
+show caption=1
+caption font size factor=0.5
+caption align=0
+caption V align=0
+caption font name=Segoe UI
+caption font bold=1
+caption font italic=0
+caption font underline=0
+fit size=1
+ON color=cl3
+OFF color=4282203453
+font ON color=4283576642
+font OFF color=cl3
+border ON color=4278190080
+border OFF color=cl3
+show small led=0
+small led size factor=0.300000011920929
+small led ON color=cl7
+small led OFF color=cl8
+active mode=0
+inverse=0
+quantize=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+mouse over=0
+
+[PA-3mouse dwnSE]
+UID=3377405501824140684
+
+[PA-3dbl clickSE]
+UID=4504911311971124656
+
+[PA-3mouse xSE]
+UID=1290066930864850388
+
+[PA-3mouse ySE]
+UID=1624193720531125756
+
+[PA-3mouse wheelSE]
+UID=1179696480494913050
+
+[PA-4]
+COLLAPS=1
+
+[PA-5]
+UID=6197615753370052235
+Vin=0
+Vout=0
+Vhold time=0
+COLLAPS=2
+
+[PA-6]
+UID=5850769901240494063
+Vin=0
+Vout=1
+Vbypass=0
+COLLAPS=0
+
+[PA-7]
+UID=1809932042902571984
+saved in preset=1
+fade preset=1
+can be randomized=1
+can be reset=1
+select by=2
+INDEXvisible=1
+VX-1=0
+VY-1=0
+VX-2=1
+VY-2=1
+Vnb objects=2
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=1
+Vmouse y=1
+Vmouse wheel=0
+Vallow drop=0
+COLLAPS=0
+
+[PA-7mouse dwnSE]
+UID=4533550312229110425
+
+[PA-7dbl clickSE]
+UID=1956195136455508690
+
+[PA-7mouse xSE]
+UID=3756098288907387647
+
+[PA-7mouse ySE]
+UID=6040570758479414061
+
+[PA-7mouse wheelSE]
+UID=1242843994640548698
+
+[PA-7CTRLSE]
+UID=3749888340800703425
+also visible in IB=0
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+zoom scale=1
+left=5
+top=85
+width=290
+height=220
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=4280295456
+hilited color=4286743170
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4285098345
+border width=2
+round size=2
+show caption=1
+caption font color=g11
+caption font size factor=0.600000023841858
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=0
+header height=20
+header color=g5
+show toolbar=1
+toolbar size=16
+auto record on click=0
+is playing record=0
+mouse over=0
+physics enabled=0
+physics speed=1
+gravity x=0
+gravity y=0
+friction=0
+elasticity=1
+reset pos x=0
+reset pos y=0
+init with random speed=1
+same masses=1
+select by=2
+
+[PA-7CTRL]
+UID=3749888340800703425
+VISIBLE=0
+MINIMIZED=0
+NBOBJECTS=2
+
+[PA-7CTRLS0SE]
+UID=2709451167309957303
+opacity=1
+blur softness=0
+rotation angle=0
+zoom scale=1
+left=2
+top=2
+width=25
+height=25
+resize grip enabled=1
+floating x=1
+floating y=1
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=-4.56008046967327E-6
+speed y=-8.86474517756142E-5
+angular speed=0
+transparent=0
+background color=g5
+hilited color=cl2
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=4285098345
+border width=2
+show caption=1
+caption font color=g11
+caption font size factor=0.699999988079071
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+auto record on click=0
+is playing record=0
+shape type=1
+caption=1
+
+[PA-7CTRLS0]
+UID=2709451167309957303
+VISIBLE=0
+MINIMIZED=0
+
+[PA-7CTRLS1SE]
+UID=7909676820596199060
+opacity=1
+blur softness=0
+rotation angle=0
+zoom scale=1
+left=259
+top=189
+width=25
+height=25
+resize grip enabled=1
+floating x=1
+floating y=1
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0.00108288205228746
+speed y=0.000114495785965119
+angular speed=0
+transparent=0
+background color=g5
+hilited color=cl2
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=4285098345
+border width=2
+show caption=1
+caption font color=g11
+caption font size factor=0.699999988079071
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+auto record on click=0
+is playing record=0
+shape type=1
+caption=2
+
+[PA-7CTRLS1]
+UID=7909676820596199060
+VISIBLE=0
+MINIMIZED=0
+
+[PA-CPSE]
+where=0
+name=VIGNETTE
+saved in preset=1
+show when active on grid=0
+can be randomized=1
+can be reset=1
+fast graphic render=0
+undo enabled=1
+shared=0
+presets panel=0
+also visible in IB=0
+enabled=0
+on top=0
+opacity=1
+zoom scale=1
+left=0
+top=236
+width=110
+height=22
+resize grip enabled=1
+IB left=0
+IB top=0
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+memo reduced=0
+transparent=0
+background color=4279842875
+hilited color=4283755775
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4279624959
+border width=1
+round size=0
+show caption=1
+caption font color=4289327098
+caption font size factor=1.0633749961853
+caption align=1
+caption V align=0
+caption font name=Segoe UI
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=cl3
+show toolbar=1
+toolbar size=16
+minimized=1
+HeightBeforeMinimize=312
+WidthBeforeMinimize=302
+snap to grid=1
+grid size=5
+auto resize=1
+auto resize margin=6
+
+[PA-CPTOOLBARTBENABLESE]
+active mode=0
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+
+[PA-CPTOOLBARTBPRESETSE]
+active mode=0
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0

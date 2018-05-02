@@ -1,0 +1,388 @@
+[INFO]
+thumbnail image=89504E470D0A1A0A0000000D49484452000000BE000000110806000000633E16A6000000017352474200AECE1CE90000000467414D410000B18F0BFC61050000024B494441546843ED9A8B6EE2400C45CDF246BC0412DFC2FF7F0E1288F71BBA3AB3F1CACA8634B041228D8F84E23A9349DADEEBF1A4AD4CA7D32F719C9211843F9BCDA22F1DE7E733994C5E177EA3D190E17028DBED56F6FBBDF4FB7D69B55AB2D96CE4703884319A5B2C1672BD5E434E198FC752AD56E576BBC97C3E0FB95AAD26A3D128C4A7D34956AB55886D5EB173B6DB6DE9F57A21B61C8F4759AFD721E67EC0BD74BC7DD6A41CF04352EC7C4E71E177FA2B8A7323498069207E840DF57A3D1C2D180CD1233A0CCA07B391E39C05D1EA18624C87A05F05E362CCBCE6733E87DC850F9D4E278AD24154A00246F89A53101A395B6959615811D24CA6F3542A95707C059E478DC92A8001EC6AE01497DC858FE0BADDEEDF2AFE1D08582B3DC7CBE51262A5D96CFE93037276B588A3F9788BF50C7A2DAB8B57FA9F45EEC2A71A43D6AA8F8011374245C856E459CDA3B002D0BFF1C17CB447E7F3393AFB3CBBDD2E8AFECCADFB04A7F8E42E7C844B15A71FCED266685555A358E1A755EB2453D81E9FCD2FCF30180CA2B3D9B0AD16F7672EBE1FC098F4FD4EF1794B8FAF95924AFE1D5A911129A28B8BDDB64216DD0F3C320779CE2719C48A3B0BBC5D5A2E9721FE9F3D83F339BC45F8888E36232B5A516DB557D84CC62B2DAB03396DAB92486A9D14359B7D2BA4B19EE37A5A265D31EEF77B3826CDE7148FB7081F9E79DFAD627A24526D5B6CFF4E2EFE86C5F6F86C48A9EC8F9E83EB5991743C313905F352E5750CF361D034B339C5C1FF72EB940E0AD9DB2ABEE37C322E7CA794B8F09D52E2C2774A89FF3FBE5342447E0355FC4FB8DDC2BDDD0000000049454E44AE426082
+
+[PA-]
+PATCHTYPE=2
+VERSION=86
+USINE VERSION=Usine 3.0.165-1 Win64
+FNAM=Y:\PORTABLE\Usine Hollyhock Win64 3.0.165-1\Config\Default Devices\IN MOBIUS.device
+ORIGINDEVICE=IN MOBIUS
+NBPG=10
+OFFSETX=210
+OFFSETY=19
+UID=7643243405877320860
+ID0=5
+L0=-139
+T0=170
+ID1=22
+L1=210
+T1=405
+ID2=68
+L2=204
+T2=368
+ID3=77
+L3=131
+T3=60
+ID4=118
+L4=467
+T4=10
+ID5=77
+L5=262
+T5=143
+ID6=118
+L6=485
+T6=89
+ID7=77
+L7=373
+T7=185
+ID8=118
+L8=503
+T8=170
+ID9=77
+L9=26
+T9=196
+C0=00000B0001000200
+CSRCNAME0=SYSEX
+CTARGNAME0=SYSEX
+C1=0200010001000100
+CSRCNAME1=LIST 1
+CTARGNAME1=CHANNEL
+C2=0900020001000000
+CSRCNAME2=MIDI OUT
+CTARGNAME2=MIDI OUT1
+C3=0900030003000100
+C3SELX=-2
+C3SELY=1
+CSRCNAME3=OUT REJECT
+CTARGNAME3=MIDI IN
+C4=0300020004000100
+CSRCNAME4=MIDI OUT
+CTARGNAME4=SET BUS
+C5=0300030005000100
+CSRCNAME5=OUT REJECT
+CTARGNAME5=MIDI IN
+C6=0500020006000100
+C6SELY=-2
+CSRCNAME6=MIDI OUT
+CTARGNAME6=SET BUS
+C7=0500030007000100
+CSRCNAME7=OUT REJECT
+CTARGNAME7=MIDI IN
+C8=0700020008000100
+CSRCNAME8=MIDI OUT
+CTARGNAME8=SET BUS
+C9=0000000009000100
+CSRCNAME9=MIDI IN1
+CTARGNAME9=MIDI IN
+NBCO=10
+
+[PA-PASE]
+enabled=0
+send MIDI to lan=0
+receive midi clock=1
+receive midi timecode (MTC)=0
+name=IN MOBIUS
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+zoom scale=1
+transparent=0
+background color=g0
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=g0
+border width=1
+round size=0
+show caption=1
+caption font color=g0
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=1
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=g0
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=63
+WidthBeforeMinimize=167
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[PA-0]
+UID=7792400301442479599
+TABmsgV=0000304300003043000030430000304300003043000030430000304300003043000030430000304300003043000030430000304300003043000030430000304300003043000030430000304300003043000030430000304300003043000030430000304300003043000030430000304300003043000030430000304300003043
+TABmsgL=32
+TABcode1V=0000F6420000F2420000F6420000F2420000F6420000F2420000F6420000F2420000F6420000F2420000F6420000F2420000F6420000F2420000F6420000F2420000F6420000F2420000F6420000F2420000F6420000F2420000F6420000F2420000F6420000F2420000F6420000F2420000F6420000F2420000F6420000F242
+TABcode1L=32
+TABcode2V=0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+TABcode2L=32
+INDEXmode=0
+INDEXfilter=0
+Vunpack=0
+COLLAPS=0
+
+[PA-1]
+UID=7860978694945257707
+INDEXchan=0
+COLLAPS=0
+
+[PA-2]
+UID=5231473796482873841
+saved in preset=1
+can be randomized=1
+can be reset=1
+edition="no change","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16"
+INDEXvisible=1
+INDEXlist=0
+Tcaption=channel
+Ttext=no change
+Vdefault val=0
+Vnum elements=17
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.821108043193817
+Vmouse y=0.526186168193817
+Vmouse wheel=0
+Vallow drop=0
+COLLAPS=0
+LIST="no change","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16"
+
+[PA-2listSE]
+UID=390390108737518228
+also visible in IB=0
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+zoom scale=1
+left=3
+top=24
+width=161
+height=14
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=4280295456
+hilited color=g0
+fit size=1
+show border=1
+border color=4285098345
+border width=1
+round size=0
+show caption=1
+caption font color=4288848546
+caption font size factor=0.899999976158142
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show value=1
+show symbol=0
+show value and symbol on click=0
+display array values=0
+value font color=4288848546
+value font size factor=0.899999976158142
+value font name=Arial
+value font bold=0
+value align=2
+value V align=0
+show scroller=1
+scroller color=4286743170
+scroller width=10
+items font color=4288848546
+select color=g0
+hide filname path=0
+hide filename ext=0
+active mode=0
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+mouse over=0
+
+[PA-2mouse dwnSE]
+UID=2356120672882670630
+
+[PA-2dbl clickSE]
+UID=1353214702966029386
+
+[PA-2mouse xSE]
+UID=4882552193101610094
+
+[PA-2mouse ySE]
+UID=559761212047375513
+
+[PA-2mouse wheelSE]
+UID=1528929290435968192
+
+[PA-3]
+UID=802259620643179361
+Vbypass=0
+INDEXfilter=17
+INDEXchan filter=0
+Vchan=0
+Vmsg=252
+Vcode1=0
+Vcode2=0
+COLLAPS=0
+
+[PA-4]
+UID=6539600269708427604
+Tname=CLOCK STOP
+INDEXtarget=0
+Von=1
+COLLAPS=0
+
+[PA-5]
+UID=1545641697767819564
+Vbypass=0
+INDEXfilter=15
+INDEXchan filter=0
+Vchan=0
+Vmsg=250
+Vcode1=0
+Vcode2=0
+COLLAPS=0
+
+[PA-6]
+UID=8622906282387147693
+Tname=CLOCK START
+INDEXtarget=0
+Von=1
+COLLAPS=0
+
+[PA-7]
+UID=7739355328332177089
+Vbypass=0
+INDEXfilter=16
+INDEXchan filter=0
+Vchan=0
+Vmsg=251
+Vcode1=0
+Vcode2=0
+COLLAPS=0
+
+[PA-8]
+UID=3918650918481352398
+Tname=CLOCK CONTINUE
+INDEXtarget=0
+Von=1
+COLLAPS=0
+
+[PA-9]
+UID=1274045149719352677
+Vbypass=0
+INDEXfilter=14
+INDEXchan filter=0
+Vchan=0
+Vmsg=248
+Vcode1=0
+Vcode2=0
+COLLAPS=0
+
+[PA-CPSE]
+enabled=0
+send MIDI to lan=0
+receive midi clock=1
+receive midi timecode (MTC)=0
+name=IN MOBIUS
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+zoom scale=1
+transparent=0
+background color=g0
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=g0
+border width=1
+round size=0
+show caption=1
+caption font color=g0
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=1
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=g0
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=63
+WidthBeforeMinimize=167
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[PA-CPTOOLBARTBENABLESE]
+active mode=0
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0

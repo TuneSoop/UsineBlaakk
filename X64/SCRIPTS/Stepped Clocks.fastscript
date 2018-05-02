@@ -1,0 +1,66 @@
+/////////////////////////////////////////////////////////////////////////////////////
+// PPQ Clocks gen- 23fx2K10- generate clocks from PPQ, each next one beeing divided by 2
+// Useful to override module clock directly contrlling their step position.
+//
+// Enter a nb of max bars, that will correspond to the longest cycle (clock0) ie 4bars
+// then clock1 will be clock0/2 ie 2 bars ect.
+// to match module enter the nbof steps/bar you want. ie if a line module
+//   with a 32 step/bar enter 32.
+////////////////////////////////////////////////////////////////////////////////////
+const NB-CLOCKS = 5; //    nb of clocks output to generate.
+
+var PPQIN, STEPSperbar, MaxBars, SUBDIV: Tparameter;
+var CLOCKS : Array of Tparameter;
+var i: integer;
+var PREC: single;
+/////////////////////////////////////////////////////////
+// initialisation : create parameters
+procedure init;
+BEGIN  
+  PPQIN      := createParam('PPQ IN',PtDataField);      
+  setIsOutput(PPQIN,false);
+  StepsPerBar:= createParam('StepsPerBar',PtDataFader);  
+  setIsOutput(StepsPerBar,false); 
+  SetMin(StepsPerBar,16);   
+  SetMax(StepsPerBar,256);
+  MaxBars    := createParam('Max Bars',PtDatafader);    
+  setIsOutput(MaxBars,false);     
+  SetMin(MaxBars,1);     
+  SetMax(MaxBars,32);
+  SUBDIV     := createParam('SUBDIV',PtDatafader);      
+  setIsOutput(SUBDIV,false);      
+  SetMin(SUBDIV,1);     
+  SetMax(SUBDIV,32);
+  setArrayLength(Clocks,NB-CLOCKS);                 // the array of tparameters will create the n clocks
+  for i:=0 to NB-CLOCKS-1 
+  do begin
+    CLOCKS[i]:= CreateParam('Clock'+IntToStr(i),PtDataField); 
+    SetIsInput(Clocks[i],false);
+  end;
+
+END;//INIT
+////////////////////////////////////////////////
+// Callback procedure
+var StepsBar,READSTEP,MODSTEP: integer;
+Procedure Callback(N:integer); 
+BEGIN
+
+  If (n=PPQIn) 
+  then begin
+      PREC:= MAXS(1,getValue(SUBDIV));              // a mod B only works with integers. we muliply by prec for more
+                                                    // precision, it also need to be above 1.
+      StepsBar:= round(getValue(stepsPerBar));      // we need to know how many steps per bar, we use rounding as it's
+                                                    // an integer and getvalue is float.
+         for i:= 0 to NB-Clocks-1 
+         do begin
+             READSTEP:= round(getValue(PPQIN)*PREC*(StepsBar/4));       // PPQ goes from 0 to 4 a bar, so we divide
+                                                                        // by 4 and muliply by steps per bar wanted.
+             MODSTEP:= round((getvalue(maxBars)*StepsBar*PREC) / power(2,i)); // first clock will reset once maxbars
+                                                                              // is reached, each next divide by 2 is
+                                                                              // length
+             SetValue(Clocks[i],(READSTEP mod MODSTEP)/PREC); // as we multiplied by prec to be able to mod more values, we
+                                                             // also have to divide result
+         end;
+  end;
+END;//Callback
+////////////////////////////////////////////////////

@@ -1,0 +1,37 @@
+//////////////////////////
+//Simplest Callback exemple: check wich in changed
+/////////////////////////
+
+var In0 , In1 , in2 : Tparameter;          // first, we declare the parameters we will need.
+var inputChanged    : Tparameter;
+
+//////////////////////////////////////     // Init is started on script compilation to create the in/outs
+PROCEDURE INIT;
+BEGIN                                      // Each procedure start with a Begin
+
+  In0:= CreateParam('Input1',PtDataField); SetIsOUTput(In0,FALSE);  // we can set the displayed name between'', and
+                                                                    // the type, here we use simple PtDataField.
+  In1:= CreateParam('Input2',PtDataField); SetIsOUTput(In1,FALSE);  // ...and specify if it's an input or output (by
+                                                                    // default they are booth);
+  In2:= CreateParam('Input3',PtDataField); SetIsOUTput(In2,FALSE);
+
+  InputChanged:= CreateParam('InputChanged',PtDataField); SetIsINput(InputChanged,FALSE);  // to specify if in or out
+                                                                                           // we set off the pin we
+                                                                                           // don't want.
+
+END; // end of Init                        // each procedure has also a end, defined by END; 
+//////////////////////////////////////
+// Callback procedure                      // inputs have an id (n) from first (top) to n last, the callback proc
+                                           // scans the inputs to detect changes, 
+                                           // and notes the index if detecting one.
+                                           // that will allows to launchs different process depending on wich kind of
+                                           // inputs changed
+Procedure Callback(N:integer);             // it's a procedure that will make the result in same bloc as soon as the
+                                           // input has changed. 
+BEGIN                                      // start the callback (=changes detection)
+
+  SetValue(inputchanged, n);               // set the inputchanged parameter of index of last detected changed input
+                                           // when accessing Parameters, we use GetValue to get the variable value,
+                                           // and SetValue to set
+END;//Callback
+//////////////////////////////////////

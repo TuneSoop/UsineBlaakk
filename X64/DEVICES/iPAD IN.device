@@ -1,0 +1,130 @@
+[INFO]
+thumbnail image=89504E470D0A1A0A0000000D49484452000000BE000000100806000000A862C503000000017352474200AECE1CE90000000467414D410000B18F0BFC6105000001E4494441546843ED9A5B4FC2401085074A694B016B488C890FC6078DBFCA1FEE8B31D1C498106BB5D01B2267DBAD4B29A55C63D2F992CD505A9697333B67065AB70FF773629886D1CE22C3340A163ED348F6B23AA3478766FA0FB9371E5963937A8B5564320A68BA5892FE7B8F0CB79B7F4E45DE2BE25DF914DB7176B58CF334242D6ED3F8CE25DDD769F86AAFEC3D78B1A93BD1C9BDFEA29931CBDE659ACCC14F7CFF722A4488153A914806D333B2BB940B1B628550CB80D0D53D20E675CF9681BD91880CB38EBD840F61164F6D95303BA53B8126A24C0088191835C4FC7D3111D1FC58AD045594551F8691EC257C581D588DBAE85E47C4E95928EC48C74FAF3711F5626155B4304DA0BAC03A314C19476D6EE5892E4F7E88172286CF4EECA4D2EEA8CCBBDBB521A828482CD8AA6D938569060717BEFD66894A8005E1C1F3A331953627B1D2E65226431DBBB30BC12814D1FAFCEB2F184672D4E6162B18A602943627EAA78297539A3A76A715B5B257F5C1F7A2BA20F950691846E5A85647458ACF791EE41501D4B13B5AACE516691B82F3B4896698222711BEB43998E9ABD500D50154D91D8C25911CBB881855454E901846E524C297362731974FECD848442CDA1DCCED6555C058B2EA07AC4D6082C43045F84F6A4C233999C76798FF040B9F692044BFB712CE25C537B1130000000049454E44AE426082
+
+[PA-]
+PATCHTYPE=1
+VERSION=86
+USINE VERSION=Usine 3.0.165-1 Win64
+FNAM=Y:\PORTABLE\Usine Hollyhock Win64 3.0.165-1\Config\Default Devices\iPAD IN.device
+ORIGINDEVICE=iPAD
+NBPG=2
+OFFSETX=-94
+OFFSETY=-14
+UID=4909649294420498827
+ID0=330
+L0=62
+T0=278
+ID1=2
+L1=300
+T1=300
+C0=0000020001000000
+CSRCNAME0=IN-2
+CTARGNAME0=AUDIO OUT1
+NBCO=1
+
+[PA-PASE]
+enabled=1
+receive linear timecode (LTC)=0
+name=iPAD IN
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+zoom scale=1
+transparent=0
+background color=g0
+hilited color=4285843576
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4283086927
+border width=0
+round size=0
+show caption=1
+caption font color=g0
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=16
+header color=4280639016
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=63
+WidthBeforeMinimize=110
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[PA-0]
+COLLAPS=0
+
+[PA-1]
+UID=5792314410037830593
+COLLAPS=0
+
+[PA-CPSE]
+enabled=1
+receive linear timecode (LTC)=0
+name=iPAD IN
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+zoom scale=1
+transparent=0
+background color=g0
+hilited color=4285843576
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4283086927
+border width=0
+round size=0
+show caption=1
+caption font color=g0
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=16
+header color=4280639016
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=63
+WidthBeforeMinimize=110
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[PA-CPTOOLBARTBENABLESE]
+active mode=0
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0

@@ -1,0 +1,138 @@
+[PA-]
+PATCHTYPE=1
+VERSION=85
+USINE VERSION=Usine 3.0.154 Win64
+FNAM=Y:\PORTABLE\Usine3\Config\Default Devices\WINDOWS IN.device
+ORIGINDEVICE=BROWSERS
+NBPG=3
+OFFSETX=-10
+OFFSETY=-139
+UID=3081663530281578669
+ID0=330
+L0=111
+T0=231
+ID1=2
+L1=383
+T1=381
+ID2=2
+L2=384
+T2=435
+C0=0000100001000000
+C0SELX=1
+CSRCNAME0=IN-16
+CTARGNAME0=AUDIO OUT1
+C1=0000110002000000
+CSRCNAME1=IN-17
+CTARGNAME1=AUDIO OUT2
+NBCO=2
+
+[PA-PASE]
+enabled=1
+receive linear timecode (LTC)=0
+name=WINDOWS IN
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+zoom scale=1.97993040084839
+transparent=0
+background color=4280957483
+hilited color=4289978037
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4286564226
+border width=0
+round size=0
+show caption=1
+caption font color=clURed
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=1
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=4280639016
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=21
+WidthBeforeMinimize=110
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[PA-0]
+COLLAPS=0
+
+[PA-1]
+UID=5950457914550762093
+COLLAPS=0
+
+[PA-2]
+UID=1373070237933878044
+COLLAPS=0
+
+[PA-CPSE]
+enabled=1
+receive linear timecode (LTC)=0
+name=WINDOWS IN
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+zoom scale=1.97993040084839
+transparent=0
+background color=4280957483
+hilited color=4289978037
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4286564226
+border width=0
+round size=0
+show caption=1
+caption font color=clURed
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=1
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=4280639016
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=21
+WidthBeforeMinimize=110
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[PA-CPTOOLBARTBENABLESE]
+active mode=0
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0

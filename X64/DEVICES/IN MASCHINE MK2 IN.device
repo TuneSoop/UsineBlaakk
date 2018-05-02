@@ -1,0 +1,275 @@
+[INFO]
+thumbnail image=89504E470D0A1A0A0000000D49484452000000BE0000000F08060000005AE2754D000000017352474200AECE1CE90000000467414D410000B18F0BFC61050000035E494441546843ED9A896E1A3110864D490839B8A33C409EB4CF1B291147C29170B49FB33F9A3A5E588B452AB09F6475BBBEC69EDFE35994DAF3F3F3C655545C18BFB27F2B2A2E8A4AF8151749BDD7EBFDCE9E93797A7A725F5F5F6EB55AB976BBED3A9D8EFBF8F8C86A9DBBBABA728F8F8F6EB158B8F57A9DBDFD663018B856ABB5ED2FEEEEEEDC5F9BDC66B3F175E2F6F6D6F5FBFD1FED4173DFDFDFFBC25CCBE532ABFD46F3A98DB5D3AE433066B3D9F4B63337E3CF66335F47FB7ABDEEEB047653D41E5B35970AE3690CD16834BC6DB13AD9ACFD8BD9C93BF50DF7C1AED17288DFCE85D2233ECE2F0A1BCF265BAEAFAF7F081B10088EC0C916E6A3CFCBCB8B2F6F6F6F5E2C884FE06884A13693C9C48BEA10B023B4DDC21A349FCAEBEB6B561BC78EB76B6CC11ADEDFDFFDB8ACB756AB6DE79ACFE75ED04549F1DB3950AAF011E6C3C34321A70162B402A51F258CD67A4F540A858FE86DA4A42F4EE7A080A2F0743AF5FF07DAD3CECE9D0A631255CB029B6433F06C6FBC10444FBDD645FFD168E49F81BAA27E48F5DB3950AAF0494F88404505417BD086E7399BF7122B4EB282FDFCFCF44EB3D16D3C1E6F45C0C1888D49BD3D30A9D017BB0F393C16D686AD8271F384CF5AA9639D7910FDC3009247AADFCE81D2531D22508A2070A0221D8E275A8730969C88D06D6444805CED3737373EA5A1A45CF1A2DBED6EFB53C29B2506291369550CBE01EC78945DE904EB620DEC9D02414CF8D849BB5DB03F048394839DEAB753E728BFEA2088A239234247F06C3A0E4500169C8888244C8426815894DB52A8E3A32D85E170F8CF18B1031882ADB48BAD3596E3DB742B86F68235E7457B6E3CC6A25D6C5ED6CE5EE183702FF791E2B753E728C267C389D0453651910E67C7C446E4E5BD1510CE57D4E73084878048C7550F08C8A610825BA10C2723E6B2F263DD7E79371F288A2352E6D53E00CFFC9AC4214E89F622C56FA7CE51840FB10FD13CF471158B728C11BEC741BA921148989BDAB1102607CB3A93BEBCDB17818B8050C88F8BAE7517D88C5D947DD19A7AE625BA83223DBF6AEDEBBB8B14BF9D324713BE045104392A14B8C41D462FDA91FE50CF071E1F673697665E2B6A6E090E83EA4997785716CC15FE041BCBF129BB60CF08029422302F6D1957079B885F74BE18297E3B65AABFD5A9B8488E16F12B2AFE672AE1575C20CEFD01F2514A8851D09D6A0000000049454E44AE426082
+
+[PA-]
+PATCHTYPE=2
+VERSION=86
+USINE VERSION=Usine 3.0.165-1 Win64
+FNAM=Y:\PORTABLE\Usine Hollyhock Win64 3.0.165-1\Config\Default Devices\IN MASCHINE MK2 IN.device
+ORIGINDEVICE=IN MASCHINE MK2 IN
+NBPG=3
+OFFSETX=0
+OFFSETY=0
+UID=4507791524481737277
+ID0=5
+L0=100
+T0=300
+ID1=22
+L1=400
+T1=300
+ID2=68
+L2=250
+T2=350
+C0=0000000001000000
+CSRCNAME0=MIDI IN1
+CTARGNAME0=MIDI OUT1
+C1=00000B0001000200
+CSRCNAME1=SYSEX
+CTARGNAME1=SYSEX
+C2=0200010001000100
+CSRCNAME2=LIST 1
+CTARGNAME2=CHANNEL
+NBCO=3
+
+[PA-PASE]
+enabled=0
+send MIDI to lan=0
+receive midi clock=0
+receive midi timecode (MTC)=0
+name=IN MASCHINE MK2 IN
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+zoom scale=1
+transparent=0
+background color=4280498507
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4285578231
+border width=0
+round size=0
+show caption=1
+caption font color=g0
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=g0
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=20
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[PA-0]
+UID=161533144916299782
+Vmsg=0
+Vcode1=0
+Vcode2=0
+INDEXmode=0
+INDEXfilter=0
+Vunpack=0
+COLLAPS=0
+
+[PA-1]
+UID=3873194187200402805
+INDEXchan=0
+COLLAPS=0
+
+[PA-2]
+UID=2727062862679775064
+saved in preset=1
+can be randomized=1
+can be reset=1
+edition="no change","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16"
+INDEXvisible=1
+INDEXlist=0
+Tcaption=channel
+Ttext=no change
+Vdefault val=0
+Vnum elements=17
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0
+Vmouse y=0
+Vmouse wheel=0
+Vallow drop=0
+COLLAPS=0
+LIST="no change","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16"
+
+[PA-2listSE]
+UID=3748103363488651275
+also visible in IB=0
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+zoom scale=1
+left=3
+top=24
+width=161
+height=14
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=4280295456
+hilited color=g0
+fit size=1
+show border=1
+border color=4285098345
+border width=1
+round size=0
+show caption=1
+caption font color=4288848546
+caption font size factor=0.899999976158142
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show value=1
+show symbol=0
+show value and symbol on click=0
+display array values=0
+value font color=4288848546
+value font size factor=0.899999976158142
+value font name=Arial
+value font bold=0
+value align=2
+value V align=0
+show scroller=1
+scroller color=4286743170
+scroller width=10
+items font color=4288848546
+select color=g0
+hide filname path=0
+hide filename ext=0
+active mode=0
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+mouse over=0
+
+[PA-2mouse dwnSE]
+UID=2667846428435421614
+
+[PA-2dbl clickSE]
+UID=2774096409588144597
+
+[PA-2mouse xSE]
+UID=8833182135422556774
+
+[PA-2mouse ySE]
+UID=6768960824354544267
+
+[PA-2mouse wheelSE]
+UID=8253777376311253679
+
+[PA-CPSE]
+enabled=0
+send MIDI to lan=0
+receive midi clock=0
+receive midi timecode (MTC)=0
+name=IN MASCHINE MK2 IN
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+zoom scale=1
+transparent=0
+background color=4280498507
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4285578231
+border width=0
+round size=0
+show caption=1
+caption font color=g0
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=g0
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=20
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[PA-CPTOOLBARTBENABLESE]
+active mode=0
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0

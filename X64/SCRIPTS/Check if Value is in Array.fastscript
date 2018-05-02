@@ -1,0 +1,39 @@
+////////////////////////////////////////////////////
+// Check if a value is in the array
+/////////////////////////////////////////////////////
+var Arr, Found, Valsearch : Tparameter;
+
+Procedure Init;
+BEGIN
+  Arr        := CreateParam('ArrayIn',PtArray);                 
+  setisOutput(Arr,false);
+  ValSearch  := CreateParam('Value to search',PtDataField); 
+  setisOutput(Valsearch,false); setvalue(valsearch,1);
+  Found      := CreateParam('value found',PtSwitch);        
+  setisInput(Found,false);
+END;
+//////////////////////////////////////////////////////////////////////
+Procedure Callback (n: integer);            // Scan the N inputs, and n pick the index of any input that changed to
+                                            // return result in same bloc.
+var valFound : boolean;                     // "is our value found?" is a boolean = binary choice TRUE or FALSE type
+                                            // of variable
+var i : integer;                            // integer used to scan thru the array elements.
+BEGIN                                       // Start the callback = check inputs changes
+
+ IF (n=Arr) then begin                      // if changes on Arr input, start
+   i := 0;                                  // reset i (=index to scan)
+   valfound:=FALSE;                         // by default the value is not found
+   while ((not valFound) and (i < GetLength(arr))) do begin           // do the check for each elmt among array
+                                                                      // length as long as value isn't found
+      valFound := (GetDataArrayValue(arr, i) = getvalue(Valsearch) ); // boolean result of the check we want to do ,
+                                                                      // TRUE if the array elmt(i) = our input value
+      i := i + 1;                                                     // increment the scanned elmt
+   end;
+   if valfound then begin                    //if the result of valfound is true, we set parameter to 1
+      setvalue(Found,1);
+   end 
+   else begin                            //otherwise we set it to 0;
+      setvalue(Found,0);      
+   end;  
+ END;              //end of subcheck process
+END;              // END of callback

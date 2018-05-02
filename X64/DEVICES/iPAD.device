@@ -1,0 +1,407 @@
+[PA-]
+PATCHTYPE=8
+VERSION=85
+USINE VERSION=Usine 3.0.154 Win64
+FNAM=Y:\PORTABLE\Usine3\Config\Default Devices\iPAD.device
+ORIGINDEVICE=iPAD
+NBPG=14
+OFFSETX=0
+OFFSETY=0
+UID=1335854281150338954
+QIDX0=0
+ID0=277
+L0=-36.1399841308594
+T0=-15.9760589599609
+QIDX1=3
+ID1=277
+L1=-37.3158874511719
+T1=99.3161010742188
+ID2=114
+L2=-160.200012207031
+T2=299.437683105469
+ID3=352
+L3=-310.702362060547
+T3=575.750610351562
+ID4=361
+L4=-184.483001708984
+T4=225.329376220703
+ID5=106
+L5=-366.958251953125
+T5=194.097991943359
+ID6=359
+L6=-211.813125610352
+T6=140.172378540039
+ID7=341
+L7=-434.680053710937
+T7=348.376159667969
+ID8=345
+L8=-176.791259765625
+T8=400.800506591797
+ID9=9
+L9=-521.54052734375
+T9=227.396697998047
+QIDX10=1
+ID10=484
+L10=-613.01953125
+T10=510.663696289063
+ID11=234
+L11=-715.157470703125
+T11=521.107055664063
+ID12=420
+L12=-603.933471679688
+T12=603.16357421875
+QIDX13=0
+ID13=566
+L13=-571
+T13=296
+C0=0400030000000500
+CSRCNAME0=COUNTING
+CTARGNAME0=SEND
+C1=0300090000000600
+CSRCNAME1=CAPTION
+CTARGNAME1=DATA 1
+C2=0400030001000500
+CSRCNAME2=COUNTING
+CTARGNAME2=SEND
+C3=0200010001000700
+CSRCNAME3=GET BUS
+CTARGNAME3=DATA 2
+C4=0600000001000600
+CSRCNAME4=NUM OF RACKS
+CTARGNAME4=DATA 1
+C5=0200010003000000
+CSRCNAME5=GET BUS
+CTARGNAME5=NUM RACK
+C6=0500010004000000
+C6SELY=0.814453125
+CSRCNAME6=TRIGGER
+CTARGNAME6=START
+C7=0200010005000000
+CSRCNAME7=GET BUS
+CTARGNAME7=IN
+C8=0600000005000000
+CSRCNAME8=NUM OF RACKS
+CTARGNAME8=IN
+C9=0D00010007000000
+CSRCNAME9=OUT
+CTARGNAME9=ON-OFF
+C10=0B0001000A000100
+CSRCNAME10=OUT
+CTARGNAME10=IN 2
+C11=020001000B000000
+CSRCNAME11=GET BUS
+CTARGNAME11=IN
+C12=0A0003000C000000
+CSRCNAME12=OUT
+CTARGNAME12=NAME
+C13=090001000D000000
+CSRCNAME13=SWITCH 1
+CTARGNAME13=IN
+NBCO=14
+
+[PA-PASE]
+enabled=1
+threaded device=0
+name=iPAD
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+zoom scale=1.97993040084839
+transparent=0
+background color=4282524462
+hilited color=4294157504
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4293550225
+border width=0
+round size=0
+show caption=1
+caption font color=4294966782
+caption font size factor=0.800000011920929
+caption align=2
+caption V align=0
+caption font name=8514oem
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=cl13
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=70
+WidthBeforeMinimize=110
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[PA-0]
+UID=11122763253650470
+Taddr=/usine/rack/selectedRackName
+Tip=172.16.0.65
+Vbroadcast=0
+Vport=8000
+INDEXtype=3
+Vsend=0
+TABdata 1V=0000AC42000092420000884200008A4200009E42
+TABdata 1L=5
+COLLAPS=2
+
+[PA-1]
+UID=711620695142495104
+Taddr=/usine/rack/Ints
+Tip=172.1.0.65
+Vbroadcast=0
+Vport=8000
+INDEXtype=1
+Vsend=0
+Vdata 1=2
+Vdata 2=0
+Vdata 3=0
+Vdata 4=0
+Vdata 5=0
+Vdata 6=0
+Vdata 7=0
+Vdata 8=0
+COLLAPS=0
+
+[PA-2]
+UID=8838703036231291367
+Tname=RACK NO
+COLLAPS=2
+
+[PA-3]
+SELECT=1
+
+[PA-4]
+UID=632058861874725825
+Vduration=33
+Vprecise time=0
+COLLAPS=1
+
+[PA-5]
+UID=6963703854555782284
+Vin=2
+Vhold time=0
+COLLAPS=0
+
+[PA-6]
+COLLAPS=1
+
+[PA-7]
+COLLAPS=2
+
+[PA-8]
+COLLAPS=2
+
+[PA-9]
+UID=3115332326496332633
+saved in preset=1
+can be randomized=1
+can be reset=1
+INDEXvisible=1
+Vswitch=0
+Tcaption=GRID ON
+COLcolor=cl2
+TOFF caption=GRID OFF
+VON value=1
+VOFF value=0
+Vnull evt if OFF=0
+INDEXgroup=0
+Vat least one=0
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.971857905387878
+Vmouse y=0.142316460609436
+Vmouse wheel=0
+Vallow drop=0
+COLLAPS=0
+
+[PA-9switchSE]
+UID=6060126234377645209
+also visible in IB=0
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+zoom scale=1
+left=3
+top=18
+width=77
+height=14
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+hilited color=4294309365
+frames count=1
+frames alignment=0
+show border=1
+border width=1
+round size=0
+show caption=1
+caption font size factor=0.899999976158142
+caption align=0
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+fit size=1
+ON color=g9
+OFF color=4282203453
+font ON color=4280690214
+font OFF color=4286611584
+border ON color=clWhite
+border OFF color=g9
+show small led=0
+small led size factor=0.300000011920929
+small led ON color=cl7
+small led OFF color=cl8
+active mode=0
+inverse=0
+quantize=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+mouse over=0
+
+[PA-9mouse dwnSE]
+UID=7343605946542387615
+
+[PA-9dbl clickSE]
+UID=447609288615719372
+
+[PA-9mouse xSE]
+UID=2533449940338405878
+
+[PA-9mouse ySE]
+UID=7512185579721388570
+
+[PA-9mouse wheelSE]
+UID=6824736488020439618
+
+[PA-10]
+UID=5467733594713707149
+Tstring 1=RACK
+Tstring 2=0
+Tstring 3=PRESETS
+Tstring out=RACK0PRESETS
+COLLAPS=0
+
+[PA-11]
+UID=1826308524135775966
+Vin=0
+Tout=0
+COLLAPS=0
+
+[PA-12]
+UID=3680438493394945883
+Tname=RACK0PRESETS
+COLLAPS=2
+
+[PA-13]
+UID=4042404677667643236
+Vin=0
+Vout=0
+Vhold time=0
+COLLAPS=0
+
+[PA-CPSE]
+enabled=1
+threaded device=0
+name=iPAD
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+zoom scale=1.97993040084839
+transparent=0
+background color=4282524462
+hilited color=4294157504
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4293550225
+border width=0
+round size=0
+show caption=1
+caption font color=4294966782
+caption font size factor=0.800000011920929
+caption align=2
+caption V align=0
+caption font name=8514oem
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=cl13
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=70
+WidthBeforeMinimize=110
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[PA-CPTOOLBARTBENABLESE]
+active mode=0
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0

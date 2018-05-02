@@ -1,0 +1,12 @@
+Current Rack No.
+*   // file name ext ('wav', 'usr', etc...)
+0   // none=0,in=1,out=2
+0 // term flowtype
+*   // term display flow type  dftText=0 dftgain=1 dftDir=2 dftSwitch=3 dftButton=4 dftInt=5 dftFloat=6, dftColor=7, dftListBox=8, dftArray=9, dftIpAddress=10, dftSmpte=11, dftFileName=12, dftMIDINote=13, dftHexa=14, dftTrigger=15, dftPassword=16
+*   // termainal name can be '*' or "any string"
+-1   // drag on wire 0=false 1=true -1=empty zone
+-1  // source module ID (-1 = any module)
+
+SET_TARGET_PATCH SENDER_PATCH
+CREATE_MODULE "Current Rack No." 88 MOUSE_X MOUSE_Y
+RENAME_MODULE "Current Rack No."

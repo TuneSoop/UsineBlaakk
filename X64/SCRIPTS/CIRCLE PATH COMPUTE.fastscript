@@ -1,0 +1,51 @@
+var inArr : Tparameter;
+var outX : Tparameter;
+var outY : Tparameter;
+var l : integer;
+var i : integer;
+var o_l : integer;
+var tmp : integer;
+var r:double;
+var c:integer;                      
+procedure init;  
+begin
+ c:=360;
+ r:=0.5;
+ inArr:= CreateParam('inArr', ptArray); 
+ SetIsOUTput(inArr,FALSE);           
+ outX:= CreateParam('outX', ptArray); 
+ SetIsINput(outX,FALSE);
+ outY:= CreateParam('outY', ptArray); 
+ SetIsINput(outY,FALSE);
+end;                                 
+
+// Callback procedure
+Procedure Callback(N:integer);
+var x:double;
+var y:double;
+var d:double;
+var a:double;
+var a2:double;
+begin                                   
+ if n=inArr then              
+ begin   
+   l:=GetLength(inArr);
+   d:=c/l;      
+   o_l:=0;
+   for i:=0 to l-1 do
+   begin
+     tmp:=Round(GetDataArrayValue(inArr,i));
+     if tmp=1 then begin       
+       a2:=(i*d);
+       a:=a2*(Pi/180);
+       x:=((round((Sin(a))*100)/100)*r)+r;        
+       y:=((round((Cos(a))*100)/100)*r)+r; 
+       SetDataArrayValue(outX, o_l, x);
+       SetDataArrayValue(outY, o_l, y);
+       o_l:=o_l+1;
+     end;
+     SetLength(outX, o_l);
+     SetLength(outY, o_l);
+   end;
+ end;
+end;

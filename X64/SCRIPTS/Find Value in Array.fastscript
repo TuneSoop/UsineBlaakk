@@ -1,0 +1,37 @@
+////////////////////////////////////////////////////
+// find value in array
+// will search for the first occurence of a value and output is position
+///////////////////////////////////////////////////// 
+ 
+                                                                                                          
+var Arr, Posit, Valsearch: Tparameter;        
+
+Procedure Init;
+BEGIN
+  Arr := CreateParam('Arr',PtArray);           
+  setisOutput(Arr,false);                
+  ValSearch:= CreateParam('Valsearch',PtDataField); 
+  setisOutput(Valsearch,false); setvalue(valsearch,1);
+  Posit := CreateParam('index',PtDataField);       
+  setisInput(Posit,false);
+END;
+
+Procedure Callback (n: integer);
+var i, firstPos : integer;
+begin
+
+  if (n=Arr) then begin
+   firstPos := -1;
+   i := 0;
+   while ((firstPos = -1) and (i < GetLength(arr))) do begin // on the length of array
+      if (GetDataArrayValue(arr, i) = getValue(Valsearch)) then  begin       // checking for first occurence with
+                                                                             // value = our value.
+         firstPos := i;                                      // storing found index
+         setvalue(Posit,firstPos);                             // seting pos parameter to that index
+      end
+      else begin                                             // if not found keep scanning
+         i := i + 1;
+      end;
+   end; 
+   end;
+END;

@@ -1,0 +1,32 @@
+//////////////////////////
+// N inputs to 1 output. 
+//////////////////////////
+const nbins = 8;  //define number of inputs all going to output.(summed).
+
+var INPUTS : array of Tparameter;
+var output : tparameter;
+var i      : integer;
+var valtmp : single;
+
+Procedure Init;
+begin
+
+ setArrayLength(INPUTS,nbins);
+  for i:= 0 to nbins-1 do begin
+   INPUTS[i]:=  CreateParam('input'+IntToStr(i),PtDataField);  SetIsOutput(INPUTS[i],false);
+  end;
+  output:= createParam('output',Ptdatafield); setisInput(output,false);
+  valtmp:=0;
+end;// init
+
+Procedure Callback (n:integer);
+Begin
+ if n>=0 then begin
+   valtmp:= getValue(inputs[0]);
+    for i:= 1 to nbins-1 do begin
+      valtmp:= valtmp + getValue(Inputs[i]);
+    end;
+  setValue(output,valtmp);
+  end;
+
+end;// callback

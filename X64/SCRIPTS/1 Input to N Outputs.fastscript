@@ -1,0 +1,34 @@
+/////////////////////
+// 1 in to N outputs
+/////////////////////
+const nbouts = 8;  //define number of outputs all picking input as a constant to be easy accessible.
+
+var OUTPUTS : array of Tparameter;        // to automate the inout creation process we make an array of parameters.
+var input  : tparameter;
+var i      : integer;
+var valtmp : single;
+
+Procedure Init;
+begin
+  input:= createParam('input',Ptdatafield); 
+  setisOutput(input,false);
+  setArrayLength(OUTPUTS,nbouts);          // the first thing to do with array is set their length, here the nb outs we
+                                            // want.
+  for i:= 0 to nbouts-1 
+  do begin
+    OUTPUTS[i] :=  CreateParam('output'+IntToStr(i),PtDataField);  
+    SetIsInput(OUTPUTS[i],false);   // will create all the                                                                                              // outs one shot
+  end;
+  valtmp := 0;                                                
+end;// init
+
+Procedure Callback (n:integer);
+Begin
+    valtmp:= getValue(input);
+    for i:= 0 to nbouts-1 
+    do begin      // assign input value to all outputs
+        setValue(outputs[i],valtmp);
+     end;
+
+end;// callback
+////////////////////////////////////////

@@ -1,0 +1,275 @@
+[INFO]
+thumbnail image=89504E470D0A1A0A0000000D49484452000000BE000000110806000000633E16A6000000017352474200AECE1CE90000000467414D410000B18F0BFC6105000002C1494441546843ED9AEB6EE2301046CD4229142857F5170FC2E3EDF356027129775A56C79BAF6BB109A12B07559B3992958B2FE3D4DF8C27A195C9647276865132BCF05F5F5F934BC3F8FF79797971D5F178FC73BD5E27B76EA75EAFBBE170E8CEE7B33B1E8FEEF9F9D975BB5DF7F1F1E14EA7936FA37BFBFDDEDF0F49AB4BBBD76C36DD603070AD56CB176CBDBFBFFF937D1E58E384456386D46A35371A8D3EDB84E386684CFD0D352FFA631798038576D56AF5F3BE787A7A72FD7E3FD3861117D6E147721E8D4EA7939CC581F1DEDEDE1CBB1282E9F57A494D3A79F61983B1C272381C92DA3F20549C81FADD6EE7C745CC97AC562B7FC4C940F6E508889A7E8CC373341A0DEF1C21ED763B3933EE4574E1038B1D0309E4E1E1C11F178B8517501E31EC4FA7535FA052A9F8635A34DE6EB7DE991034CE424447E06ACB8EC58E029BCDE62F4793C318F725BAF0899244B0B4E8F85594EE3C3E3EFA94E21662DA07C4AC889D85A23BF3C43E0207FAE108382EF3A7E00802C7C661D8518CFB125DF85AF4185197A849F41408276FDC3CFB722215F2F16BB0CB10D5699BE54CCC53793B6DD350AA432AA49D8C7344AF1DC1B81FD185CF226AEB578AF055C2940221CF66B3E4EA773E7C992387E4D9BFCCF195CE5C43F3C9B24B14C7A1206DB791B0350EF53826BBC172B9F4F78CFB52488E1F6EFD5984E2CE83B68854290182B9C62DF663A217DAF97CEE8F7C35806BCFA8F7167612F5E718A642467114227C163C2F6F9528C2284A9456CA004445842131A84F5E6A708BFD3CB04B7E0F8AE0695F7FF472CAD71DEAB18BC369CE5CF35C108EA317758ABE0C71CC4A958CB814227CC8DBC2597C169AD400915178314410823407E11009A9A72D7DAE45529165FF32C7A7A44559A2B7DA6297EB4BBB7A39C5592558D95514E79A7A8D73EBFC8D62B15F6E8DD241102A2CE21BC677C6846F941213BE514A4CF84629B1FFC7374A8873BF007C38BCC74B522D060000000049454E44AE426082
+
+[PA-]
+PATCHTYPE=2
+VERSION=86
+USINE VERSION=Usine 3.0.165-1 Win64
+FNAM=Y:\PORTABLE\Usine Hollyhock Win64 3.0.165-1\Config\Default Devices\IN USINE 3 X64.device
+ORIGINDEVICE=IN USINE 3 X64
+NBPG=3
+OFFSETX=-113
+OFFSETY=-114
+UID=5973848466794837016
+ID0=5
+L0=134
+T0=191
+ID1=22
+L1=663
+T1=387
+ID2=68
+L2=279
+T2=378
+C0=0000000001000000
+CSRCNAME0=MIDI IN1
+CTARGNAME0=MIDI OUT1
+C1=00000B0001000200
+CSRCNAME1=SYSEX
+CTARGNAME1=SYSEX
+C2=0200010001000100
+CSRCNAME2=LIST 1
+CTARGNAME2=CHANNEL
+NBCO=3
+
+[PA-PASE]
+enabled=0
+send MIDI to lan=0
+receive midi clock=0
+receive midi timecode (MTC)=0
+name=IN USINE 3 X64
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+zoom scale=1
+transparent=0
+background color=g0
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=g0
+border width=1
+round size=0
+show caption=1
+caption font color=g0
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=1
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=g0
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=63
+WidthBeforeMinimize=167
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[PA-0]
+UID=175644713138604968
+Vmsg=176
+Vcode1=2
+Vcode2=0
+INDEXmode=0
+INDEXfilter=0
+Vunpack=0
+COLLAPS=0
+
+[PA-1]
+UID=7707898360188225149
+INDEXchan=0
+COLLAPS=0
+
+[PA-2]
+UID=726241169652256852
+saved in preset=1
+can be randomized=1
+can be reset=1
+edition=no change,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+INDEXvisible=1
+INDEXlist=0
+Tcaption=channel
+Ttext=no change
+Vdefault val=0
+Vnum elements=17
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.483087599277496
+Vmouse y=0.0222556982189417
+Vmouse wheel=0
+Vallow drop=0
+COLLAPS=0
+LIST=no change,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+
+[PA-2listSE]
+UID=1102789873139650973
+also visible in IB=0
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+zoom scale=1
+left=3
+top=18
+width=161
+height=14
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=4280295456
+hilited color=g0
+fit size=1
+show border=1
+border color=4285098345
+border width=1
+round size=0
+show caption=1
+caption font color=4288848546
+caption font size factor=0.899999976158142
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show value=1
+show symbol=0
+show value and symbol on click=0
+display array values=0
+value font color=4288848546
+value font size factor=0.899999976158142
+value font name=Arial
+value font bold=0
+value align=2
+value V align=0
+show scroller=1
+scroller color=4286743170
+scroller width=10
+items font color=4288848546
+select color=g0
+hide filname path=0
+hide filename ext=0
+active mode=0
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+mouse over=0
+
+[PA-2mouse dwnSE]
+UID=2565003562700706673
+
+[PA-2dbl clickSE]
+UID=942405855752688542
+
+[PA-2mouse xSE]
+UID=2981366389683721154
+
+[PA-2mouse ySE]
+UID=14463280800273382
+
+[PA-2mouse wheelSE]
+UID=7327783206296687627
+
+[PA-CPSE]
+enabled=0
+send MIDI to lan=0
+receive midi clock=0
+receive midi timecode (MTC)=0
+name=IN USINE 3 X64
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+zoom scale=1
+transparent=0
+background color=g0
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=g0
+border width=1
+round size=0
+show caption=1
+caption font color=g0
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=1
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=g0
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=63
+WidthBeforeMinimize=167
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[PA-CPTOOLBARTBENABLESE]
+active mode=0
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0

@@ -1,0 +1,15 @@
+Switch
+*   // file name ext ('wav', 'usr', etc...)
+1   // none=0,in=1,out=2
+3   // term flowtype
+3 6   // term display flow type  dftText=0 dftgain=1 dftDir=2 dftSwitch=3 dftButton=4 dftInt=5 dftFloat=6, dftColor=7, dftListBox=8, dftArray=9, dftIpAddress=10, dftSmpte=11, dftFileName=12, dftMIDINote=13, dftHexa=14, dftTrigger=15, dftPassword=16
+*   // termainal name can be '*' or "any string"
+0   // drag on wire 0=false 1=true
+-1  // source module ID (-1 = any module)
+
+SET_TARGET_PATCH SENDER_PATCH
+CREATE_MODULE switch 9 MOUSE_X MOUSE_Y
+CREATE_LINK switch 1 SRC_MODULE SRC_TERM_NUM
+SET_VALUE switch 1 SRC_VALUE
+SET_STRING_VALUE switch "ON caption" SRC_TERM_NAME
+RENAME_MODULE switch

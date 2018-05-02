@@ -1,0 +1,124 @@
+{----------------------------------------------------        
+FASTSCRIPT: COLORZ     
+------------------------------------------------------
+BY: Blaakk     
+------------------------------------------------------
+DATE: 27/07/17                                                      
+------------------------------------------------------
+VERS: 0.1       
+------------------------------------------------------
+DESCRIPTION: Just an attempt to do something fancy with colors, for UI aesthetics' sake.           
+------------------------------------------------------}  
+
+{TYPES
+   integer: -32768 to 32767 ***
+   byte: 0 to 255 ***            
+   real: Floats from 1E-38 to 1E+38
+   boolean: TRUE or FALSE *** 
+   char: Any ASCII character ***               
+   shortint -128 to 127
+   word: Integers from 0 to 65535          
+   longint: -2147483648 to 2147483647
+   single: Real with 7 significant digits ***
+   double: Real with 15 significant digits
+   extended: Real with 19 significant digits
+   comp: Integers from about -10E18 to 10E18 }  
+   
+{ MORE TYPES
+   type MyInteger = integer;
+       
+   type Apple = record
+        Color : byte;
+        Weight : single;
+        Origin : string;
+       End;
+       
+   type TParameter  (Inlet/Outlet)
+   
+   type TScale = (lsLinear, lsLog, lsExp);
+   
+   type TParamType = ( ptTextField, 
+                       ptChooseColor,
+                       ptMIDI,
+                       ptGainFader,
+                       ptAudio,
+                       ptDataField,
+                       ptDataFader,
+                       ptButton,
+                       ptListBox,
+                       ptSwitch,
+                       ptArray,
+                       ptIpAddress,
+                       ptSmpte,
+                       ptMIDINoteFader,
+                       ptPointerBitMap,
+                       ptPointer,
+                       ptLed,
+                       ptOther
+                      );           
+      
+   type  TMIDI = Record           
+          Msg   : Byte; 
+          Data1 : Byte; 
+          Data2 : Byte; 
+          Channel : byte; 
+          end; // this is a MIDI code. }  
+                                                      
+//GLOBAL VARIABLES AND TPARAMETER  DECLARATIONS  
+{  Vars must be declared before use....   
+
+   var Variable-Name : Type             }
+
+var inputString  :TParameter;  
+var outputString :TParameter;
+var stringLen : TParameter;   
+var sLen : integer; 
+var strIn : string;
+var coloredString : array of char;
+
+
+/////////////////////////////////////    
+//INIT             
+/////////////////////////////////////    
+
+PROCEDURE INIT();
+BEGIN
+    
+ inputString:=CreateParam('inputString',ptTextField);
+ setIsOutput(inputString,false);
+           
+ outputString:=CreateParam('outputString',ptTextField);
+ setIsInput(outputString,false);
+  
+ stringLen:=CreateParam('stringLen',ptDataFader);
+ setIsInput(stringLen,false); 
+ setMax(stringLen,128);
+ setMin(stringLen,0);
+
+END;    
+
+/////////////////////////////////////    
+//CALLBACK
+/////////////////////////////////////    
+PROCEDURE CALLBACK(N:INTEGER);
+BEGIN      
+
+  CASE N OF
+   0:Begin  
+         sLen:=GetLength(inputString);  
+         SetValue(stringLen,sLen);
+         SetValue(outputString,inputString);
+         
+     End;
+  End;//END MAIN CASE 
+           
+END;
+                 
+/////////////////////////////////////    
+//PROCESS
+/////////////////////////////////////                     
+PROCEDURE PROCESS();
+BEGIN
+
+
+END;

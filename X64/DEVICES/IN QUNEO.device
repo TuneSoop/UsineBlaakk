@@ -1,0 +1,278 @@
+[INFO]
+thumbnail image=89504E470D0A1A0A0000000D49484452000000BE0000000F08060000005AE2754D000000017352474200AECE1CE90000000467414D410000B18F0BFC610500000202494441546843ED9A89AAC2301045C77D5F50F003FCFF2F1314F77D799C9AF0AA449B3E5BF0B573A0B4191BA6C89DF466B4301E8F6FA22839A368CE8A922B54F84A2EF9C8EA8C462399CFE7723C1EA5DBED4ABD5E97C964623E152997CB32180C64369BC9F97C36D14786C3A1944A25339287F98D46439ACDA64CA75313B943DED56A25BBDDCE2B2FF7BBB0CF0ED56A55FAFD7E700D87C341168B8519295923F1151FA1FA8220112FA2E540CCC4106E5CA2F222729BC71E56F41418A20FDF0314A5924D12153EAB64BBDDF6122E2BF57EBF97ED766B22121401B156AB65227EC4C9EB82A2A1E86C21805DED290A257B242AFCDBED26EBF5DA4BB8954A454EA79319FD82F06BB59A19F91127EF33140B56CBF52CC4784E257B246E7558C11153D44A19F6F5491095172B838DB287B531C5E2FD2B70ED4188150A053352B244E2C2076C4394E7BE5C2EE6EA6FB8E6BFCBFBECF1ED86F97ABD0667974D22C6DB44C91EA9081FAFCC6AF94EFCD8083A29163C3FD0A1C1B303E28EF366F0C9FB0CF793C765695ED931E5FF938AF061B3D904227EC572B90CBCBC1529DE1E0BC21CE682DD6C8685CC35420D6F44C344E575814DEA743A0F85D8EBF582331B6E257B24DAC707046D41A4745B7CFBF8881F4F4D41D839D80D7AF2616CBB117CF2F29C2EEC6F01A07DFC7CF195FFD541ECAF0A4551922035ABF3092A7A256DBE52F88A922E223F903A2D95813E12DB0000000049454E44AE426082
+
+[PA-]
+PATCHTYPE=2
+VERSION=86
+USINE VERSION=Usine 3.0.165-1 Win64
+FNAM=Y:\PORTABLE\Usine Hollyhock Win64 3.0.165-1\Config\Default Devices\IN QUNEO.device
+ORIGINDEVICE=IN QUNEO
+NBPG=3
+OFFSETX=0
+OFFSETY=0
+UID=3575288923145578791
+ID0=5
+L0=100
+T0=300
+ID1=22
+L1=400
+T1=300
+ID2=68
+L2=250
+T2=350
+C0=0000000001000000
+CSRCNAME0=MIDI IN1
+CTARGNAME0=MIDI OUT1
+C1=00000B0001000200
+CSRCNAME1=SYSEX
+CTARGNAME1=SYSEX
+C2=0200010001000100
+CSRCNAME2=LIST 1
+CTARGNAME2=CHANNEL
+NBCO=3
+
+[PA-PASE]
+enabled=0
+send MIDI to lan=0
+receive midi clock=0
+receive midi timecode (MTC)=0
+name=IN QUNEO
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+zoom scale=1
+transparent=0
+background color=4280498507
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4285578231
+border width=0
+round size=0
+show caption=1
+caption font color=g0
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=g0
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[PA-0]
+UID=2033784100723414884
+TABmsgV=00003043000030430000004300003043
+TABmsgL=4
+TABcode1V=00004042000044420000304200003C42
+TABcode1L=4
+TABcode2V=00007C4200007C420000000000000000
+TABcode2L=4
+INDEXmode=0
+INDEXfilter=0
+Vunpack=0
+COLLAPS=0
+
+[PA-1]
+UID=977183274305903260
+INDEXchan=0
+COLLAPS=0
+
+[PA-2]
+UID=7446415856247299223
+saved in preset=1
+can be randomized=1
+can be reset=1
+edition="no change","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16"
+INDEXvisible=1
+INDEXlist=0
+Tcaption=channel
+Ttext=no change
+Vdefault val=0
+Vnum elements=17
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0
+Vmouse y=0
+Vmouse wheel=0
+Vallow drop=0
+COLLAPS=0
+LIST="no change","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16"
+
+[PA-2listSE]
+UID=4964401659442945366
+also visible in IB=0
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+zoom scale=1
+left=3
+top=24
+width=161
+height=14
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=4280295456
+hilited color=g0
+fit size=1
+show border=1
+border color=4285098345
+border width=1
+round size=0
+show caption=1
+caption font color=4288848546
+caption font size factor=0.899999976158142
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show value=1
+show symbol=0
+show value and symbol on click=0
+display array values=0
+value font color=4288848546
+value font size factor=0.899999976158142
+value font name=Arial
+value font bold=0
+value align=2
+value V align=0
+show scroller=1
+scroller color=4286743170
+scroller width=10
+items font color=4288848546
+select color=g0
+hide filname path=0
+hide filename ext=0
+active mode=0
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+mouse over=0
+
+[PA-2mouse dwnSE]
+UID=3824976052329176895
+
+[PA-2dbl clickSE]
+UID=9050178304093773673
+
+[PA-2mouse xSE]
+UID=270492699054104467
+
+[PA-2mouse ySE]
+UID=320117367519895482
+
+[PA-2mouse wheelSE]
+UID=147557407759065061
+
+[PA-CPSE]
+enabled=0
+send MIDI to lan=0
+receive midi clock=0
+receive midi timecode (MTC)=0
+name=IN QUNEO
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+zoom scale=1
+transparent=0
+background color=4280498507
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4285578231
+border width=0
+round size=0
+show caption=1
+caption font color=g0
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=g0
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[PA-CPTOOLBARTBENABLESE]
+active mode=0
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0

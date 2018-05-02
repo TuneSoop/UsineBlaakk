@@ -1,0 +1,285 @@
+[INFO]
+thumbnail image=89504E470D0A1A0A0000000D49484452000000BE0000000E080600000091BEA6E8000000017352474200AECE1CE90000000467414D410000B18F0BFC6105000001FA494441546843ED9ABF4B425114C76F0D4590884B4BE61C45B41868E11C44D416218E897B45D15F10453FA02D6A0CA9318920A849CCA186248A96848C121A927841D4527C8FEFBC1E2226B7F720F27CE071DE3DF7FD70F89EFBBEF760532814FA5482D060349B51101A0A6DE1C7B36935B197344765AAE5628729CAF3115998A77CE74090C698673087DCF8F6A699298367DAAFB3D31F8BD23DC3ABCB34C6BDF6F700CEE19D82005C5DF121B60FE3556D852374DCA40E54F7D82889F2E1EC5C154EB3AACDE7B3448B39B03F95A00820786FA0CB1CD50F3F4B10AAE19AF059CC9995358A20BDB8440580088E66E6D45BA9A4028361EB4B81E2605038280C5CA303FF0641A8C435E17BFD7E122C56F65A5C26772962557F29DC5B45C1A05074E082127B2354C335E1B778DACDB3DAE47692D68A5EBCC8516474450FEED2198AC1449CA220D8715CF8EF864111DEBE1E604760678093BE3C7F7C425F908EDE1ED5EAF198594128A32DFC9F7C370A0082AE653530073B8267B1B7AFECE8FC06DE5FE86C8E85FF8DB6F08DC722098A85CDEDC3E7DB3C45EECC0CCD4E5304DCAEE44D27CFC1E7C3DBF30A8D16A513607FF174756D8E04E11B6DE143D810EAC8C63A89193605ED49FBE6141E1D5E1FF37C0D567674735004281C08133E1FF00ADD179DA4E804F6D6A82030F29705A12171ADAB23087F1911BED08028F5051788D2E1529BAA7A0000000049454E44AE426082
+
+[PA-]
+PATCHTYPE=2
+VERSION=86
+USINE VERSION=Usine 3.0.165-1 Win64
+FNAM=Y:\PORTABLE\Usine Hollyhock Win64 3.0.165-1\Config\Default Devices\UCX1 IN.device
+ORIGINDEVICE=IN UCX MIDI PORT 1
+NBPG=4
+OFFSETX=3
+OFFSETY=145
+UID=2639236569808595227
+ID0=5
+L0=-156
+T0=64
+ID1=22
+L1=357
+T1=110
+ID2=68
+L2=202
+T2=177
+ID3=118
+L3=399
+T3=10
+C0=0200010001000100
+CSRCNAME0=LIST 1
+CTARGNAME0=CHANNEL
+C1=0000000001000000
+CSRCNAME1=MIDI IN1
+CTARGNAME1=MIDI OUT1
+C2=0000000003000100
+CSRCNAME2=MIDI IN1
+CTARGNAME2=SET BUS
+NBCO=3
+
+[PA-PASE]
+enabled=1
+send MIDI to lan=0
+receive midi clock=0
+receive midi timecode (MTC)=0
+name=UCX1 IN
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+zoom scale=1
+transparent=0
+background color=4285200127
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=g0
+border width=0
+round size=0
+show caption=1
+caption font color=4288544763
+caption font size factor=0.850000023841858
+caption align=1
+caption V align=1
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=14
+header color=g0
+show toolbar=1
+toolbar size=12
+minimized=1
+HeightBeforeMinimize=69
+WidthBeforeMinimize=174
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+
+[PA-0]
+UID=74143840
+Vmsg=224
+Vcode1=0
+Vcode2=73
+INDEXmode=0
+INDEXfilter=0
+Vunpack=0
+COLLAPS=0
+
+[PA-1]
+UID=16397463
+INDEXchan=0
+COLLAPS=0
+
+[PA-2]
+UID=63152166
+saved in preset=1
+can be randomized=1
+can be reset=1
+edition=no change,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+INDEXvisible=1
+INDEXlist=0
+Tcaption=channel
+Ttext=no change
+Vdefault val=0
+Vnum elements=17
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.699018359184265
+Vmouse y=0
+Vmouse wheel=0
+Vallow drop=0
+COLLAPS=0
+LIST=no change,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+
+[PA-2listSE]
+UID=63152590
+also visible in IB=0
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+zoom scale=1
+left=7
+top=42
+width=161
+height=21
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=4280295456
+hilited color=g0
+fit size=1
+show border=1
+border color=4285098345
+border width=4
+round size=0
+show caption=1
+caption font color=4288848546
+caption font size factor=0.899999976158142
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show value=1
+show symbol=0
+show value and symbol on click=0
+display array values=0
+value font color=4288848546
+value font size factor=0.899999976158142
+value font name=Arial
+value font bold=0
+value align=2
+value V align=0
+show scroller=1
+scroller color=4286743170
+scroller width=10
+items font color=4288848546
+select color=g0
+hide filname path=0
+hide filename ext=0
+active mode=0
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+mouse over=0
+
+[PA-2mouse dwnSE]
+UID=24531173
+
+[PA-2dbl clickSE]
+UID=24531248
+
+[PA-2mouse xSE]
+UID=24531308
+
+[PA-2mouse ySE]
+UID=24531363
+
+[PA-2mouse wheelSE]
+UID=6112584120520525087
+
+[PA-3]
+UID=8670191743929644986
+Tname=FCB MIDI FROM ES88
+INDEXtarget=0
+Von=1
+COLLAPS=0
+
+[PA-CPSE]
+enabled=1
+send MIDI to lan=0
+receive midi clock=0
+receive midi timecode (MTC)=0
+name=UCX1 IN
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+zoom scale=1
+transparent=0
+background color=4285200127
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=g0
+border width=0
+round size=0
+show caption=1
+caption font color=4288544763
+caption font size factor=0.850000023841858
+caption align=1
+caption V align=1
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=14
+header color=g0
+show toolbar=1
+toolbar size=12
+minimized=1
+HeightBeforeMinimize=69
+WidthBeforeMinimize=174
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+
+[PA-CPTOOLBARTBENABLESE]
+active mode=0
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0

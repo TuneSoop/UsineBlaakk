@@ -1,0 +1,275 @@
+[INFO]
+thumbnail image=89504E470D0A1A0A0000000D49484452000000BE0000000F08060000005AE2754D000000017352474200AECE1CE90000000467414D410000B18F0BFC6105000001D9494441546843ED9A696BC2401040D37A9F88823FC0FFFFCB04BF789FA4BC21D3C675A33126AD69E6C192B88789F0667616FC98CD6661601815E333BA1A46A530F18D4AF292F8D3E93468369B723F1C0EE5739C7ABD2E7D5C5D2693C9D57AA5DBED4A3F57E07B69D0E97464CC6D71E2F35D98EB3E2F8EBEAF3E5BD1E7BA6BF90D8C19E523F78CEF4A738FCBE57213148D4643FA93606C3E9F7FB7F57A7D237F5610FB703824CA6C92FF1F72151F69FAFDBE37C3FBD8ED765732B18E763E9FA39EC76CB75B09863CA4E43B369B8DDCBBD95D83D4E4FF1FE42A7E188692817BBD5ED4731FE683060AB29D4E27B97F06D6B053BC02CF26E0680464BBDD8E467E58AD56C16030883E196526F752870CFC4C66445ACDAEC8BBDFEFE5FEB741740DBAE3F1E8159F7EDE2FE90C619487DCC5073263DA5A1F91109E6069B55A22D75F80E894699C17C6E3B1F4F98277B95CCA5CDDA58C725288F8C84BC990467EE6223C593F6BB62770B294480A82FB0ECD6E9DAF3C53CE19EF4921E20387445FB9E0430FC559E4D5E0A22ECF8AEF6CA101E9CBEC5ACED56AB5A8C7281B85894FC62733A641CB9B34E2231BE58836B2F562B188461F331A8DAED693B911DCDD6D787F7681A45D8B72CE282FF65F1DA3921496F10DE39D31F18D0A12045FD7F2C3ECAF929E930000000049454E44AE426082
+
+[PA-]
+PATCHTYPE=2
+VERSION=86
+USINE VERSION=Usine 3.0.165-1 Win64
+FNAM=Y:\PORTABLE\Usine Hollyhock Win64 3.0.165-1\Config\Default Devices\IN MIDI LAN.device
+ORIGINDEVICE=IN MIDI LAN
+NBPG=3
+OFFSETX=0
+OFFSETY=0
+UID=589588429900362189
+ID0=5
+L0=100
+T0=300
+ID1=22
+L1=400
+T1=300
+ID2=68
+L2=250
+T2=350
+C0=0000000001000000
+CSRCNAME0=MIDI IN1
+CTARGNAME0=MIDI OUT1
+C1=00000B0001000200
+CSRCNAME1=SYSEX
+CTARGNAME1=SYSEX
+C2=0200010001000100
+CSRCNAME2=LIST 1
+CTARGNAME2=CHANNEL
+NBCO=3
+
+[PA-PASE]
+enabled=0
+send MIDI to lan=0
+receive midi clock=0
+receive midi timecode (MTC)=0
+name=IN MIDI LAN
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+zoom scale=1
+transparent=0
+background color=4280498507
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4285578231
+border width=0
+round size=0
+show caption=1
+caption font color=g0
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=g0
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=20
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[PA-0]
+UID=7369911360015871616
+Vmsg=0
+Vcode1=0
+Vcode2=0
+INDEXmode=0
+INDEXfilter=0
+Vunpack=0
+COLLAPS=0
+
+[PA-1]
+UID=5005730950334427687
+INDEXchan=0
+COLLAPS=0
+
+[PA-2]
+UID=5824423262517244781
+saved in preset=1
+can be randomized=1
+can be reset=1
+edition="no change","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16"
+INDEXvisible=1
+INDEXlist=0
+Tcaption=channel
+Ttext=no change
+Vdefault val=0
+Vnum elements=17
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0
+Vmouse y=0
+Vmouse wheel=0
+Vallow drop=0
+COLLAPS=0
+LIST="no change","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16"
+
+[PA-2listSE]
+UID=5661705321246929958
+also visible in IB=0
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+zoom scale=1
+left=3
+top=24
+width=161
+height=14
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=4280295456
+hilited color=g0
+fit size=1
+show border=1
+border color=4285098345
+border width=1
+round size=0
+show caption=1
+caption font color=4288848546
+caption font size factor=0.899999976158142
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show value=1
+show symbol=0
+show value and symbol on click=0
+display array values=0
+value font color=4288848546
+value font size factor=0.899999976158142
+value font name=Arial
+value font bold=0
+value align=2
+value V align=0
+show scroller=1
+scroller color=4286743170
+scroller width=10
+items font color=4288848546
+select color=g0
+hide filname path=0
+hide filename ext=0
+active mode=0
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+mouse over=0
+
+[PA-2mouse dwnSE]
+UID=8262857252950292200
+
+[PA-2dbl clickSE]
+UID=8020283545238681368
+
+[PA-2mouse xSE]
+UID=2958884358231734098
+
+[PA-2mouse ySE]
+UID=7984969692770776965
+
+[PA-2mouse wheelSE]
+UID=4748075413423306677
+
+[PA-CPSE]
+enabled=0
+send MIDI to lan=0
+receive midi clock=0
+receive midi timecode (MTC)=0
+name=IN MIDI LAN
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+zoom scale=1
+transparent=0
+background color=4280498507
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4285578231
+border width=0
+round size=0
+show caption=1
+caption font color=g0
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=g0
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=20
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[PA-CPTOOLBARTBENABLESE]
+active mode=0
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0

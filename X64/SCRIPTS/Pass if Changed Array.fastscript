@@ -1,0 +1,77 @@
+////////////////////////////////////////////////////////////////////////////////////////////
+// Pass If Chg Array create an array where only values that changed in array in will pass //
+// As it need 2 blocs (one to check, one to store) it relies on Process procedure         //
+// The callback will trig a counter. at bloc 0 it will compare new array with previously  //
+// stored one. At bloc 1 it will store the array to be compared next                      //
+// The values that didn't changed are those where substracting equal 0, will set          //
+// corresponding output length to 0, behaviour of passifChange in Usine                   //
+////////////////////////////////////////////////////////////////////////////////////////////
+const SIZE = 16;          // nb of out wanted = size of array
+const PREFIX = 'OUT-';   // PEFIX for outputs names, folowed by Integer;
+var ArrayIn: Tparameter;
+var OUTPUTS: Array Of Tparameter;     // we will use an array of Tparameters, to allow N creations easily
+var i,l,count: integer;               // we declare the variable we will use and their type
+var valtmp:    single;
+var ArrayLast: Array of single;       // ArrayLast will be used to store array to check wich values changed on new in
+                                      // chg.
+
+PROCEDURE INIT;
+BEGIN
+
+  ArrayIn :=CreateParam('ArrayIn',PtArray); 
+  SetIsOutput(ArrayIn,False);
+  setMin(arrayIn,0);setMax(ArrayIn,127);
+
+  SetArrayLength(OUTPUTS,SIZE);       // we set the arraylength to create N outputs of size defined by constant on top
+                                      // of script.
+   for i:=0 to SIZE -1 do begin
+     OUTPUTS[i]:= CreateParam(PREFIX+IntToStr(i),PtDataField); 
+     SetIsInput(OUTPUTS[i],false);
+   end;   // we create the outputs, names with the prefix followed by their corresponding nb.
+
+   setArrayLength(ArrayLast,SIZE);   //we set the memory array the same size
+   setdontsave(arrayIn,false);       // by doing this the arrayin can be saved to Pm or on quiting the patch
+END;//Init
+
+PROCEDURE Callback(N:integer); 
+BEGIN  
+   if (n=arrayIn) then begin
+       l:= getlength(ArrayIn);
+       count:=-1;                 // if detected arrayin chg, we trig the counter for process to start.
+     end;
+END;//callback
+
+PROCEDURE PROCESS;
+BEGIN
+
+   if count >= -1 
+   then begin                    //start counting when callback has set count to -1
+   count:=count+1;               // -1+1=0 so at first bloc count is 0
+   end;
+
+   if count = 0 
+   then begin        // at first bloc we compare all values of new array with previous one.
+     for i:=0 to l-1 
+     do begin
+       if ArrayLast[i]-getDataArrayValue(ArrayIn,i)<>0 
+       then begin   // if there is a difference that mean
+           valtmp:= getDataArrayValue(ArrayIn,i);                   //this value has changed
+           setLength(OUTPUTS[i],1);                         // we make a size 1 to activate data pass
+           setValue(OUTPUTS[i],valtmp);                    // and set the value with discovered one
+       end
+       else begin                                 // otherwise if no differences
+          setLength(OUTPUTS[i],0);              // we setLength of 0 = don't pass.
+       end;
+     end;
+   end;
+   if count = 1 
+   then begin                // on next bloc we store the array to internal memory for next compare.
+       for i:=0 to L-1 
+       do begin
+           ArrayLast[i]:=getdataArrayValue(ArrayIn,i);
+           setLength(OUTPUTS[i],0);                // and make no values pass anymore.
+       end;
+       count:=-2;                                      // and stop the counter as we reset it to -2
+   end;
+
+end;

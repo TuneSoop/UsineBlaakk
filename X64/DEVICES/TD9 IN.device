@@ -1,0 +1,140 @@
+[INFO]
+thumbnail image=89504E470D0A1A0A0000000D49484452000000BE000000100806000000A862C503000000017352474200AECE1CE90000000467414D410000B18F0BFC6105000001AA494441546843EDDAD14EC2301805E07F74B209A28168A257FA08BEFF0B69A281300437B63239A51D2301D291382E76BE84941632B838EDFE1682D7F7B752883AA6675BA24E61F0A9932E2E752637638954647B8756FA5796C5529EA2473BB297E94CA6F9CCF644A25E2493FED8F644BEB26F29CAC2F6F606E1401EC27B59140BF9D95EDB7DFEBC486455ACCC7BDCB5F0F9F37C6EC6888EB978C547783FD24FF380A2D455BF1E3A04DD8D23D4082B420B61105641C5EB0835260BC67D61321035D56AA983951CE146F8B13AF755DF8CE7656EDA743B49203E712739E52E1CDA67447E5AAFF1F3CDAE8C89556CDA635483151F46E1A8D15D82A8F5E0EB6D49E4ACF5DAB471B05BE1DD1D4035F85AB883C090AB3E35D07AF0EB50FA4CD73353FABCC4CFD5046802E511F61703752BAAA7EC28D179AD075F0587E1CC36FBCDAF3BEDD1B231ADAF244F4CCB8D2EF96A3FF876554E756ADA3A6C78411F39CE3C079307A74744BE5A0F3E5665841461C58614258E3BDE741B5E9CD33795D85A9FC8C7BF07DFD5EFEE51FF01AB7EBC89D750A7E3ACFF12B8167E0F20F2C13FA951275DF55487E85A187CEA20913F58BEB3406684705C0000000049454E44AE426082
+
+[PA-]
+PATCHTYPE=1
+VERSION=86
+USINE VERSION=Usine 3.0.165-1 Win64
+FNAM=Y:\PORTABLE\Usine Hollyhock Win64 3.0.165-1\Config\Default Devices\TD9 IN.device
+ORIGINDEVICE=iPAD
+NBPG=3
+OFFSETX=-11
+OFFSETY=-101
+UID=8218861638614327125
+ID0=330
+L0=62
+T0=276
+ID1=2
+L1=300
+T1=300
+ID2=2
+L2=300
+T2=350
+C0=0000040001000000
+CSRCNAME0=IN-4
+CTARGNAME0=AUDIO OUT1
+C1=0000050002000000
+CSRCNAME1=IN-5
+CTARGNAME1=AUDIO OUT2
+NBCO=2
+
+[PA-PASE]
+enabled=0
+receive linear timecode (LTC)=0
+name=TD9 IN
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+zoom scale=1
+transparent=0
+background color=4280364577
+hilited color=4285843576
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4283086927
+border width=0
+round size=0
+show caption=1
+caption font color=g0
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=16
+header color=4280639016
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=70
+WidthBeforeMinimize=110
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[PA-0]
+COLLAPS=0
+
+[PA-1]
+UID=5792314410037830593
+COLLAPS=0
+
+[PA-2]
+UID=3830136838260942033
+COLLAPS=0
+
+[PA-CPSE]
+enabled=0
+receive linear timecode (LTC)=0
+name=TD9 IN
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+zoom scale=1
+transparent=0
+background color=4280364577
+hilited color=4285843576
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=4283086927
+border width=0
+round size=0
+show caption=1
+caption font color=g0
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=16
+header color=4280639016
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=70
+WidthBeforeMinimize=110
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[PA-CPTOOLBARTBENABLESE]
+active mode=0
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0

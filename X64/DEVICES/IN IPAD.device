@@ -1,0 +1,276 @@
+[INFO]
+thumbnail image=89504E470D0A1A0A0000000D49484452000000BE000000110806000000633E16A6000000017352474200AECE1CE90000000467414D410000B18F0BFC6105000001AA494441546843EDDAE96AC2601085E149DDC50D04AFC5FBBF1C411177A3D2F27E646C08B15A934069CEF3270B266DE1CC64BED8683E9F7F9A48CD84E02F168BE450E4FF9BCD66EF07BFDD6EDB6432B1DD6E6787C3C146A39175BB5DDB6EB7763C1EC367FCDC6AB5B2EBF51ACEB9E9741AB6CBE5D27ABD9E0D87C3709C96BECE7F1EB2BF6FBFDFB7C160901C7D53414B1E82FF91EC97262FC0AFA26808AB07763C1E872D9ACD66B267A150F2ACD7EBFBF5E7F339FC8122794A0F3EE8C0459D4E276B341AF7C01376C27CBBDD42F77FC69F3A8F8A44EAADF4E0134CC68E74872E8AA05304711CDBE572B14EA7F3F4FE7C16AD562B6C45D24A0F3EF33E8A767DD6061411333EFB20F43C09F04AD71779A4F4E0134E4612C21A455172F635AC0F98CB7D3667E10BEEC53D29023A3905A14E2E455432E3EFF7FBB06524F98DF4E2D617B83EA3732F2F0AC69E67E38E3F11284491AC4A824F67F691A4280F30AF36BD20787B839FC61D2F185FE48AA455127C6C369B64EF7D74743ABB8F39CE17AED93736BCE7F7A702D7F95343244BDFDC4AEDD0182BEBF8227F99822FB5A4E04B2D29F8524BFA7F7CA921B32F0A07B8D104F47A950000000049454E44AE426082
+
+[PA-]
+PATCHTYPE=2
+VERSION=86
+USINE VERSION=Usine 3.0.165-1 Win64
+FNAM=Y:\PORTABLE\Usine Hollyhock Win64 3.0.165-1\Config\Default Devices\IN IPAD.device
+ORIGINDEVICE=IN IPAD
+NBPG=3
+OFFSETX=-45
+OFFSETY=-7
+UID=9196719080654710909
+ID0=5
+L0=118
+T0=129
+ID1=22
+L1=430
+T1=189
+ID2=68
+L2=172
+T2=312
+C0=0000000001000000
+C0SELX=2
+CSRCNAME0=MIDI IN1
+CTARGNAME0=MIDI OUT1
+C1=00000B0001000200
+CSRCNAME1=SYSEX
+CTARGNAME1=SYSEX
+C2=0200010001000100
+CSRCNAME2=LIST 1
+CTARGNAME2=CHANNEL
+NBCO=3
+
+[PA-PASE]
+enabled=0
+send MIDI to lan=0
+receive midi clock=0
+receive midi timecode (MTC)=0
+name=IN IPAD
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+zoom scale=1
+transparent=0
+background color=g0
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=g0
+border width=1
+round size=0
+show caption=1
+caption font color=g0
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=1
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=g0
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=63
+WidthBeforeMinimize=167
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[PA-0]
+UID=1400181393378325336
+Vmsg=128
+Vcode1=4
+Vcode2=0
+INDEXmode=15
+INDEXfilter=0
+Vunpack=0
+COLLAPS=0
+
+[PA-1]
+UID=7638820718103049939
+INDEXchan=0
+COLLAPS=0
+
+[PA-2]
+UID=6101976081226348521
+saved in preset=1
+can be randomized=1
+can be reset=1
+edition="no change","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16"
+INDEXvisible=1
+INDEXlist=0
+Tcaption=channel
+Ttext=no change
+Vdefault val=0
+Vnum elements=17
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.50663161277771
+Vmouse y=0
+Vmouse wheel=0
+Vallow drop=0
+COLLAPS=0
+LIST="no change","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16"
+
+[PA-2listSE]
+UID=3981318820432001173
+also visible in IB=0
+edition enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+zoom scale=1
+left=3
+top=24
+width=161
+height=14
+resize grip enabled=1
+IB width=10000
+IB height=10000
+location left=10000
+location top=10000
+location width=10000
+location height=10000
+memo minimized in IB=0
+memo minimized=0
+floating x=0
+floating y=0
+floating content parent X=1
+floating content parent Y=1
+resizable left=0
+resizable right=0
+resizable top=0
+resizable bottom=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=4280295456
+hilited color=g0
+fit size=1
+show border=1
+border color=4285098345
+border width=1
+round size=0
+show caption=1
+caption font color=4288848546
+caption font size factor=0.899999976158142
+caption align=1
+caption V align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show value=1
+show symbol=0
+show value and symbol on click=0
+display array values=0
+value font color=4288848546
+value font size factor=0.899999976158142
+value font name=Arial
+value font bold=0
+value align=2
+value V align=0
+show scroller=1
+scroller color=4286743170
+scroller width=10
+items font color=4288848546
+select color=g0
+hide filname path=0
+hide filename ext=0
+active mode=0
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+mouse over=0
+
+[PA-2mouse dwnSE]
+UID=5633258549945383450
+
+[PA-2dbl clickSE]
+UID=1865216634448067134
+
+[PA-2mouse xSE]
+UID=7734260416895597152
+
+[PA-2mouse ySE]
+UID=953710830617967230
+
+[PA-2mouse wheelSE]
+UID=1103791442652641951
+
+[PA-CPSE]
+enabled=0
+send MIDI to lan=0
+receive midi clock=0
+receive midi timecode (MTC)=0
+name=IN IPAD
+fast graphic render=0
+also visible in IB=0
+on top=0
+opacity=1
+zoom scale=1
+transparent=0
+background color=g0
+hilited color=4290699515
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=g0
+border width=1
+round size=0
+show caption=1
+caption font color=g0
+caption font size factor=0.800000011920929
+caption align=1
+caption V align=1
+caption font name=Arial
+caption font bold=1
+caption font italic=0
+caption font underline=0
+show header=1
+header height=15
+header color=g0
+show toolbar=1
+toolbar size=13
+minimized=1
+HeightBeforeMinimize=63
+WidthBeforeMinimize=167
+snap to grid=1
+grid size=2
+auto resize=1
+auto resize margin=2
+
+[PA-CPTOOLBARTBENABLESE]
+active mode=0
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+time code ON=0
+time code OFF=0
+osc tag order=1
+osc mode=0

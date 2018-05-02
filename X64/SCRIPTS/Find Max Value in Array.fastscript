@@ -1,0 +1,35 @@
+////////////////////////////////////////////////////
+// find max value in array and return value and pos, module equivalent
+// will search for the first occurence of a value and output is position
+/////////////////////////////////////////////////////
+var Arr, Pos, MaxVAlue : Tparameter;
+
+Procedure Init;
+BEGIN
+  Arr := CreateParam('Arr',PtArray);           
+  setisOutput(Arr,false);
+  Pos := CreateParam('pos',PtDataField);       
+  setisInput(Pos,false);
+  Maxvalue := CreateParam('max value',PtDataField); 
+  setisInput(maxvalue,false);
+END;
+
+Procedure Callback (n: integer);
+var i, maxPos : integer;
+var currVal, maxVal : single;
+begin
+
+  if (n=Arr) then begin
+   maxVal := -1; // assuming the lowest value in the array is above -1
+   maxPos := -1;
+   for i := 0 to GetLength(arr)-1 do begin  // scan the array elmts
+      currVal := GetDataArrayValue(arr, i); // store the scanned elmt as Currentval variable
+      if currVal > maxVal then begin        //if value is >-1 it's become the new max compare value
+         maxVal := currVal;
+         maxPos := i;                       // scanned index correspond to max position
+      end;
+   setvalue(maxvalue,maxval);      // we set our parameters with results variables
+   setvalue(pos,maxPos);
+   end;
+ end;
+END;
